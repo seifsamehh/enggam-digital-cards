@@ -12,16 +12,6 @@ import "./globals.css";
 const bespoke = localFont({
   src: [
     {
-      path: "../../public/fonts/Bespoke/BespokeSerif-Regular.ttf",
-      weight: "400",
-      style: "normal",
-    },
-    {
-      path: "../../public/fonts/Bespoke/BespokeSerif-Regular.woff",
-      weight: "400",
-      style: "normal",
-    },
-    {
       path: "../../public/fonts/Bespoke/BespokeSerif-Regular.woff2",
       weight: "400",
       style: "normal",
@@ -42,7 +32,7 @@ export const metadata: Metadata = {
   description:
     "Find a wide selection of gift, game, payment, and software cards on Enggam, the leading digital cards e-commerce website.",
   generator: "Next.js",
-  metadataBase: new URL("https://www.enggam.com/"),
+  metadataBase: new URL("https://enggam-digital-cards.vercel.app/"),
   alternates: {
     canonical: "/",
     languages: {
@@ -153,7 +143,7 @@ export const metadata: Metadata = {
     title: "Enggam - Digital Cards E-commerce Website",
     description:
       "Find a wide selection of gift, game, payment, and software cards on Enggam, the leading digital cards e-commerce website.",
-    url: "https://www.enggam.com/",
+    url: "https://enggam-digital-cards.vercel.app/",
     siteName: "Enggam - Digital Cards E-commerce Website",
     images: [
       {
@@ -177,7 +167,7 @@ export const metadata: Metadata = {
   verification: {
     google: "google",
     other: {
-      me: ["seiffsameh00@gmail.com", "https://seif-sameh-mern.vercel.app/"],
+      me: ["seiffsameh00@gmail.com", "https://seif-eldin-website.vercel.app/"],
     },
   },
   robots: {
@@ -201,7 +191,7 @@ const website: WebsiteData = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "Enggam",
-  url: "https://www.enggam.com/",
+  url: "https://enggam-digital-cards.vercel.app/",
   logo: "https://i.imgur.com/3xFPJUP.jpg",
   favicon: "https://i.imgur.com/3xFPJUP.jpg",
   address: {
