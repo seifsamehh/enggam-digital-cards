@@ -42,7 +42,7 @@ const ConsentCookies = () => {
 
   return (
     !consentAccepted && (
-      <div className="cookie-banner flex justify-between items-center px-2 min-[290px]:py-2 md:py-0 fixed bottom-0 left-0 right-0 bg-destructive text-destructive-foreground z-50 min-[290px]:h-full md:h-24 w-screen">
+      <div className="cookie-banner flex justify-between items-center min-[290px]:flex-wrap md:flex-nowrap px-2 min-[290px]:py-2 md:py-0 fixed bottom-0 left-0 right-0 bg-destructive text-destructive-foreground z-50 min-[290px]:h-40 md:h-24 w-screen">
         <p className={`${tanker.className} text-xl`}>
           We use cookies to enhance your experience. By continuing to visit this
           site you agree to our use of cookies.{" "}

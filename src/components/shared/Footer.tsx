@@ -22,14 +22,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 gap-8 sm:grid-cols-2">
           <div>
             <p>
-              <span className="text-xs uppercase tracking-wide text-gray-500">
+              <span className="text-xs uppercase tracking-wide text-gray-500 dark:text-accent-foreground">
                 {" "}
                 Call us{" "}
               </span>
 
               <Link
                 href="tel:+201060865699"
-                className="block text-2xl font-medium text-gray-900 hover:opacity-75 sm:text-3xl"
+                className="block text-2xl font-medium text-gray-900 dark:text-white hover:opacity-75 sm:text-3xl"
               >
                 01060865699
               </Link>
@@ -41,7 +41,7 @@ export default function Footer() {
                   href="/"
                   rel="noreferrer"
                   target="_blank"
-                  className="text-gray-700 transition hover:opacity-75"
+                  className="text-gray-700 dark:text-white transition hover:opacity-75"
                 >
                   <span className="sr-only">Facebook</span>
 
@@ -65,7 +65,7 @@ export default function Footer() {
                   href="/"
                   rel="noreferrer"
                   target="_blank"
-                  className="text-gray-700 transition hover:opacity-75"
+                  className="text-gray-700 dark:text-white transition hover:opacity-75"
                 >
                   <span className="sr-only">Instagram</span>
 
@@ -89,7 +89,7 @@ export default function Footer() {
                   href="/"
                   rel="noreferrer"
                   target="_blank"
-                  className="text-gray-700 transition hover:opacity-75"
+                  className="text-gray-700 dark:text-white transition hover:opacity-75"
                 >
                   <span className="sr-only">Twitter</span>
 
@@ -109,7 +109,7 @@ export default function Footer() {
                   href="/"
                   rel="noreferrer"
                   target="_blank"
-                  className="text-gray-700 transition hover:opacity-75"
+                  className="text-gray-700 dark:text-white transition hover:opacity-75"
                 >
                   <span className="sr-only">GitHub</span>
 
@@ -133,7 +133,7 @@ export default function Footer() {
                   href="/"
                   rel="noreferrer"
                   target="_blank"
-                  className="text-gray-700 transition hover:opacity-75"
+                  className="text-gray-700 dark:text-white transition hover:opacity-75"
                 >
                   <span className="sr-only">Dribbble</span>
 
@@ -156,7 +156,9 @@ export default function Footer() {
 
           <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
             <div>
-              <p className="font-medium text-gray-900">Services</p>
+              <p className="font-medium text-gray-900 dark:text-accent-foreground">
+                Services
+              </p>
 
               <ul className="mt-6 space-y-4 text-sm">
                 <li>
@@ -164,7 +166,7 @@ export default function Footer() {
                     href={"/home/gift-cards"}
                     title="Gift Cards"
                     aria-label="Gift Cards"
-                    className="text-gray-700 transition hover:opacity-75"
+                    className="text-gray-700 dark:text-white transition hover:opacity-75"
                   >
                     Gift Cards
                   </Link>
@@ -175,7 +177,7 @@ export default function Footer() {
                     href={"/home/game-cards"}
                     title="Game Cards"
                     aria-label="Game Cards"
-                    className="text-gray-700 transition hover:opacity-75"
+                    className="text-gray-700 dark:text-white transition hover:opacity-75"
                   >
                     Game Cards
                   </Link>
@@ -186,7 +188,7 @@ export default function Footer() {
                     href={"/home/payment-cards"}
                     title="Payment Cards"
                     aria-label="Payment Cards"
-                    className="text-gray-700 transition hover:opacity-75"
+                    className="text-gray-700 dark:text-white transition hover:opacity-75"
                   >
                     Payment Cards
                   </Link>
@@ -197,7 +199,7 @@ export default function Footer() {
                     href={"/home/software-cards"}
                     title="software Cards"
                     aria-label="software Cards"
-                    className="text-gray-700 transition hover:opacity-75"
+                    className="text-gray-700 dark:text-white transition hover:opacity-75"
                   >
                     Software Cards
                   </Link>
@@ -206,7 +208,9 @@ export default function Footer() {
             </div>
 
             <div>
-              <p className="font-medium text-gray-900">Company</p>
+              <p className="font-medium text-gray-900 dark:text-accent-foreground">
+                Company
+              </p>
 
               <ul className="mt-6 space-y-4 text-sm">
                 <li>
@@ -214,7 +218,7 @@ export default function Footer() {
                     href={"/about-us"}
                     title="About us"
                     aria-label="About us"
-                    className="text-gray-700 transition hover:opacity-75"
+                    className="text-gray-700 dark:text-white transition hover:opacity-75"
                   >
                     About
                   </Link>
@@ -226,7 +230,7 @@ export default function Footer() {
                     target="_blank"
                     title="Feedback"
                     aria-label="Feedback"
-                    className="text-gray-700 transition hover:opacity-75"
+                    className="text-gray-700 dark:text-white transition hover:opacity-75"
                   >
                     Feedback
                   </Link>
@@ -242,7 +246,7 @@ export default function Footer() {
               <li>
                 <Link
                   href="/"
-                  className="text-gray-500 transition hover:opacity-75"
+                  className="text-gray-500 dark:text-white transition hover:opacity-75"
                 >
                   Terms & Conditions
                 </Link>
@@ -251,14 +255,14 @@ export default function Footer() {
               <li>
                 <Link
                   href="/"
-                  className="text-gray-500 transition hover:opacity-75"
+                  className="text-gray-500 dark:text-white transition hover:opacity-75"
                 >
                   Privacy Policy
                 </Link>
               </li>
             </ul>
 
-            <p className="mt-8 text-xs text-gray-500 sm:mt-0">
+            <p className="mt-8 text-xs text-gray-500 dark:text-white sm:mt-0">
               &copy; {currentYear}. Enggam. All rights reserved.
             </p>
           </div>

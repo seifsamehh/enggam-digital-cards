@@ -16,7 +16,7 @@ const tanker = localFont({
 
 function Categories() {
   return (
-    <section className="categories">
+    <section className="categories min-[290px]:py-2 md:py-0">
       <h2
         className={`${tanker.className} text-center min-[290px]:text-6xl md:text-8xl`}
       >

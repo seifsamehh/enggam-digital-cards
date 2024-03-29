@@ -9,16 +9,6 @@ import localFont from "next/font/local";
 const tanker = localFont({
   src: [
     {
-      path: "../../../public/fonts/Tanker/Tanker-Regular.ttf",
-      weight: "400",
-      style: "normal",
-    },
-    {
-      path: "../../../public/fonts/Tanker/Tanker-Regular.woff",
-      weight: "400",
-      style: "normal",
-    },
-    {
       path: "../../../public/fonts/Tanker/Tanker-Regular.woff2",
       weight: "400",
       style: "normal",
@@ -38,7 +28,7 @@ export function LampDemo() {
           duration: 0.8,
           ease: "easeInOut",
         }}
-        className={`${tanker.className} mt-8 bg-gradient-to-br from-background to-slate-400 py-4 bg-clip-text text-center text-8xl tracking-tight text-transparent`}
+        className={`${tanker.className} mt-8 bg-gradient-to-br from-background dark:from-white to-slate-400 py-4 bg-clip-text text-center text-8xl tracking-tight text-transparent`}
       >
         Who we are?
       </motion.h3>
