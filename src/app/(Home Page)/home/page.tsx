@@ -1,3 +1,5 @@
+import HeaderHome from "@/components/shared/HeaderHome";
+import SaleBanner from "@/components/shared/SaleBanner";
 import localFont from "next/font/local";
 
 // Tanker font
@@ -14,10 +16,14 @@ const tanker = localFont({
 
 export default function page() {
   return (
-    <main className="home-page min-h-screen flex justify-center items-center">
-      <h1 className={`${tanker.className} min-[290px]:text-4xl md:text-8xl`}>
-        Under Construction
-      </h1>
-    </main>
+    <>
+      <SaleBanner />
+      <HeaderHome />
+      <main className="home-page min-h-screen flex justify-center items-center">
+        <h1 className={`${tanker.className} min-[290px]:text-4xl md:text-8xl`}>
+          Under Construction
+        </h1>
+      </main>
+    </>
   );
 }
