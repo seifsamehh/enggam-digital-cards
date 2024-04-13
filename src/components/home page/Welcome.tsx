@@ -21,16 +21,16 @@ const Welcome = async () => {
 
   const userName = await getUser().then((user) => user?.given_name);
   return (
-    <section className="welcome relative overflow-hidden w-full">
+    <section className="welcome relative overflow-hidden w-full min-h-screen">
       <div className="pb-80 pt-16 sm:pb-40 sm:pt-24 lg:pb-48 lg:pt-40">
         <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
           <div className="sm:max-w-lg">
             <h1
-              className={`${tanker.className} text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl`}
+              className={`${tanker.className} text-4xl font-bold tracking-tight text-gray-900 dark:text-foreground sm:text-6xl`}
             >
               Welcome, {userName}
             </h1>
-            <p className="mt-4 text-xl text-muted-foreground">
+            <p className="mt-4 text-xl text-muted-foreground dark:text-white">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               Perspiciatis ratione doloribus ad culpa itaque dolor nobis
               similique sunt saepe officia aut doloremque obcaecati, voluptates
@@ -150,6 +150,13 @@ const Welcome = async () => {
           </div>
         </div>
       </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path
+          fill="#016fd0"
+          fillOpacity="1"
+          d="M0,64L48,101.3C96,139,192,213,288,256C384,299,480,309,576,266.7C672,224,768,128,864,85.3C960,43,1056,53,1152,53.3C1248,53,1344,43,1392,37.3L1440,32L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
+        ></path>
+      </svg>
     </section>
   );
 };

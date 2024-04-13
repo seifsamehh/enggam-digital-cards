@@ -7,8 +7,8 @@
     --background: #f6f4f6;
     --foreground: #016fd0;
 
-    --card: #6e090c;
-    --card-foreground: #f6f4f6;
+    --card: #f6f4f6;
+    --card-foreground: #016fd0;
 
     --popover: #016fd0;
     --popover-foreground: #f6f4f6;
@@ -133,4 +133,17 @@ button {
     font-size: 2.5rem;
   }
 }
+
+/* slider */
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 /* end global components */
