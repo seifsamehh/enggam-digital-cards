@@ -1,33 +1,54 @@
+"use client";
+
+import { useKindeBrowserClient } from "@kinde-oss/kinde-auth-nextjs";
+
 import Image from "next/image";
 import Link from "next/link";
 import { LogoutLink } from "@kinde-oss/kinde-auth-nextjs/components";
-import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
+
 import { Button } from "../ui/button";
+import {
+  Sheet,
+  SheetClose,
+  SheetContent,
+  SheetDescription,
+  SheetFooter,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from "@/components/ui/sheet";
 import { ModeToggle } from "@/lib/toogle/ModeToogle";
 import { Avatar, AvatarFallback, AvatarImage } from "../ui/avatar";
 import DrawerDemoHome from "@/lib/drawer/DrawerDemoHome";
-import { ShoppingBag } from "lucide-react";
+import { ShoppingBag, Wallet } from "lucide-react";
+import CartProducts from "./CartProducts";
 
-const HeaderHome = async () => {
-  const { getUser } = getKindeServerSession();
+const HeaderHome = () => {
+  // user
+  const { user } = useKindeBrowserClient();
 
-  const userImg = await getUser().then((user) => user?.picture);
-  const userName = await getUser().then((user) => user?.given_name);
+  const userImg =
+    user?.picture ||
+    "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png";
+  const userName = user?.given_name || "MR/MRS";
+
   return (
     <header className="bg-foreground text-background min-[290px]:px-1 md:px-4 flex justify-between items-center">
       <div className="left flex justify-center items-center">
-        <Image
-          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709486629/Enggam/enggam-white_guxlav.png"
-          alt="Enggam"
-          width={150}
-          height={150}
-          title="Enggam"
-          aria-label="Enggam"
-          priority
-        />
+        <Link href={"/home"} title="Enggam" aria-label="Enggam">
+          <Image
+            src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709486629/Enggam/enggam-white_guxlav.png"
+            alt="Enggam"
+            width={150}
+            height={150}
+            title="Enggam"
+            aria-label="Enggam"
+            priority
+          />
+        </Link>
         <nav className="md:flex items-center gap-2 min-[290px]:hidden">
           <Link
-            href={"/about-us"}
+            href={"/home/about-us"}
             title="About us"
             aria-label="About us"
             className="text-lg"
@@ -90,10 +111,42 @@ const HeaderHome = async () => {
         <div className="mode">
           <ModeToggle />
         </div>
+        <div className="wallet">
+          <Link href={"/home/wallet"} title="Wallet" aria-label="Wallet">
+            <Button size="icon" variant={"outline"}>
+              <Wallet color="#016fd0" />
+            </Button>
+          </Link>
+        </div>
         <div className="cart">
-          <Button size="icon" variant={"outline"}>
-            <ShoppingBag color="#016fd0" />
-          </Button>
+          <Sheet>
+            <SheetTrigger asChild>
+              <Button size="icon" variant={"outline"}>
+                <ShoppingBag color="#016fd0" />
+              </Button>
+            </SheetTrigger>
+            <SheetContent>
+              <SheetHeader>
+                <SheetTitle>Your Cart</SheetTitle>
+                <SheetDescription>
+                  Check products here. Click checkout when you are done.
+                </SheetDescription>
+              </SheetHeader>
+              {/* sheet content */}
+              <CartProducts />
+              <SheetFooter>
+                <SheetClose asChild>
+                  <Link
+                    href={"/home/checkout"}
+                    title="Checkout"
+                    aria-label="Checkout"
+                  >
+                    <Button>Checkout</Button>
+                  </Link>
+                </SheetClose>
+              </SheetFooter>
+            </SheetContent>
+          </Sheet>
         </div>
         <div className="drawer md:hidden">
           <DrawerDemoHome />

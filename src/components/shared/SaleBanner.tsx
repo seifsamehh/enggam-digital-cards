@@ -2,13 +2,21 @@
 
 import { useState } from "react";
 import { X } from "lucide-react";
-import Link from "next/link";
+import { Button } from "../ui/button";
+import { gsap } from "gsap";
+import { ScrollToPlugin } from "gsap/ScrollToPlugin";
+
+gsap.registerPlugin(ScrollToPlugin);
 
 const SaleBanner = () => {
   const [display, setDisplay] = useState("flex");
 
   const handleDismiss = () => {
     setDisplay("none");
+  };
+
+  const handleClick = () => {
+    gsap.to(window, { duration: 1, scrollTo: { y: "#seller" } });
   };
   return (
     <section
@@ -51,12 +59,12 @@ const SaleBanner = () => {
           </svg>
           Join us in Denver from June 7 – 9 to see what’s coming next.
         </p>
-        <Link
-          href="/home"
+        <Button
           className="flex-none rounded-full bg-gray-900 px-3.5 py-1 text-sm font-semibold text-white shadow-sm hover:bg-gray-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-900"
+          onClick={handleClick}
         >
           Shopping now <span aria-hidden="true">&rarr;</span>
-        </Link>
+        </Button>
       </div>
       <div className="flex flex-1 justify-end">
         <button

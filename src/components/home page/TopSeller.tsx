@@ -16,7 +16,7 @@ const tanker = localFont({
 
 const TopSeller = () => {
   return (
-    <section className="top-seller">
+    <section className="top-seller" id="seller">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
           fill="#016fd0"

@@ -3,6 +3,7 @@ import { WebsiteData } from "@/interfaces/websiteData";
 import type { Metadata, Viewport } from "next";
 import { Parallax } from "@/hooks/useParallaxAnimation";
 import { ThemeProvider } from "@/config/theme-provider";
+import { Toaster } from "@/components/ui/sonner";
 import Preloader from "@/components/shared/Preloader";
 import ConsentCookies from "@/components/shared/ConsentCookies";
 import localFont from "next/font/local";
@@ -216,104 +217,6 @@ const website: WebsiteData = {
     facebook: "https://www.facebook.com/profile.php?id=100095357415380",
     instagram: "https://www.instagram.com/enggam.co/",
   },
-  products: [
-    {
-      name: "iTunes 50 CNY China",
-      price: 9.0,
-      availability: "In Stock",
-      brand: "Itunes",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "Google play AUD20 Australia (AU)",
-      price: 15.96,
-      availability: "In Stock",
-      brand: "Google Play",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "Netflix UAE – AED 100",
-      price: 30.9,
-      availability: "In Stock",
-      brand: "Netflix",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "$5 Razer Gold Rixty (USA)",
-      price: 5.04,
-      availability: "In Stock",
-      brand: "Razer Gold",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "PUBG 300+25 UC (Global) Code",
-      price: 4.25,
-      availability: "In Stock",
-      brand: "Pubg Mobile",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "Free Fire 1080 + 108 Diamonds Pins (Garena)",
-      price: 9.99,
-      availability: "In Stock",
-      brand: "Free Fire",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "£10 Roblox (United Kingdom)",
-      price: 12.87,
-      availability: "In Stock",
-      brand: "Roblox",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "Fortnite 2800 V-Bucks Card",
-      price: 28.84,
-      availability: "In Stock",
-      brand: "Fortnite",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "Neosurf Prepaid Card 5 EURO",
-      price: 7.21,
-      availability: "In Stock",
-      brand: "Neosurf",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "OBUCKS CARD USD 10",
-      price: 10.19,
-      availability: "In Stock",
-      brand: "Openbucks",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "AstroPay Card 20EGP",
-      price: 2.06,
-      availability: "In Stock",
-      brand: "AstroPay",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-    {
-      name: "500CAD Flexepin (CA)",
-      price: 462.47,
-      availability: "In Stock",
-      brand: "Flexepin",
-      image:
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    },
-  ],
 };
 
 export default function RootLayout({
@@ -335,6 +238,7 @@ export default function RootLayout({
             <ConsentCookies />
           </Parallax>
         </ThemeProvider>
+        <Toaster />
         <Script
           id="structure-data"
           type="application/ld+json"

@@ -12,15 +12,17 @@ export default function Header() {
   return (
     <header className="bg-foreground text-background min-[290px]:px-1 md:px-4 flex justify-between items-center">
       <div className="left flex justify-center items-center">
-        <Image
-          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709486629/Enggam/enggam-white_guxlav.png"
-          alt="Enggam"
-          width={150}
-          height={150}
-          title="Enggam"
-          aria-label="Enggam"
-          priority
-        />
+        <Link href={"/"} title="Enggam" aria-label="Enggam">
+          <Image
+            src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709486629/Enggam/enggam-white_guxlav.png"
+            alt="Enggam"
+            width={150}
+            height={150}
+            title="Enggam"
+            aria-label="Enggam"
+            priority
+          />
+        </Link>
         <nav className="md:flex items-center gap-2 min-[290px]:hidden">
           <Link
             href={"/about-us"}

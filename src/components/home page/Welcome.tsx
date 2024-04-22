@@ -1,8 +1,8 @@
 import Image from "next/image";
+import GoShoppingBtn from "@/actions/GoShoppingBtn";
 import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 
 import localFont from "next/font/local";
-import Link from "next/link";
 
 // Tanker font
 const tanker = localFont({
@@ -30,12 +30,13 @@ const Welcome = async () => {
             >
               Welcome, {userName}
             </h1>
-            <p className="mt-4 text-xl text-muted-foreground dark:text-white">
+            <p className="my-4 text-xl text-muted-foreground dark:text-white">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               Perspiciatis ratione doloribus ad culpa itaque dolor nobis
               similique sunt saepe officia aut doloremque obcaecati, voluptates
               dolores blanditiis temporibus exercitationem veniam officiis?
             </p>
+            <GoShoppingBtn />
           </div>
           <div>
             <div className="mt-10">
@@ -139,13 +140,6 @@ const Welcome = async () => {
                   </div>
                 </div>
               </div>
-
-              <Link
-                href="/home"
-                className="inline-block rounded-md border border-transparent bg-destructive px-8 py-3 text-center font-medium text-destructive-foreground hover:bg-red-700"
-              >
-                Start Shopping
-              </Link>
             </div>
           </div>
         </div>
