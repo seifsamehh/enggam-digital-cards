@@ -32,7 +32,7 @@ const ProductDetails = () => {
   //  Get the product ID from the URL parameters
   const params = useParams<{ productId: string }>();
 
-  let product = null;
+  let product: Product | null = null;
   const allProducts = [...sellerProducts, ...saleProducts];
 
   // Loop through categories and add their products to allProducts
@@ -56,7 +56,23 @@ const ProductDetails = () => {
   }
 
   if (!product) {
-    return <div>Product not found!</div>;
+    return (
+      <section className="product-not-found min-h-screen flex justify-center items-center flex-col gap-6">
+        <Image
+          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1713816826/Enggam/No_data-bro_aptz1f.svg"
+          alt="not-found"
+          aria-label="not-found"
+          width={500}
+          height={500}
+          loading="lazy"
+          placeholder="blur"
+          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkEPtbDwACxQGUCODXZAAAAABJRU5ErkJggg=="
+        />
+        <h1 className={`${tanker.className} text-7xl`}>
+          Sorry this product not found
+        </h1>
+      </section>
+    );
   }
 
   const handleAddToCart = (product: Product) => {
