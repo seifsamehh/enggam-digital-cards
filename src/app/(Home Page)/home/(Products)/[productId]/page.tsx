@@ -127,7 +127,7 @@ const ProductDetails = () => {
               <Button
                 variant={"default"}
                 className="relative z-10 mt-4"
-                onClick={() => handleAddToCart(product)}
+                onClick={() => product && handleAddToCart(product)}
               >
                 Add to cart
               </Button>
