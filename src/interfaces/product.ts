@@ -6,4 +6,5 @@ export interface Product {
   image?: string;
   country?: string;
   discount?: number;
+  quantity: number;
 }

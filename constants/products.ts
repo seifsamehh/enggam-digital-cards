@@ -11,6 +11,7 @@ export const sellerProducts: Product[] = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam non minima, dolorum, enim debitis excepturi dolores placeat in provident hic pariatur natus tenetur reiciendis quaerat magnam suscipit, recusandae quidem animi?",
     price: 10,
     country: "Egypt",
+    quantity: 1,
   },
   {
     id: "2",
@@ -21,6 +22,7 @@ export const sellerProducts: Product[] = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam non minima, dolorum, enim debitis excepturi dolores placeat in provident hic pariatur natus tenetur reiciendis quaerat magnam suscipit, recusandae quidem animi?",
     price: 20,
     country: "USA",
+    quantity: 1,
   },
   {
     id: "3",
@@ -31,6 +33,7 @@ export const sellerProducts: Product[] = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam non minima, dolorum, enim debitis excepturi dolores placeat in provident hic pariatur natus tenetur reiciendis quaerat magnam suscipit, recusandae quidem animi?",
     price: 30,
     country: "UK",
+    quantity: 1,
   },
   {
     id: "4",
@@ -41,6 +44,7 @@ export const sellerProducts: Product[] = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam non minima, dolorum, enim debitis excepturi dolores placeat in provident hic pariatur natus tenetur reiciendis quaerat magnam suscipit, recusandae quidem animi?",
     price: 40,
     country: "GER",
+    quantity: 1,
   },
   {
     id: "5",
@@ -51,6 +55,7 @@ export const sellerProducts: Product[] = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam non minima, dolorum, enim debitis excepturi dolores placeat in provident hic pariatur natus tenetur reiciendis quaerat magnam suscipit, recusandae quidem animi?",
     price: 50,
     country: "AUS",
+    quantity: 1,
   },
   {
     id: "6",
@@ -61,6 +66,7 @@ export const sellerProducts: Product[] = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam non minima, dolorum, enim debitis excepturi dolores placeat in provident hic pariatur natus tenetur reiciendis quaerat magnam suscipit, recusandae quidem animi?",
     price: 60,
     country: "CAN",
+    quantity: 1,
   },
   // Add more product objects as needed
 ];
@@ -76,6 +82,7 @@ export const saleProducts: Product[] = [
     price: 8,
     country: "Egypt",
     discount: 20, // 20% discount
+    quantity: 1,
   },
   {
     id: "8",
@@ -87,6 +94,7 @@ export const saleProducts: Product[] = [
     price: 8,
     country: "Egypt",
     discount: 20, // 20% discount
+    quantity: 1,
   },
   {
     id: "9",
@@ -98,6 +106,7 @@ export const saleProducts: Product[] = [
     price: 8,
     country: "Egypt",
     discount: 20, // 20% discount
+    quantity: 1,
   },
   {
     id: "10",
@@ -109,6 +118,7 @@ export const saleProducts: Product[] = [
     price: 8,
     country: "Egypt",
     discount: 20, // 20% discount
+    quantity: 1,
   },
   {
     id: "11",
@@ -120,6 +130,7 @@ export const saleProducts: Product[] = [
     price: 8,
     country: "Egypt",
     discount: 20, // 20% discount
+    quantity: 1,
   },
   //... other sale products
 ];
@@ -144,6 +155,7 @@ export const categories: Category[] = [
             name: "Product 1",
             price: 10,
             country: "Egypt",
+            quantity: 1,
           },
           //... other products in subcategory 1
         ],

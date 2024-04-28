@@ -7,6 +7,7 @@ import localFont from "next/font/local";
 import { useState } from "react";
 import { Minus, Plus } from "lucide-react";
 import { WalletBalanceInputProps } from "@/interfaces/wallet";
+import Link from "next/link";
 
 // Tanker font
 const tanker = localFont({
@@ -25,7 +26,7 @@ const WalletBalanceInput: React.FC<WalletBalanceInputProps> = ({
   onChange,
 }) => {
   return (
-    <div className="field flex gap-4 mb-6">
+    <div className="field flex md:gap-4 mb-6">
       <Button
         variant={"destructive"}
         size={"icon"}
@@ -97,7 +98,9 @@ const Wallet: React.FC = () => {
           adipisci nostrum maiores.
         </p>
         <WalletBalanceInput value={balance} onChange={setBalance} />
-        <Button variant={"default"}>Checkout</Button>
+        <Link href={"/home/checkout"} title="checkout" aria-label="checkout">
+          <Button variant={"default"}>Checkout</Button>
+        </Link>
       </div>
     </div>
   );

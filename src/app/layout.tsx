@@ -8,6 +8,7 @@ import Preloader from "@/components/shared/Preloader";
 import ConsentCookies from "@/components/shared/ConsentCookies";
 import localFont from "next/font/local";
 import "./globals.css";
+import "../../public/fawrypay.css";
 
 // bespoke font
 const bespoke = localFont({
@@ -244,6 +245,11 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: sanitizedStructuredData }}
           defer
+        />
+        <Script
+          id="fawrypay"
+          type="text/javascript"
+          src="https://atfawry.fawrystaging.com/atfawry/plugin/assets/payments/js/fawrypay-payments.js"
         />
       </body>
     </html>
