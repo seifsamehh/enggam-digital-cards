@@ -56,7 +56,7 @@ const Checkout = () => {
       "770000019150" +
       merchantRefNum +
       customerProfileId +
-      "https://developer.fawrystaging.com" +
+      "https://enggam-digital-cards.vercel.app/home" +
       chargeItems.map((item) => item.itemId).join("") +
       chargeItems.map((item) => item.quantity).join("") +
       chargeItems.map((item) => item.price).join("") +
@@ -74,7 +74,7 @@ const Checkout = () => {
       customerProfileId: customerProfileId,
       paymentExpiry: "1631138400000",
       chargeItems: chargeItems,
-      returnUrl: "https://developer.fawrystaging.com",
+      returnUrl: "https://enggam-digital-cards.vercel.app/home",
       authCaptureModePayment: false,
       signature: signature,
     };
@@ -87,7 +87,6 @@ const Checkout = () => {
       mode: DISPLAY_MODE.POPUP, // Required mode
     };
     const chargeRequest = buildChargeRequest(products);
-    console.log(chargeRequest);
     FawryPay.checkout(chargeRequest, configuration);
   }
 
