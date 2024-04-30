@@ -46,14 +46,11 @@ const Checkout = () => {
     const chargeItems = products.map((product) => ({
       itemId: product.id,
       description: product.name,
-      price:
-        typeof product.price === "number" ? product.price.toFixed(1) : "0.00",
+      price: product.price.toFixed(2),
       imageUrl: product.image,
-      quantity:
-        typeof product.quantity === "number"
-          ? product.quantity.toFixed(1)
-          : "1.00",
+      quantity: product.quantity || 1,
     }));
+
     // Concatenate the elements for signature calculation
     const concatenatedString =
       "770000019150" +
@@ -90,6 +87,7 @@ const Checkout = () => {
       mode: DISPLAY_MODE.POPUP, // Required mode
     };
     const chargeRequest = buildChargeRequest(products);
+    console.log(chargeRequest);
     FawryPay.checkout(chargeRequest, configuration);
   }
 
