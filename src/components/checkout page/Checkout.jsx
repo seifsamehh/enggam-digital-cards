@@ -43,10 +43,11 @@ const Checkout = () => {
   // Function to build the charge request
   function buildChargeRequest(products) {
     const merchantRefNum = generateRandomId();
+    console.log("merchantRefNum", merchantRefNum);
     const chargeItems = products.map((product) => ({
       itemId: product.id,
       description: product.name,
-      price: product.price.toFixed(2),
+      price: (product.price * 47.08).toFixed(2),
       imageUrl: product.image,
       quantity: product.quantity || 1,
     }));
@@ -86,7 +87,29 @@ const Checkout = () => {
       mode: DISPLAY_MODE.POPUP, // Required mode
     };
     const chargeRequest = buildChargeRequest(products);
+
+    // Make the initial FawryPay checkout request
     FawryPay.checkout(chargeRequest, configuration);
+
+    // Make the additional request to check the payment status
+    const merchantCode = "770000019150";
+    const merchantRefNumber = chargeRequest.merchantRefNum;
+    const signature = chargeRequest.signature;
+
+    const statusUrl =
+      "https://atfawry.fawrystaging.com/ECommerceWeb/Fawry/payments/status/v2";
+    const queryParams = `merchantCode=${merchantCode}&merchantRefNumber=${merchantRefNumber}&signature=${signature}`;
+
+    try {
+      const response = await fetch(`${statusUrl}?${queryParams}`);
+      console.log(`${statusUrl}?${queryParams}`);
+      const data = await response.json();
+      // Handle the response data as needed
+      console.log(data);
+    } catch (error) {
+      // Handle any errors that occur during the request
+      console.error(error);
+    }
   }
 
   return (
