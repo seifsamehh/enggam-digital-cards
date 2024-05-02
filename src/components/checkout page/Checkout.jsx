@@ -41,8 +41,8 @@ const Checkout = () => {
   }
 
   // Function to build the charge request
+  const merchantRefNum = generateRandomId();
   function buildChargeRequest(products) {
-    const merchantRefNum = generateRandomId();
     console.log("merchantRefNum", merchantRefNum);
     const chargeItems = products.map((product) => ({
       itemId: product.id,
@@ -80,6 +80,15 @@ const Checkout = () => {
     };
   }
 
+  // Concatenate the elements for signature calculation
+  const concatenatedStringPaymentStatus =
+    "770000019150" + merchantRefNum + "0743aa6f-53e6-43ca-a3e2-46fe25c1e3be";
+
+  // Calculate the signature
+  const signaturePaymentStatus = CryptoJS.SHA256(
+    concatenatedStringPaymentStatus
+  ).toString();
+
   // Function to handle checkout
   async function checkout(products) {
     const configuration = {
@@ -93,8 +102,8 @@ const Checkout = () => {
 
     // Make the additional request to check the payment status
     const merchantCode = "770000019150";
-    const merchantRefNumber = chargeRequest.merchantRefNum;
-    const signature = chargeRequest.signature;
+    const merchantRefNumber = merchantRefNum;
+    const signature = signaturePaymentStatus;
 
     const statusUrl =
       "https://atfawry.fawrystaging.com/ECommerceWeb/Fawry/payments/status/v2";
@@ -146,7 +155,7 @@ const Checkout = () => {
           <Button
             variant={"destructive"}
             onClick={handleClear}
-            className="clear-button"
+            className="clear-button mt-4"
           >
             Clear Products
           </Button>
@@ -192,7 +201,7 @@ const ProductItem = ({ product }) => {
   };
 
   return (
-    <li className="flex justify-center items-center gap-4">
+    <li className="flex justify-start md:justify-center items-center gap-4 flex-wrap md:flex-nowrap">
       <Image
         src={product.image}
         alt={product.name}
