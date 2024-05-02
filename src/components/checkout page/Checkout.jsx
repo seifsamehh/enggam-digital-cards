@@ -103,7 +103,9 @@ const Checkout = () => {
     // Make the additional request to check the payment status
     const merchantCode = "770000019150";
     const merchantRefNumber = merchantRefNum;
+    console.log("merchantRefNumber 2", merchantRefNumber);
     const signature = signaturePaymentStatus;
+    console.log("signature 2", signature);
 
     const statusUrl =
       "https://atfawry.fawrystaging.com/ECommerceWeb/Fawry/payments/status/v2";
