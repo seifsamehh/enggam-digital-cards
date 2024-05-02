@@ -89,39 +89,6 @@ const Checkout = () => {
     FawryPay.checkout(chargeRequest, configuration);
   }
 
-  const FawryPayGetPaymentStatus = async (transaction_data) => {
-    const PaymentData = {
-      merchantCode: transaction_data.merchantCode,
-      merchantRefNumber: transaction_data.merchantRefNumber,
-      signature: transaction_data.signature,
-    };
-
-    try {
-      const response = await fetch(
-        "https://atfawry.fawrystaging.com/ECommerceWeb/Fawry/payments/status/v2",
-        {
-          method: "GET",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(PaymentData),
-        }
-      );
-
-      if (!response.ok) {
-        throw new Error(
-          `Fawry API request failed with status: ${response.status}`
-        );
-      }
-
-      return await response.json();
-    } catch (error) {
-      console.error("Error fetching payment status:", error);
-      // Handle the error gracefully (e.g., display an error message to the user)
-      return { error: "An error occurred while fetching payment status." };
-    }
-  };
-
   return (
     <div className="container flex justify-center items-center gap-8 min-[290px]:flex-wrap md:flex-nowrap min-h-screen">
       <div className="left">
