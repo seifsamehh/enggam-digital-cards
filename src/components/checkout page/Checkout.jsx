@@ -72,7 +72,6 @@ const Checkout = () => {
       customerName: customerName,
       paymentMethod: "",
       customerProfileId: customerProfileId,
-      paymentExpiry: "1631138400000",
       chargeItems: chargeItems,
       returnUrl: "https://enggam-digital-cards.vercel.app/home",
       authCaptureModePayment: false,
@@ -81,7 +80,7 @@ const Checkout = () => {
   }
 
   // Function to handle checkout
-  function checkout(products) {
+  async function checkout(products) {
     const configuration = {
       locale: "en", // Default locale
       mode: DISPLAY_MODE.POPUP, // Required mode
@@ -89,6 +88,39 @@ const Checkout = () => {
     const chargeRequest = buildChargeRequest(products);
     FawryPay.checkout(chargeRequest, configuration);
   }
+
+  const FawryPayGetPaymentStatus = async (transaction_data) => {
+    const PaymentData = {
+      merchantCode: transaction_data.merchantCode,
+      merchantRefNumber: transaction_data.merchantRefNumber,
+      signature: transaction_data.signature,
+    };
+
+    try {
+      const response = await fetch(
+        "https://atfawry.fawrystaging.com/ECommerceWeb/Fawry/payments/status/v2",
+        {
+          method: "GET",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(PaymentData),
+        }
+      );
+
+      if (!response.ok) {
+        throw new Error(
+          `Fawry API request failed with status: ${response.status}`
+        );
+      }
+
+      return await response.json();
+    } catch (error) {
+      console.error("Error fetching payment status:", error);
+      // Handle the error gracefully (e.g., display an error message to the user)
+      return { error: "An error occurred while fetching payment status." };
+    }
+  };
 
   return (
     <div className="container flex justify-center items-center gap-8 min-[290px]:flex-wrap md:flex-nowrap min-h-screen">
