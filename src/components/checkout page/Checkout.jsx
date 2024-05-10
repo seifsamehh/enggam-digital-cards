@@ -42,6 +42,8 @@ const Checkout = () => {
 
   // Function to build the charge request
   const merchantRefNum = generateRandomId();
+
+  // Fawry integration
   function buildChargeRequest(products) {
     console.log("merchantRefNum", merchantRefNum);
     const chargeItems = products.map((product) => ({
@@ -103,9 +105,7 @@ const Checkout = () => {
     // Make the additional request to check the payment status
     const merchantCode = "770000019150";
     const merchantRefNumber = merchantRefNum;
-    console.log("merchantRefNumber 2", merchantRefNumber);
     const signature = signaturePaymentStatus;
-    console.log("signature 2", signature);
 
     const statusUrl =
       "https://atfawry.fawrystaging.com/ECommerceWeb/Fawry/payments/status/v2";
@@ -113,7 +113,6 @@ const Checkout = () => {
 
     try {
       const response = await fetch(`${statusUrl}?${queryParams}`);
-      console.log(`${statusUrl}?${queryParams}`);
       const data = await response.json();
       // Handle the response data as needed
       console.log(data);
@@ -123,6 +122,74 @@ const Checkout = () => {
     }
   }
 
+  // Geidea integration
+  function createPaymentIntent() {
+    const totalPrice = calculateTotalPrice();
+    const paymentAmount = totalPrice.toFixed(2);
+
+    const signature = generateSignature(
+      "f2b57c61-38ef-4baa-960b-f3576f2824ce",
+      paymentAmount,
+      "USD",
+      generateRandomId(),
+      "72dbab16-0075-4d58-94df-6abb3ca19deb",
+      Math.floor(Date.now() / 1000)
+    );
+
+    const options = {
+      method: "POST",
+      headers: {
+        accept: "application/json",
+        "content-type": "application/json",
+        authorization:
+          "Basic ZjJiNTdjNjEtMzhlZi00YmFhLTk2MGItZjM1NzZmMjgyNGNlOjcyZGJhYjE2LTAwNzUtNGQ1OC05NGRmLTZhYmIzY2ExOWRlYg==",
+      },
+      body: JSON.stringify({
+        amount: paymentAmount,
+        currency: "USD",
+        timestamp: Math.floor(Date.now() / 1000),
+        merchantReferenceId: generateRandomId(),
+        signature: signature,
+        paymentOperation: "Pay",
+        appearance: { showEmail: true, receiptPage: true },
+        language: "en",
+        callbackUrl: "https://enggam-digital-cards.vercel.app/",
+        subscriptionId: "02ed462c-62fc-4692-41f0-08dc3cbb381c",
+        returnUrl: "https://enggam-digital-cards.vercel.app/",
+        customer: { email: customerEmail, name: customerName },
+      }),
+    };
+
+    fetch(
+      "https://api.merchant.geidea.net/payment-intent/api/v2/direct/session",
+      options
+    )
+      .then((response) => response.json())
+      .then((response) => console.log(response))
+      .catch((err) => console.error(err));
+  }
+
+  function calculateTotalPrice() {
+    return products.reduce((acc, product) => {
+      return acc + product.price * (product.quantity || 1);
+    }, 0);
+  }
+
+  function generateSignature(
+    merchantPublicKey,
+    orderAmount,
+    orderCurrency,
+    orderMerchantReferenceId,
+    apiPassword,
+    timestamp
+  ) {
+    const amountStr = orderAmount;
+    const data = `${merchantPublicKey}${amountStr}${orderCurrency}${orderMerchantReferenceId}${timestamp}`;
+    const hash = CryptoJS.HmacSHA256(data, apiPassword).toString(
+      CryptoJS.enc.Latin1
+    );
+    return btoa(hash);
+  }
   return (
     <div className="container flex justify-center items-center gap-8 min-[290px]:flex-wrap md:flex-nowrap min-h-screen">
       <div className="left">
@@ -165,13 +232,16 @@ const Checkout = () => {
       </div>
       <div className="right">
         {products.length > 0 && (
-          <input
-            type="image"
-            onClick={() => checkout(products)}
-            src="https://www.atfawry.com/assets/img/FawryPayLogo.jpg"
-            alt="pay-using-fawry"
-            id="fawry-payment-btn"
-          />
+          <div className="payments">
+            <input
+              type="image"
+              onClick={() => checkout(products)}
+              src="https://www.atfawry.com/assets/img/FawryPayLogo.jpg"
+              alt="pay-using-fawry"
+              id="fawry-payment-btn"
+            />
+            <button onClick={createPaymentIntent}>Make Payment</button>
+          </div>
         )}
       </div>
     </div>

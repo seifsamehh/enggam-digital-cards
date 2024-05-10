@@ -1,4 +1,5 @@
 import { Hero } from "@/components/categories/Hero";
+import PaymentBoxs from "@/components/payment cards/PaymentBoxs";
 import Footer from "@/components/shared/Footer";
 import HeaderHome from "@/components/shared/HeaderHome";
 import { LoginLink } from "@kinde-oss/kinde-auth-nextjs/components";
@@ -24,8 +25,9 @@ const page = async () => {
   return (await isAuthenticated()) ? (
     <>
       <HeaderHome />
-      <section className="payment-cards protected">
+      <section className="payment-cards protected py-6">
         <Hero h1Data="Payment Cards" pData="Buy payment cards online" />
+        <PaymentBoxs />
       </section>
       <Footer />
     </>

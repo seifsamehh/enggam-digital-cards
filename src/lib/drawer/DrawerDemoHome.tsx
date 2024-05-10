@@ -18,16 +18,6 @@ import localFont from "next/font/local";
 const tanker = localFont({
   src: [
     {
-      path: "../../../public/fonts/Tanker/Tanker-Regular.ttf",
-      weight: "400",
-      style: "normal",
-    },
-    {
-      path: "../../../public/fonts/Tanker/Tanker-Regular.woff",
-      weight: "400",
-      style: "normal",
-    },
-    {
       path: "../../../public/fonts/Tanker/Tanker-Regular.woff2",
       weight: "400",
       style: "normal",

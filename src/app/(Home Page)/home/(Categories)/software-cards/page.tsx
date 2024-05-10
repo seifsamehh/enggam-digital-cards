@@ -1,6 +1,7 @@
 import { Hero } from "@/components/categories/Hero";
 import Footer from "@/components/shared/Footer";
 import HeaderHome from "@/components/shared/HeaderHome";
+import SoftwareBoxs from "@/components/software cards/SoftwareBoxs";
 import { LoginLink } from "@kinde-oss/kinde-auth-nextjs/components";
 import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 
@@ -24,8 +25,9 @@ const page = async () => {
   return (await isAuthenticated()) ? (
     <>
       <HeaderHome />
-      <section className="software-cards protected">
+      <section className="software-cards protected py-6">
         <Hero h1Data="Software Cards" pData="Buy software cards online" />
+        <SoftwareBoxs />
       </section>
       <Footer />
     </>
