@@ -1,4 +1,3 @@
-import { Category } from "@/interfaces/category";
 import { Product } from "@/interfaces/product";
 
 export const sellerProducts: Product[] = [
@@ -133,35 +132,4 @@ export const saleProducts: Product[] = [
     quantity: 1,
   },
   //... other sale products
-];
-
-export const categories: Category[] = [
-  {
-    id: "12",
-    name: "Category 1",
-    image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    subcategories: [
-      {
-        id: "13",
-        name: "Subcategory 1",
-        image:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        products: [
-          {
-            id: "14",
-            image:
-              "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-            name: "Product 1",
-            price: 10,
-            country: "Egypt",
-            quantity: 1,
-          },
-          //... other products in subcategory 1
-        ],
-      },
-      //... other subcategories in category 1
-    ],
-  },
-  //... other categories
 ];

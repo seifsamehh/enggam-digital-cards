@@ -35,6 +35,9 @@ const Checkout = () => {
   const customerName = user ? user.given_name : "MR/MRS";
   const customerProfileId = user ? user.id : "";
 
+  // USD currency
+  const USDcurrency = 47.78;
+
   // Function to generate a random ID
   function generateRandomId() {
     return Math.floor(Math.random() * 1000000).toString();
@@ -45,11 +48,10 @@ const Checkout = () => {
 
   // Fawry integration
   function buildChargeRequest(products) {
-    console.log("merchantRefNum", merchantRefNum);
     const chargeItems = products.map((product) => ({
       itemId: product.id,
       description: product.name,
-      price: (product.price * 47.08).toFixed(2),
+      price: (product.price * USDcurrency).toFixed(2),
       imageUrl: product.image,
       quantity: product.quantity || 1,
     }));
@@ -124,42 +126,69 @@ const Checkout = () => {
 
   // Geidea integration
   function createPaymentIntent() {
-    const totalPrice = calculateTotalPrice();
+    const totalPrice = calculateTotalPrice() * USDcurrency;
     const paymentAmount = totalPrice.toFixed(2);
+    console.log("Amount", paymentAmount);
 
+    const date = new Date();
+    const TimeOptions = {
+      month: "2-digit",
+      day: "2-digit",
+      year: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+      hour12: true,
+    };
+    const timestamp = date
+      .toLocaleString("en-US", TimeOptions)
+      .replace(",", "");
+    console.log(timestamp);
+
+    // Define the required parameters
+    const merchantPublicKey = "f2b57c61-38ef-4baa-960b-f3576f2824ce";
+    const orderAmount = paymentAmount;
+    const orderCurrency = "EGP";
+    const orderMerchantReferenceId = generateRandomId();
+    const apiPassword = "72dbab16-0075-4d58-94df-6abb3ca19deb";
+
+    // Call the generateSignature function
     const signature = generateSignature(
-      "f2b57c61-38ef-4baa-960b-f3576f2824ce",
-      paymentAmount,
-      "USD",
-      generateRandomId(),
-      "72dbab16-0075-4d58-94df-6abb3ca19deb",
-      Math.floor(Date.now() / 1000)
+      merchantPublicKey,
+      orderAmount,
+      orderCurrency,
+      orderMerchantReferenceId,
+      apiPassword,
+      timestamp
     );
+
+    // Use the generated signature as needed
+    console.log(signature);
+
+    console.log(orderMerchantReferenceId);
 
     const options = {
       method: "POST",
       headers: {
-        accept: "application/json",
         "content-type": "application/json",
-        authorization:
-          "Basic ZjJiNTdjNjEtMzhlZi00YmFhLTk2MGItZjM1NzZmMjgyNGNlOjcyZGJhYjE2LTAwNzUtNGQ1OC05NGRmLTZhYmIzY2ExOWRlYg==",
       },
       body: JSON.stringify({
         amount: paymentAmount,
-        currency: "USD",
-        timestamp: Math.floor(Date.now() / 1000),
-        merchantReferenceId: generateRandomId(),
+        currency: "EGP",
+        timestamp: timestamp,
+        merchantReferenceId: orderMerchantReferenceId,
         signature: signature,
         paymentOperation: "Pay",
-        appearance: { showEmail: true, receiptPage: true },
         language: "en",
         callbackUrl: "https://enggam-digital-cards.vercel.app/",
-        subscriptionId: "02ed462c-62fc-4692-41f0-08dc3cbb381c",
         returnUrl: "https://enggam-digital-cards.vercel.app/",
-        customer: { email: customerEmail, name: customerName },
+        customer: {
+          email: customerEmail,
+        },
       }),
     };
 
+    console.log(options);
     fetch(
       "https://api.merchant.geidea.net/payment-intent/api/v2/direct/session",
       options
@@ -184,11 +213,18 @@ const Checkout = () => {
     timestamp
   ) {
     const amountStr = orderAmount;
-    const data = `${merchantPublicKey}${amountStr}${orderCurrency}${orderMerchantReferenceId}${timestamp}`;
+    const data =
+      merchantPublicKey +
+      amountStr +
+      orderCurrency +
+      orderMerchantReferenceId +
+      timestamp;
+    console.log(data);
     const hash = CryptoJS.HmacSHA256(data, apiPassword).toString(
-      CryptoJS.enc.Latin1
+      CryptoJS.enc.Base64
     );
-    return btoa(hash);
+    console.log(hash);
+    return hash;
   }
   return (
     <div className="container flex justify-center items-center gap-8 min-[290px]:flex-wrap md:flex-nowrap min-h-screen">

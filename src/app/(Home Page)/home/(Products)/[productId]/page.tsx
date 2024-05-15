@@ -4,7 +4,6 @@ import { useParams } from "next/navigation";
 
 import Footer from "@/components/shared/Footer";
 import {
-  categories,
   saleProducts,
   sellerProducts,
 } from "../../../../../../constants/products";
@@ -35,11 +34,7 @@ const ProductDetails = () => {
 
   useEffect(() => {
     const fetchProduct = () => {
-      const allProducts = [
-        ...sellerProducts,
-        ...saleProducts,
-        ...getCategoryProducts(),
-      ];
+      const allProducts = [...sellerProducts, ...saleProducts];
 
       const foundProduct = allProducts.find(
         (item) => item.id === params.productId
@@ -53,15 +48,6 @@ const ProductDetails = () => {
 
     fetchProduct();
   }, [params.productId]);
-
-  const getCategoryProducts = () => {
-    return categories.flatMap(
-      (category) =>
-        category.subcategories?.flatMap(
-          (subcategory) => subcategory.products
-        ) || []
-    );
-  };
 
   const handleAddToCart = (product: Product) => {
     useProductStore.getState().addToCart(product);
@@ -113,7 +99,7 @@ const ProductDetails = () => {
               <p>Country: {product.country}</p>
               <Button
                 variant="default"
-                className="mt-4"
+                className="mt-4 relative z-10"
                 onClick={() => handleAddToCart(product)}
               >
                 Add to cart
