@@ -128,7 +128,6 @@ const Checkout = () => {
   function createPaymentIntent() {
     const totalPrice = calculateTotalPrice() * USDcurrency;
     const paymentAmount = totalPrice.toFixed(2);
-    console.log("Amount", paymentAmount);
 
     const date = new Date();
     const TimeOptions = {
@@ -143,7 +142,6 @@ const Checkout = () => {
     const timestamp = date
       .toLocaleString("en-US", TimeOptions)
       .replace(",", "");
-    console.log(timestamp);
 
     // Define the required parameters
     const merchantPublicKey = "f2b57c61-38ef-4baa-960b-f3576f2824ce";
@@ -161,11 +159,6 @@ const Checkout = () => {
       apiPassword,
       timestamp
     );
-
-    // Use the generated signature as needed
-    console.log(signature);
-
-    console.log(orderMerchantReferenceId);
 
     const options = {
       method: "POST",
@@ -219,11 +212,9 @@ const Checkout = () => {
       orderCurrency +
       orderMerchantReferenceId +
       timestamp;
-    console.log(data);
     const hash = CryptoJS.HmacSHA256(data, apiPassword).toString(
       CryptoJS.enc.Base64
     );
-    console.log(hash);
     return hash;
   }
   return (
