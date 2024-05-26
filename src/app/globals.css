@@ -145,4 +145,19 @@ button {
   height: 100%;
   object-fit: cover;
 }
+
+/* payment btns */
+#fawry-payment-btn,
+#geidea-payment-btn {
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  width: 200px;
+  color: #0f0f0f;
+}
+#fawry-payment-btn {
+  background-color: #ffd503;
+}
+#geidea-payment-btn {
+  background-color: #ff4d00;
+}
 /* end global components */

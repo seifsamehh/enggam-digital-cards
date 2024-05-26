@@ -6,6 +6,8 @@ import CryptoJS from "crypto-js";
 import Image from "next/image";
 import localFont from "next/font/local";
 import { Button } from "../ui/button";
+import axios from "axios";
+import { useRouter } from "next/navigation";
 
 // Tanker font
 const tanker = localFont({
@@ -125,98 +127,62 @@ const Checkout = () => {
   }
 
   // Geidea integration
-  function createPaymentIntent() {
-    const totalPrice = calculateTotalPrice() * USDcurrency;
-    const paymentAmount = totalPrice.toFixed(2);
-
-    const date = new Date();
-    const TimeOptions = {
-      month: "2-digit",
-      day: "2-digit",
-      year: "numeric",
-      hour: "2-digit",
-      minute: "2-digit",
-      second: "2-digit",
-      hour12: true,
-    };
-    const timestamp = date
-      .toLocaleString("en-US", TimeOptions)
-      .replace(",", "");
-
-    // Define the required parameters
-    const merchantPublicKey = "f2b57c61-38ef-4baa-960b-f3576f2824ce";
-    const orderAmount = paymentAmount;
-    const orderCurrency = "EGP";
-    const orderMerchantReferenceId = generateRandomId();
-    const apiPassword = "72dbab16-0075-4d58-94df-6abb3ca19deb";
-
-    // Call the generateSignature function
-    const signature = generateSignature(
-      merchantPublicKey,
-      orderAmount,
-      orderCurrency,
-      orderMerchantReferenceId,
-      apiPassword,
-      timestamp
-    );
-
-    const options = {
-      method: "POST",
-      headers: {
-        "content-type": "application/json",
-      },
-      body: JSON.stringify({
-        amount: paymentAmount,
-        currency: "EGP",
-        timestamp: timestamp,
-        merchantReferenceId: orderMerchantReferenceId,
-        signature: signature,
-        paymentOperation: "Pay",
-        language: "en",
-        callbackUrl: "https://enggam-digital-cards.vercel.app/",
-        returnUrl: "https://enggam-digital-cards.vercel.app/",
-        customer: {
-          email: customerEmail,
-        },
-      }),
-    };
-
-    console.log(options);
-    fetch(
-      "https://api.merchant.geidea.net/payment-intent/api/v2/direct/session",
-      options
-    )
-      .then((response) => response.json())
-      .then((response) => console.log(response))
-      .catch((err) => console.error(err));
-  }
-
   function calculateTotalPrice() {
     return products.reduce((acc, product) => {
       return acc + product.price * (product.quantity || 1);
     }, 0);
   }
 
-  function generateSignature(
-    merchantPublicKey,
-    orderAmount,
-    orderCurrency,
-    orderMerchantReferenceId,
-    apiPassword,
-    timestamp
-  ) {
-    const amountStr = orderAmount;
-    const data =
-      merchantPublicKey +
-      amountStr +
-      orderCurrency +
-      orderMerchantReferenceId +
-      timestamp;
-    const hash = CryptoJS.HmacSHA256(data, apiPassword).toString(
-      CryptoJS.enc.Base64
-    );
-    return hash;
-  }
+  const paymentAmount = calculateTotalPrice() * USDcurrency;
+
+  const router = useRouter();
+
+  const generateError = (message) => {
+    // Implement error handling logic, possibly using a toast notification or a state variable
+    console.error(message);
+  };
+
+  const generateSuccess = (message) => {
+    // Implement success handling logic, possibly using a toast notification or a state variable
+    console.log(message);
+  };
+
+  const handleSubmit = async () => {
+    const name = customerName;
+    const email = customerEmail;
+    const amount = paymentAmount;
+
+    const onSuccess = (e) => {
+      generateSuccess("Payment Successful!");
+      router.push({
+        pathname: "/home/success",
+        query: { data: JSON.stringify(e) },
+      });
+    };
+
+    const onError = (e) => {
+      generateError("Something went Wrong Please Try Again!");
+    };
+    const onCancel = () => {
+      generateError("You have Canceled the operation!");
+    };
+
+    try {
+      const response = await axios.post("/api/payments", {
+        amount: amount,
+        name: name,
+        email: email,
+      });
+
+      const sessionId = response.data.session.id;
+      var payment = new GeideaCheckout(onSuccess, onError, onCancel);
+      payment.startPayment(sessionId);
+    } catch (err) {
+      console.error(err);
+      generateError("Failed to process payment.");
+    }
+  };
+
   return (
     <div className="container flex justify-center items-center gap-8 min-[290px]:flex-wrap md:flex-nowrap min-h-screen">
       <div className="left">
@@ -259,15 +225,19 @@ const Checkout = () => {
       </div>
       <div className="right">
         {products.length > 0 && (
-          <div className="payments">
-            <input
-              type="image"
+          <div className="payments flex justify-center items-center gap-4 flex-wrap md:flex-nowrap">
+            <button
+              // type="image"
               onClick={() => checkout(products)}
-              src="https://www.atfawry.com/assets/img/FawryPayLogo.jpg"
+              // src="https://www.atfawry.com/assets/img/FawryPayLogo.jpg"
               alt="pay-using-fawry"
               id="fawry-payment-btn"
-            />
-            <button onClick={createPaymentIntent}>Make Payment</button>
+            >
+              Fawry Checkout
+            </button>
+            <button onClick={handleSubmit} id="geidea-payment-btn">
+              Geidea Checkout
+            </button>
           </div>
         )}
       </div>

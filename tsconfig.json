@@ -27,7 +27,9 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "src/components/checkout page/Checkout.tsx",
-    "src/components/checkout page/Checkout.tsx"
+    "src/components/checkout page/Checkout.tsx",
+    "src/app/api/create-session/route.js",
+    "src/components/checkout page/Geidea.jsx"
   ],
   "exclude": ["node_modules"]
 }

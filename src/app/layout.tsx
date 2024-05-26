@@ -255,6 +255,7 @@ export default function RootLayout({
           id="geidea"
           type="text/javascript"
           src="https://www.merchant.geidea.net/hpp/geideaCheckout.min.js"
+          crossOrigin="anonymous"
         />
       </body>
     </html>
