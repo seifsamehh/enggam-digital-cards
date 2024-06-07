@@ -147,17 +147,19 @@ button {
 }
 
 /* payment btns */
+#geidea-payment-btn {
+  background-color: #ff4d00;
+}
+#fawry-payment-btn {
+  background-color: #006b99;
+}
 #fawry-payment-btn,
 #geidea-payment-btn {
   border-radius: 10px;
   padding: 0.5rem 1rem;
-  width: 200px;
-  color: #0f0f0f;
-}
-#fawry-payment-btn {
-  background-color: #ffd503;
-}
-#geidea-payment-btn {
-  background-color: #ff4d00;
+  width: 100%;
+  /* color: #0f0f0f;
+  background-color: #fff; */
+  text-align: center;
 }
 /* end global components */

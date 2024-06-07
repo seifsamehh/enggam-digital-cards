@@ -1,4 +1,5 @@
 import { ProductStore } from "@/interfaces/productStore";
+import { toast } from "sonner";
 import { create } from "zustand";
 
 const initialState: ProductStore = {
@@ -12,6 +13,11 @@ export const useProductStore = create<ProductStore>((set, get) => ({
   ...initialState,
   addToCart: (product) => {
     const currentProducts = get().products;
+    const existingProduct = currentProducts.find((p) => p.id === product.id);
+    if (existingProduct) {
+      toast.error("Product already in cart");
+      return;
+    }
     const updatedProducts = [...currentProducts, product];
 
     set({ products: updatedProducts });

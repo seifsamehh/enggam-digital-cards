@@ -5,9 +5,12 @@ import { useKindeBrowserClient } from "@kinde-oss/kinde-auth-nextjs";
 import CryptoJS from "crypto-js";
 import Image from "next/image";
 import localFont from "next/font/local";
-import { Button } from "../ui/button";
+import { Button } from "@/components/ui/button";
 import axios from "axios";
 import { useRouter } from "next/navigation";
+import { toast } from "sonner";
+import { Separator } from "@/components/ui/separator";
+import confetti from "canvas-confetti";
 
 // Tanker font
 const tanker = localFont({
@@ -38,7 +41,9 @@ const Checkout = () => {
   const customerProfileId = user ? user.id : "";
 
   // USD currency
-  const USDcurrency = 47.78;
+  const USDcurrency = 55.0;
+
+  const router = useRouter();
 
   // Function to generate a random ID
   function generateRandomId() {
@@ -134,17 +139,55 @@ const Checkout = () => {
   }
 
   const paymentAmount = calculateTotalPrice() * USDcurrency;
+  const productItems = useProductStore((state) => state.products);
 
-  const router = useRouter();
-
-  const generateError = (message) => {
-    // Implement error handling logic, possibly using a toast notification or a state variable
-    console.error(message);
+  const generateError = () => {
+    toast.error("Something went Wrong Please Try Again!");
   };
 
-  const generateSuccess = (message) => {
-    // Implement success handling logic, possibly using a toast notification or a state variable
-    console.log(message);
+  const generateCancel = () => {
+    router.push("/Home-Page/cancel");
+    toast.warning("You canceled the order!");
+  };
+
+  const generateSuccess = async () => {
+    const email = customerEmail || "customer@domain.com";
+    const price = paymentAmount;
+    const products = productItems;
+
+    try {
+      const response = await fetch("/api/sendEmail", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          email,
+          price,
+          products,
+        }),
+      });
+
+      const responseData = await response.json();
+      if (response.ok) {
+        router.push("/home/success");
+        useProductStore.setState({ products: [] });
+        confetti({
+          particleCount: 200,
+          startVelocity: 30,
+          spread: 360,
+          origin: {
+            x: Math.random(),
+            y: Math.random() - 0.2,
+          },
+        });
+        toast.success("Your order has been confirmed!");
+      } else {
+        console.error("Failed to send email:", responseData.message);
+      }
+    } catch (error) {
+      console.error("Error sending email:", error);
+    }
   };
 
   const handleSubmit = async () => {
@@ -152,19 +195,14 @@ const Checkout = () => {
     const email = customerEmail;
     const amount = paymentAmount;
 
-    const onSuccess = (e) => {
+    const onSuccess = () => {
       generateSuccess("Payment Successful!");
-      router.push({
-        pathname: "/home/success",
-        query: { data: JSON.stringify(e) },
-      });
     };
-
-    const onError = (e) => {
+    const onError = () => {
       generateError("Something went Wrong Please Try Again!");
     };
     const onCancel = () => {
-      generateError("You have Canceled the operation!");
+      generateCancel("You have Canceled the operation!");
     };
 
     try {
@@ -184,8 +222,8 @@ const Checkout = () => {
   };
 
   return (
-    <div className="container flex justify-center items-center gap-8 min-[290px]:flex-wrap md:flex-nowrap min-h-screen">
-      <div className="left">
+    <div className="container flex justify-start items-center gap-8 min-[290px]:flex-wrap md:flex-nowrap min-h-screen my-4">
+      <div className="left min-h-screen flex flex-col justify-start">
         <h1
           className={`${tanker.className} text-7xl text-black dark:text-white mb-8`}
         >
@@ -223,22 +261,42 @@ const Checkout = () => {
           </Button>
         )}
       </div>
-      <div className="right">
-        {products.length > 0 && (
-          <div className="payments flex justify-center items-center gap-4 flex-wrap md:flex-nowrap">
-            <button
-              // type="image"
-              onClick={() => checkout(products)}
-              // src="https://www.atfawry.com/assets/img/FawryPayLogo.jpg"
-              alt="pay-using-fawry"
-              id="fawry-payment-btn"
+      <Separator
+        orientation="vertical"
+        className="min-h-screen hidden md:block"
+      />
+      <div className="right min-h-screen flex flex-col justify-start">
+        {products.length === 0 ? (
+          <>
+            <h2
+              className={`${tanker.className} text-7xl text-black dark:text-white mb-8`}
             >
-              Fawry Checkout
-            </button>
-            <button onClick={handleSubmit} id="geidea-payment-btn">
-              Geidea Checkout
-            </button>
-          </div>
+              Payment Methods:
+            </h2>
+            <p className="text-2xl mb-8 text-center">No products in cart</p>
+          </>
+        ) : (
+          <>
+            <h2
+              className={`${tanker.className} text-7xl text-black dark:text-white mb-8`}
+            >
+              Payment Methods:
+            </h2>
+            {products.length > 0 && (
+              <div className="payments flex justify-center items-center gap-4 flex-col">
+                <Button
+                  onClick={() => checkout(products)}
+                  id="fawry-payment-btn"
+                  className="hidden"
+                >
+                  Fawry Checkout
+                </Button>
+                <Button onClick={handleSubmit} id="geidea-payment-btn">
+                  Geidea Checkout
+                </Button>
+              </div>
+            )}
+          </>
         )}
       </div>
     </div>

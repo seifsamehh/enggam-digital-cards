@@ -57,7 +57,6 @@ export async function POST(req) {
         merchantReferenceId: name,
         order: { integrationType: "HPP" },
         paymentOperation: "Pay",
-        returnUrl: "https://enggam-digital-cards.vercel.app/home/checkout",
       },
       {
         headers: {
