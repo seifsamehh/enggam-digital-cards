@@ -153,7 +153,7 @@ const Checkout = () => {
   const generateSuccess = async () => {
     const email = customerEmail || "customer@domain.com";
     const price = paymentAmount;
-    const products = productItems;
+    const products = JSON.stringify(productItems);
 
     try {
       const response = await fetch("/api/sendEmail", {
