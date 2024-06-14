@@ -9,6 +9,7 @@ import ConsentCookies from "@/components/shared/ConsentCookies";
 import localFont from "next/font/local";
 import "./globals.css";
 import "../../public/fawrypay.css";
+import CrispChat from "@/components/shared/CrispChat";
 
 // bespoke font
 const bespoke = localFont({
@@ -240,6 +241,7 @@ export default function RootLayout({
           </Parallax>
         </ThemeProvider>
         <Toaster />
+        <CrispChat />
         <Script
           id="structure-data"
           type="application/ld+json"
@@ -249,7 +251,7 @@ export default function RootLayout({
         <Script
           id="fawrypay"
           type="text/javascript"
-          src="https://atfawry.fawrystaging.com/atfawry/plugin/assets/payments/js/fawrypay-payments.js"
+          src="https://www.atfawry.com/atfawry/plugin/assets/payments/js/fawrypay-payments.js"
         />
         <Script
           id="geidea"

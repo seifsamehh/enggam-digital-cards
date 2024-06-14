@@ -25,7 +25,7 @@ export default function Header() {
         </Link>
         <nav className="md:flex items-center gap-2 min-[290px]:hidden">
           <Link
-            href={"/about-us"}
+            href={"/home/about-us"}
             title="About us"
             aria-label="About us"
             className="text-lg"

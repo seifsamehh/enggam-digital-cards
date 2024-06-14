@@ -111,7 +111,7 @@ const HeaderHome = () => {
         <div className="mode">
           <ModeToggle />
         </div>
-        <div className="wallet">
+        <div className="wallet hidden">
           <Link href={"/home/wallet"} title="Wallet" aria-label="Wallet">
             <Button size="icon" variant={"outline"}>
               <Wallet color="#016fd0" />

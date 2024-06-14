@@ -22,7 +22,12 @@ export async function POST(request) {
         <h3>Hello Ali,</h3>
         <div style="padding: 20px; border-radius: 5px;">
           <p><span style="font-size: 1rem; font-weight: bold;">Email:</span>${email}</p>
-          <p><span style="font-size: 1rem; font-weight: bold;">Products:</span> ${products}</p>
+          <p><span style="font-size: 1rem; font-weight: bold;">Products:</span></p>
+          <ul>
+          ${products
+            .map((product) => `<li>${product.name} (${product.quantity})</li>`)
+            .join("")}
+          </ul>
           <p><span style="font-size: 1rem; font-weight: bold;">Price:</span> ${price} EGP</p>
         </div>
         `,

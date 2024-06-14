@@ -176,10 +176,10 @@ export default function Footer() {
               </span>
 
               <span className="flex justify-between text-white">
-                <Link href="/terms" className="font-semibold">
+                <Link href="/home/terms" className="font-semibold">
                   Terms of Use{" "}
                 </Link>
-                <Link href="/privacy" className="font-semibold">
+                <Link href="/home/privacy" className="font-semibold">
                   {" "}
                   Privacy Policy
                 </Link>

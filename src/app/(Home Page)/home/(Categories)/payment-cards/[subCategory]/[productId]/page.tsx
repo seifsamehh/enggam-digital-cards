@@ -3,10 +3,6 @@
 import { useParams } from "next/navigation";
 
 import Footer from "@/components/shared/Footer";
-import {
-  saleProducts,
-  sellerProducts,
-} from "../../../../../../constants/products";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { Product } from "@/interfaces/product";
@@ -14,13 +10,14 @@ import { useProductStore } from "@/store/store";
 import { toast } from "sonner";
 import HeaderHome from "@/components/shared/HeaderHome";
 import { useEffect, useState } from "react";
+import { subCategoryProducts } from "../../../../../../../../constants/subCategoriesProducts";
 import localFont from "next/font/local";
 
 // Tanker font
 const tanker = localFont({
   src: [
     {
-      path: "../../../../../../public/fonts/Tanker/Tanker-Regular.woff2",
+      path: "../../../../../../../../public/fonts/Tanker/Tanker-Regular.woff2",
       weight: "400",
       style: "normal",
     },
@@ -28,13 +25,13 @@ const tanker = localFont({
   display: "swap",
 });
 
-const ProductDetails = () => {
+const SubProductDetails = () => {
   const params = useParams<{ productId: string }>();
   const [product, setProduct] = useState<Product | null>(null);
 
   useEffect(() => {
     const fetchProduct = () => {
-      const allProducts = [...sellerProducts, ...saleProducts];
+      const allProducts = [...subCategoryProducts];
 
       const foundProduct = allProducts.find(
         (item) => item.id === params.productId
@@ -137,4 +134,4 @@ const ProductDetails = () => {
   );
 };
 
-export default ProductDetails;
+export default SubProductDetails;
