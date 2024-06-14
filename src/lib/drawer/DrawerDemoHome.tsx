@@ -45,7 +45,7 @@ const DrawerDemoHome = () => {
           <div className="p-4 pb-0">
             <nav className="flex justify-center items-center gap-2 flex-col">
               <Link
-                href={"/about-us"}
+                href={"/home/about-us"}
                 title="About us"
                 aria-label="About us"
                 className="text-lg"
@@ -53,7 +53,7 @@ const DrawerDemoHome = () => {
                 About us
               </Link>
               <Link
-                href={"/gift-cards"}
+                href={"/home/gift-cards"}
                 title="Gift Cards"
                 aria-label="Gift Cards"
                 className="text-lg"
@@ -61,7 +61,7 @@ const DrawerDemoHome = () => {
                 Gift Cards
               </Link>
               <Link
-                href={"/game-cards"}
+                href={"/home/game-cards"}
                 title="Game Cards"
                 aria-label="Game Cards"
                 className="text-lg"
@@ -69,7 +69,7 @@ const DrawerDemoHome = () => {
                 Game Cards
               </Link>
               <Link
-                href={"/payment-cards"}
+                href={"/home/payment-cards"}
                 title="Payment Cards"
                 aria-label="Payment Cards"
                 className="text-lg"
@@ -77,7 +77,7 @@ const DrawerDemoHome = () => {
                 Payment Cards
               </Link>
               <Link
-                href={"/software-cards"}
+                href={"/home/software-cards"}
                 title="software Cards"
                 aria-label="software Cards"
                 className="text-lg"

@@ -10,7 +10,7 @@ export default function Footer() {
             <div className="w-full space-x-12 flex justify-center text-gray-300 sm:w-7/12 md:justify-start">
               <ul className="list-disc list-inside space-y-8">
                 <li>
-                  <Link href="/about-us" title="About" aria-label="About">
+                  <Link href="/home/about-us" title="About" aria-label="About">
                     About
                   </Link>
                 </li>
