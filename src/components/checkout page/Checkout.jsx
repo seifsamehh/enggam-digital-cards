@@ -42,7 +42,7 @@ const Checkout = () => {
 
   // USD currency
   const USDcurrency = 52.0;
-  const fees = 5.525;
+  const fees = 1.025;
 
   const router = useRouter();
 
@@ -59,7 +59,7 @@ const Checkout = () => {
     const chargeItems = products.map((product) => ({
       itemId: product.id,
       description: product.name,
-      price: (product.price * USDcurrency + fees + 2.0).toFixed(2),
+      price: (product.price * USDcurrency * fees + 2.0).toFixed(2),
       imageUrl: product.image,
       quantity: product.quantity || 1,
     }));
@@ -139,7 +139,7 @@ const Checkout = () => {
     }, 0);
   }
 
-  const paymentAmount = calculateTotalPrice() * USDcurrency + fees + 2.0;
+  const paymentAmount = calculateTotalPrice() * USDcurrency * fees + 2.0;
 
   const productItems = useProductStore((state) => state.products);
 
