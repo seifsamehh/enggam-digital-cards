@@ -42,7 +42,7 @@ const Checkout = () => {
 
   // USD currency
   const USDcurrency = 52.0;
-  const fees = 1.15;
+  const fees = 5.525;
 
   const router = useRouter();
 
