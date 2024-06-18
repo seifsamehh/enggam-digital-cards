@@ -7,96 +7,81 @@ export function HeroParallaxDemo() {
 }
 export const products = [
   {
-    title: "Moonbeam",
-    link: "https://gomoonbeam.com",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-1.webp",
   },
   {
-    title: "Cursor",
-    link: "https://cursor.so",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-2.webp",
   },
   {
-    title: "Rogue",
-    link: "https://userogue.com",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-3.webp",
   },
 
   {
-    title: "Editorially",
-    link: "https://editorially.org",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-2.webp",
   },
   {
-    title: "Editrix AI",
-    link: "https://editrix.ai",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-3.webp",
   },
   {
-    title: "Pixel Perfect",
-    link: "https://app.pixelperfect.quest",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-6.webp",
   },
 
   {
-    title: "Algochurn",
-    link: "https://algochurn.com",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-1.webp",
   },
   {
-    title: "Aceternity UI",
-    link: "https://ui.aceternity.com",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-2.webp",
   },
   {
-    title: "Tailwind Master Kit",
-    link: "https://tailwindmasterkit.com",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-3.webp",
   },
   {
-    title: "SmartBridge",
-    link: "https://smartbridgetech.com",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-1.webp",
   },
   {
-    title: "Renderwork Studio",
-    link: "https://renderwork.studio",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-2.webp",
   },
 
   {
-    title: "Creme Digital",
-    link: "https://cremedigital.com",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-6.webp",
   },
   {
-    title: "Golden Bells Academy",
-    link: "https://goldenbellsacademy.com",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-1.webp",
   },
   {
-    title: "Invoker Labs",
-    link: "https://invoker.lol",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-2.webp",
   },
   {
-    title: "E Free Invoice",
-    link: "https://efreeinvoice.com",
-    thumbnail:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    title: "Enggam",
+    link: "https://enggam.kinde.com/auth/cx/_:nav&m:login&psid:c41823949fdc4ce7b1aafc45c10cc5e2",
+    thumbnail: "/assets/hero-3.webp",
   },
 ];
