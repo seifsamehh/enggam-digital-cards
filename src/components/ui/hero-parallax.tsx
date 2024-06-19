@@ -125,8 +125,9 @@ export const Header = () => {
       <p
         className={`${tanker.className} max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200`}
       >
-        Enggam is a Gift Card Company located in Egypt. We sell all prepaid
-        cards like iTunes cards, google play cards, and more.
+        Keep all your cards in one place, whether they are bank cards, loyalty
+        cards, or even ID cards. You will have a comfortable and safe
+        experience.
       </p>
     </div>
   );

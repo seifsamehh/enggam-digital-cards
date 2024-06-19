@@ -32,19 +32,19 @@ export const products = [
   },
   {
     title: "Enggam",
-    thumbnail: "/assets/hero-1.webp",
+    thumbnail: "/assets/hero-7.webp",
   },
   {
     title: "Enggam",
-    thumbnail: "/assets/hero-2.webp",
+    thumbnail: "/assets/hero-8.webp",
   },
   {
     title: "Enggam",
-    thumbnail: "/assets/hero-3.webp",
+    thumbnail: "/assets/hero-9.webp",
   },
   {
     title: "Enggam",
-    thumbnail: "/assets/hero-4.webp",
+    thumbnail: "/assets/hero-10.webp",
   },
   {
     title: "Enggam",
@@ -60,7 +60,7 @@ export const products = [
   },
   {
     title: "Enggam",
-    thumbnail: "/assets/hero-2.webp",
+    thumbnail: "/assets/hero-4.webp",
   },
   {
     title: "Enggam",

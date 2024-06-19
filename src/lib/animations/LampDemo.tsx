@@ -42,10 +42,8 @@ export function LampDemo() {
         }}
         className="max-w-2xl text-center text-white"
       >
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa
-        praesentium, error tempore ipsam molestiae illum deleniti dolor quia
-        ullam placeat sunt recusandae, voluptatem omnis! Possimus tenetur omnis
-        vero laudantium ab.
+        Enggam is a Gift Card Company located in Egypt. We sell all prepaid
+        cards like iTunes cards, google play cards, and more.
       </motion.p>
     </LampContainer>
   );

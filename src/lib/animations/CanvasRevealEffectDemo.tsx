@@ -3,19 +3,19 @@ import React from "react";
 
 import { AnimatePresence, motion } from "framer-motion";
 import { CanvasRevealEffect } from "@/components/ui/canvas-reveal-effect";
-import Image from "next/image";
+import { CreditCard, Gamepad2, Gift, Laptop } from "lucide-react";
 
 export function CanvasRevealEffectDemo() {
   return (
     <>
       <div className="py-20 flex flex-col lg:flex-row items-center justify-center bg-background w-full gap-4 mx-auto px-8">
-        <Card title="Gift Cards" icon={<AceternityIcon />}>
+        <Card title="Gift Cards" icon={<Gift />}>
           <CanvasRevealEffect
             animationSpeed={5.1}
             containerClassName="bg-emerald-900"
           />
         </Card>
-        <Card title="Game Cards" icon={<AceternityIcon />}>
+        <Card title="Game Cards" icon={<Gamepad2 />}>
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -28,14 +28,14 @@ export function CanvasRevealEffectDemo() {
           {/* Radial gradient for the cute fade */}
           <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" />
         </Card>
-        <Card title="Payment Cards" icon={<AceternityIcon />}>
+        <Card title="Payment Cards" icon={<CreditCard />}>
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-sky-600"
             colors={[[125, 211, 252]]}
           />
         </Card>
-        <Card title="Software Cards" icon={<AceternityIcon />}>
+        <Card title="Software Cards" icon={<Laptop />}>
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -95,24 +95,6 @@ const Card = ({
         </h2>
       </div>
     </div>
-  );
-};
-
-const AceternityIcon = () => {
-  return (
-    <Image
-      src={
-        "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png"
-      }
-      alt="Enggam"
-      width={66}
-      height={65}
-      title="Enggam"
-      aria-label="Enggam"
-      loading="lazy"
-      placeholder="blur"
-      blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkEPtbDwACxQGUCODXZAAAAABJRU5ErkJggg=="
-    />
   );
 };
 
