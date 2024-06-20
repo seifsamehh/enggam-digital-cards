@@ -71,7 +71,7 @@ export default function Footer() {
               <ul role="list" className="space-y-8">
                 <li>
                   <Link
-                    href="https://wa.me/1014402598"
+                    href="https://wa.me/+201014402598"
                     target="_blank"
                     title="Whatsapp"
                     aria-label="Whatsapp"
@@ -279,7 +279,7 @@ export default function Footer() {
                 </Link>
               </span>
               <span className="block text-gray-300">
-                Powered by Ali Abdul Majeed Ali Muhammad Na
+                Powered by Ali Abdul Majeed Ali Muhammad Nasr
               </span>
             </div>
           </div>
