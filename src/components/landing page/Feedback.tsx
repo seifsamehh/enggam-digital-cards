@@ -45,10 +45,14 @@ export default function Feedback() {
               Give us your feedback
             </h2>
             <p className="mt-6 text-lg leading-8 text-gray-300 dark:text-black">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
-              et porro, dolor perferendis dolores quas hic praesentium.
-              Consectetur numquam atque vitae iusto ab at aspernatur, fuga,
-              inventore nobis, hic in?
+              We Are Proud To Announce That We Have Our Site Under Trustpilot,
+              The Leading Platform In The World Of Innovation And Technology. We
+              are pleased to offer you the opportunity to explore our services
+              and products that innovatively and advancedly improve your
+              experience. Visit our location within TRUATPILOT for a unique and
+              exciting experience, combining innovative solutions with our
+              vision for the future. Join us and get ready for the new
+              experience!
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
               <Link
