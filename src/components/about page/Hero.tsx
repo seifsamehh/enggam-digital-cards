@@ -36,10 +36,10 @@ const Hero = () => {
             What is ENGGAM?
           </h1>
           <p className="text-base md:text-3xl dark:text-neutral-200 py-4 max-w-4xl text-center">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto
-            labore cumque nam quidem, ex, hic illum veniam impedit nihil velit
-            a? Velit, dolores? Non, eum! Consequuntur illum distinctio eveniet
-            provident!
+            enggam is an e-commerce website that specializes in selling a wide
+            range of digital cards, including game cards, gift cards, and
+            payment cards. Our mission is to provide a convenient and secure
+            platform for users to purchase digital cards easily.
           </p>
         </motion.div>
       </AuroraBackground>

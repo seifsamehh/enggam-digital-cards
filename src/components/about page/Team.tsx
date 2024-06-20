@@ -17,24 +17,16 @@ const people = [
   {
     name: "Ali Nasr",
     role: "Founder / CEO",
-    imageUrl:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    imageUrl: "/assets/ali.webp",
   },
   {
-    name: "Ali Nasr",
-    role: "Founder / CEO",
-    imageUrl:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Seif Eldin Sameh",
+    role: "Web Developer",
+    imageUrl: "/assets/Seif-Sameh.webp",
   },
   {
-    name: "Ali Nasr",
-    role: "Founder / CEO",
-    imageUrl:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-  },
-  {
-    name: "Ali Nasr",
-    role: "Founder / CEO",
+    name: "Ola Nasr",
+    role: "Motion Graphic Designer",
     imageUrl:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
   },
@@ -52,8 +44,10 @@ const Team = () => {
             Meet our team
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Libero fames augue nisl porttitor nisi, quis. Id ac elit odio vitae
-            elementum enim vitae ullamcorper suspendisse.
+            Welcome to Enggam! Our Talent Team is dedicated to attracting,
+            developing, and retaining the best talent to drive our company
+            success. Get to know the dynamic individuals who are at the heart of
+            our talent acquisition and management efforts.
           </p>
         </div>
         <ul

@@ -16,19 +16,18 @@ const tanker = localFont({
 
 const features = [
   {
-    name: "Push to deploy.",
+    name: "Fast Order",
     description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.",
+      "The order can be made at any time and delivered as quickly as possible by selecting the card and it will be sent to you via email.",
   },
   {
-    name: "SSL certificates.",
-    description:
-      "Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.",
+    name: "Secure Payment",
+    description: "We Provides High Securely Payment Gateways.",
   },
   {
-    name: "Database backups.",
+    name: "Reach The Right Market",
     description:
-      "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.",
+      "You can have the most aesthetically appealing online store with easy navigation, the highest quality products backed by top-notch customer service and bottomless pockets when it comes to marketing budget.",
   },
 ];
 
@@ -48,9 +47,10 @@ const Features = () => {
                 A better experience
               </p>
               <p className="mt-6 text-lg leading-8 text-gray-600">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Maiores impedit perferendis suscipit eaque, iste dolor
-                cupiditate blanditiis ratione.
+                We are working hard to reach the global markets, obtain great
+                competition, and raise the site to the highest point of
+                development to reach the best things, and the site will provide
+                the possibility of accessing the global market.
               </p>
               <dl className="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">
                 {features.map((feature) => (
@@ -69,7 +69,7 @@ const Features = () => {
             </div>
           </div>
           <Image
-            src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png"
+            src="/assets/story.webp"
             alt="Product screenshot"
             className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0"
             width={500}
