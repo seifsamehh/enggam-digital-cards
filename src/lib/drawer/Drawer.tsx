@@ -19,6 +19,7 @@ import {
 } from "@kinde-oss/kinde-auth-nextjs/components";
 
 import localFont from "next/font/local";
+import { Badge } from "@/components/ui/badge";
 
 const tanker = localFont({
   src: [
@@ -49,14 +50,6 @@ export function DrawerDemo() {
           </DrawerHeader>
           <div className="p-4 pb-0">
             <nav className="flex justify-center items-center gap-2 flex-col">
-              <Link
-                href={"/home/about-us"}
-                title="About us"
-                aria-label="About us"
-                className="text-lg"
-              >
-                About us
-              </Link>
               <Link
                 href={"/home/gift-cards"}
                 title="Gift Cards"
@@ -89,14 +82,28 @@ export function DrawerDemo() {
               >
                 Software Cards
               </Link>
+              <Link
+                href={"/home/sale"}
+                title="Sale"
+                aria-label="Sale"
+                className="text-lg relative"
+              >
+                Sale
+                <Badge
+                  variant="destructive"
+                  className="absolute -top-3 -right-8"
+                >
+                  Hot
+                </Badge>
+              </Link>
             </nav>
           </div>
           <DrawerFooter>
             <Button asChild variant={"default"}>
-              <LoginLink postLoginRedirectURL="/home">Sign in</LoginLink>
+              <LoginLink postLoginRedirectURL="/home">Login</LoginLink>
             </Button>
             <Button asChild variant={"ghost"}>
-              <RegisterLink postLoginRedirectURL="/home">Sign up</RegisterLink>
+              <RegisterLink postLoginRedirectURL="/home">Register</RegisterLink>
             </Button>
             <DrawerClose asChild>
               <Button variant="destructive">Close</Button>

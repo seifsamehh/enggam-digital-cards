@@ -22,6 +22,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "../ui/avatar";
 import DrawerDemoHome from "@/lib/drawer/DrawerDemoHome";
 import { ShoppingBag, Wallet } from "lucide-react";
 import CartProducts from "./CartProducts";
+import { Badge } from "../ui/badge";
 
 const HeaderHome = () => {
   // user
@@ -47,14 +48,6 @@ const HeaderHome = () => {
           />
         </Link>
         <nav className="md:flex items-center gap-2 min-[290px]:hidden">
-          <Link
-            href={"/home/about-us"}
-            title="About us"
-            aria-label="About us"
-            className="text-lg"
-          >
-            About us
-          </Link>
           <Link
             href={"/home/gift-cards"}
             title="Gift Cards"
@@ -86,6 +79,17 @@ const HeaderHome = () => {
             className="text-lg"
           >
             Software Cards
+          </Link>
+          <Link
+            href={"/home/sale"}
+            title="Sale"
+            aria-label="Sale"
+            className="text-lg relative"
+          >
+            Sale
+            <Badge variant="destructive" className="absolute -top-4 -right-4">
+              Hot
+            </Badge>
           </Link>
         </nav>
       </div>

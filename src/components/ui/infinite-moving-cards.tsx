@@ -6,14 +6,13 @@ import React, { useEffect, useState } from "react";
 export const InfiniteMovingCards = ({
   items,
   direction = "left",
-  speed = "fast",
+  speed = "normal",
   pauseOnHover = true,
   className,
 }: {
   items: {
     quote: string;
     name: string;
-    title: string;
   }[];
   direction?: "left" | "right";
   speed?: "fast" | "normal" | "slow";
@@ -105,9 +104,6 @@ export const InfiniteMovingCards = ({
                 <span className="flex flex-col gap-1">
                   <span className=" text-sm leading-[1.6] text-white font-normal">
                     {item.name}
-                  </span>
-                  <span className=" text-sm leading-[1.6] text-white font-normal">
-                    {item.title}
                   </span>
                 </span>
               </div>

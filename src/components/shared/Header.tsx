@@ -7,6 +7,7 @@ import {
   LoginLink,
 } from "@kinde-oss/kinde-auth-nextjs/components";
 import { DrawerDemo } from "@/lib/drawer/Drawer";
+import { Badge } from "../ui/badge";
 
 export default function Header() {
   return (
@@ -24,14 +25,6 @@ export default function Header() {
           />
         </Link>
         <nav className="md:flex items-center gap-2 min-[290px]:hidden">
-          <Link
-            href={"/home/about-us"}
-            title="About us"
-            aria-label="About us"
-            className="text-lg"
-          >
-            About us
-          </Link>
           <Link
             href={"/home/gift-cards"}
             title="Gift Cards"
@@ -64,15 +57,26 @@ export default function Header() {
           >
             Software Cards
           </Link>
+          <Link
+            href={"/home/sale"}
+            title="Sale"
+            aria-label="Sale"
+            className="text-lg relative"
+          >
+            Sale
+            <Badge variant="destructive" className="absolute -top-4 -right-4">
+              Hot
+            </Badge>
+          </Link>
         </nav>
       </div>
       <div className="right flex justify-center items-center gap-2">
         <div className="auth-btns md:flex items-center gap-2 min-[290px]:hidden">
           <Button asChild variant={"secondary"}>
-            <LoginLink postLoginRedirectURL="/home">Sign in</LoginLink>
+            <LoginLink postLoginRedirectURL="/home">Login</LoginLink>
           </Button>
           <Button asChild variant={"ghost"}>
-            <RegisterLink postLoginRedirectURL="/home">Sign up</RegisterLink>
+            <RegisterLink postLoginRedirectURL="/home">Register</RegisterLink>
           </Button>
         </div>
         <div className="mode">
