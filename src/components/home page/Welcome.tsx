@@ -49,7 +49,7 @@ const Welcome = async () => {
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
                         <Image
-                          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png"
+                          src="/assets/welcome-1.webp"
                           alt="product"
                           className="h-full w-full object-cover object-center"
                           width={300}
@@ -61,45 +61,7 @@ const Welcome = async () => {
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <Image
-                          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png"
-                          alt="product"
-                          className="h-full w-full object-cover object-center"
-                          width={300}
-                          height={300}
-                          loading="lazy"
-                          placeholder="blur"
-                          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkEPtbDwACxQGUCODXZAAAAABJRU5ErkJggg=="
-                        />
-                      </div>
-                    </div>
-                    <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
-                        <Image
-                          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png"
-                          alt="product"
-                          className="h-full w-full object-cover object-center"
-                          width={300}
-                          height={300}
-                          loading="lazy"
-                          placeholder="blur"
-                          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkEPtbDwACxQGUCODXZAAAAABJRU5ErkJggg=="
-                        />
-                      </div>
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
-                        <Image
-                          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png"
-                          alt="product"
-                          className="h-full w-full object-cover object-center"
-                          width={300}
-                          height={300}
-                          loading="lazy"
-                          placeholder="blur"
-                          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkEPtbDwACxQGUCODXZAAAAABJRU5ErkJggg=="
-                        />
-                      </div>
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
-                        <Image
-                          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png"
+                          src="/assets/welcome-2.webp"
                           alt="product"
                           className="h-full w-full object-cover object-center"
                           width={300}
@@ -113,7 +75,7 @@ const Welcome = async () => {
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <Image
-                          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png"
+                          src="/assets/welcome-3.webp"
                           alt="product"
                           className="h-full w-full object-cover object-center"
                           width={300}
@@ -125,7 +87,45 @@ const Welcome = async () => {
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <Image
-                          src="https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png"
+                          src="/assets/welcome-4.webp"
+                          alt="product"
+                          className="h-full w-full object-cover object-center"
+                          width={300}
+                          height={300}
+                          loading="lazy"
+                          placeholder="blur"
+                          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkEPtbDwACxQGUCODXZAAAAABJRU5ErkJggg=="
+                        />
+                      </div>
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                        <Image
+                          src="/assets/welcome-5.webp"
+                          alt="product"
+                          className="h-full w-full object-cover object-center"
+                          width={300}
+                          height={300}
+                          loading="lazy"
+                          placeholder="blur"
+                          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkEPtbDwACxQGUCODXZAAAAABJRU5ErkJggg=="
+                        />
+                      </div>
+                    </div>
+                    <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                        <Image
+                          src="/assets/welcome-6.webp"
+                          alt="product"
+                          className="h-full w-full object-cover object-center"
+                          width={300}
+                          height={300}
+                          loading="lazy"
+                          placeholder="blur"
+                          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkEPtbDwACxQGUCODXZAAAAABJRU5ErkJggg=="
+                        />
+                      </div>
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                        <Image
+                          src="/assets/welcome-1.webp"
                           alt="product"
                           className="h-full w-full object-cover object-center"
                           width={300}

@@ -9,6 +9,7 @@ import { ScrollToPlugin } from "gsap/ScrollToPlugin";
 gsap.registerPlugin(ScrollToPlugin);
 
 const SaleBanner = () => {
+  const currentYear = new Date().getFullYear();
   const [display, setDisplay] = useState("flex");
 
   const handleDismiss = () => {
@@ -49,7 +50,7 @@ const SaleBanner = () => {
       </div>
       <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
         <p className="text-sm leading-6 text-gray-900">
-          <strong className="font-semibold">Enggam 2024</strong>
+          <strong className="font-semibold">Enggam {currentYear}</strong>
           <svg
             viewBox="0 0 2 2"
             className="mx-2 inline h-0.5 w-0.5 fill-current"
@@ -57,7 +58,7 @@ const SaleBanner = () => {
           >
             <circle cx={1} cy={1} r={1} />
           </svg>
-          Join us in Denver from June 7 – 9 to see what’s coming next.
+          Join Us For Our Cards.
         </p>
         <Button
           className="flex-none rounded-full bg-gray-900 px-3.5 py-1 text-sm font-semibold text-white shadow-sm hover:bg-gray-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-900"

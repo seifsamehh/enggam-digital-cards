@@ -61,25 +61,25 @@ const Categories = () => {
   const cards = [
     {
       title: "Gift Cards",
-      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      description: "Gift cards are prepaid cards.",
       href: "/home/gift-cards",
       icon: <Icon />,
     },
     {
       title: "Game Cards",
-      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      description: "Game cards, also known as gaming gift cards.",
       href: "/home/game-cards",
       icon: <Icon />,
     },
     {
       title: "Payment Cards",
-      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      description: "Payment cards are financial tools.",
       href: "/home/payment-cards",
       icon: <Icon />,
     },
     {
       title: "Software Cards",
-      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      description: "Software cards, are software license cards.",
       href: "/home/software-cards",
       icon: <Icon />,
     },
