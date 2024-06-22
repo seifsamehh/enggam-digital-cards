@@ -31,10 +31,9 @@ const Welcome = async () => {
               Welcome, {userName}
             </h1>
             <p className="my-4 text-xl text-muted-foreground dark:text-white">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Perspiciatis ratione doloribus ad culpa itaque dolor nobis
-              similique sunt saepe officia aut doloremque obcaecati, voluptates
-              dolores blanditiis temporibus exercitationem veniam officiis?
+              We are very happy to have you inside our site, you can check the
+              best offers and cards inside our site and get to know the best
+              cards inside our site and order in a very easy way.
             </p>
             <GoShoppingBtn />
           </div>
