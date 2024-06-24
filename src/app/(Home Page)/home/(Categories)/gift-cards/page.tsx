@@ -26,7 +26,10 @@ const page = async () => {
     <>
       <HeaderHome />
       <section className="gift-cards protected py-6">
-        <Hero h1Data="Gift Cards" pData="Buy gift cards online" />
+        <Hero
+          h1Data="Gift Cards"
+          pData="Gift cards are prepaid cards that can be used as an alternative to cash for purchases at specific stores or online platforms."
+        />
         <GiftBoxs />
       </section>
       <Footer />

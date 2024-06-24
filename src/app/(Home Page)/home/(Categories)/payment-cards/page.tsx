@@ -26,7 +26,10 @@ const page = async () => {
     <>
       <HeaderHome />
       <section className="payment-cards protected py-6">
-        <Hero h1Data="Payment Cards" pData="Buy payment cards online" />
+        <Hero
+          h1Data="Payment Cards"
+          pData="Payment cards are financial tools that allow users to make purchases, withdraw cash, and perform other transactions. These cards come in several types, each serving different purposes and offering various features."
+        />
         <PaymentBoxs />
       </section>
       <Footer />

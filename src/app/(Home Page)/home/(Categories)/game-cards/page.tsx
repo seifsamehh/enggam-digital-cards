@@ -26,7 +26,10 @@ const page = async () => {
     <>
       <HeaderHome />
       <section className="game-cards protected py-6">
-        <Hero h1Data="Game Cards" pData="Buy game cards online" />
+        <Hero
+          h1Data="Game Cards"
+          pData="Game cards, also known as gaming gift cards or gaming vouchers, are prepaid cards specifically designed for use in gaming platforms, allowing users to purchase games, downloadable content (DLC), in-game items."
+        />
         <GameBoxs />
       </section>
       <Footer />

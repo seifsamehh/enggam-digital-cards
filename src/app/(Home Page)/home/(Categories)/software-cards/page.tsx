@@ -26,7 +26,10 @@ const page = async () => {
     <>
       <HeaderHome />
       <section className="software-cards protected py-6">
-        <Hero h1Data="Software Cards" pData="Buy software cards online" />
+        <Hero
+          h1Data="Software Cards"
+          pData="Software cards, often referred to as software license cards or digital software cards, are prepaid cards used to purchase, activate, or renew software licenses and subscriptions. These cards are a convenient way to access various software services without directly using a credit card."
+        />
         <SoftwareBoxs />
       </section>
       <Footer />

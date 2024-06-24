@@ -58,6 +58,19 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
       (filter ? product.country === filter : true)
   );
 
+  // Pagination
+  const [currentPage, setCurrentPage] = useState(1);
+  const productsPerPage = 10; // Number of products to display per page
+  const totalPages = Math.ceil(filteredProducts.length / productsPerPage);
+  const startIndex = (currentPage - 1) * productsPerPage;
+  const endIndex = startIndex + productsPerPage;
+  const currentProducts = filteredProducts.slice(startIndex, endIndex);
+
+  // Handle page change
+  const handlePageChange = (pageNumber: number) => {
+    setCurrentPage(pageNumber);
+  };
+
   if (filteredProducts.length === 0) {
     return (
       <>
@@ -81,8 +94,21 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
               onChange={(e) => setFilter(e.target.value)}
             >
               <option value="">All</option>
-              <option value="Egypt">Egypt</option>
               <option value="USA">USA</option>
+              <option value="UK">UK</option>
+              <option value="saudi arabia">Saudi Arabia</option>
+              <option value="China">China</option>
+              <option value="Germany">Germany</option>
+              <option value="Australia">Australia</option>
+              <option value="UAE">United Arab Emirates</option>
+              <option value="Canada">Canada</option>
+              <option value="Austria">Austria</option>
+              <option value="Belgium">Belgium</option>
+              <option value="Denmark">Denmark</option>
+              <option value="Finland">Finland</option>
+              <option value="France">France</option>
+              <option value="Turkey">Turkey</option>
+              <option value="Sweden">Sweden</option>
             </select>
           </div>
           <h1 className={`${tanker.className} text-3xl md:text-8xl`}>
@@ -102,6 +128,7 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
           >
             {params.subCategory}
           </h2>
+          {/* ... (same as before) */}
           <div className="countries text-center my-4">
             <label htmlFor="country-filter" className="mr-2">
               Filter by country:
@@ -113,14 +140,28 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
               onChange={(e) => setFilter(e.target.value)}
             >
               <option value="">All</option>
-              <option value="Egypt">Egypt</option>
               <option value="USA">USA</option>
+              <option value="UK">UK</option>
+              <option value="saudi arabia">Saudi Arabia</option>
+              <option value="China">China</option>
+              <option value="Germany">Germany</option>
+              <option value="Australia">Australia</option>
+              <option value="UAE">United Arab Emirates</option>
+              <option value="Canada">Canada</option>
+              <option value="Austria">Austria</option>
+              <option value="Belgium">Belgium</option>
+              <option value="Denmark">Denmark</option>
+              <option value="Finland">Finland</option>
+              <option value="France">France</option>
+              <option value="Turkey">Turkey</option>
+              <option value="Sweden">Sweden</option>
             </select>
           </div>
 
           <div className="container">
             <div className="products-boxes flex justify-center items-center gap-2 flex-wrap">
-              {filteredProducts.map((product, index) => (
+              {currentProducts.map((product, index) => (
+                // <></>
                 <div
                   key={index}
                   className="bg-gray-200 rounded-md p-4 flex flex-col justify-start items-start gap-2"
@@ -154,6 +195,40 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
                     </Link>
                   </div>
                 </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Pagination controls */}
+          <div className="flex items-center justify-around mt-4 flex-wrap px-4 md:px-0">
+            <div className="flex items-center space-x-4">
+              <Button
+                variant="outline"
+                disabled={currentPage === 1}
+                onClick={() => handlePageChange(currentPage - 1)}
+              >
+                Previous
+              </Button>
+              <span>
+                Page {currentPage} of {totalPages}
+              </span>
+              <Button
+                variant="outline"
+                disabled={currentPage === totalPages}
+                onClick={() => handlePageChange(currentPage + 1)}
+              >
+                Next
+              </Button>
+            </div>
+            <div>
+              {Array.from({ length: totalPages }, (_, i) => (
+                <Button
+                  key={i + 1}
+                  variant={currentPage === i + 1 ? "default" : "ghost"}
+                  onClick={() => handlePageChange(i + 1)}
+                >
+                  {i + 1}
+                </Button>
               ))}
             </div>
           </div>

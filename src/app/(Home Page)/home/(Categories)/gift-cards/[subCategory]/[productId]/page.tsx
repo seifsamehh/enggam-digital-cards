@@ -104,7 +104,7 @@ const SubProductDetails = () => {
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 1440 320"
-                className="absolute -bottom-5 left-0"
+                className="absolute -bottom-32 left-0"
               >
                 <path
                   fill="#0e7490"
