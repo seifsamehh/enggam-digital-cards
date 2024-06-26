@@ -257,13 +257,19 @@ const Checkout = () => {
           )}
         </ul>
         {products.length > 0 && (
-          <Button
-            variant={"destructive"}
-            onClick={handleClear}
-            className="clear-button mt-4"
-          >
-            Clear Products
-          </Button>
+          <>
+            <p className="my-4">
+              <span className="font-bold text-xl">Total Price:</span>{" "}
+              {calculateTotalPrice()} $
+            </p>
+            <Button
+              variant={"destructive"}
+              onClick={handleClear}
+              className="clear-button"
+            >
+              Clear Products
+            </Button>
+          </>
         )}
       </div>
       <Separator
@@ -333,7 +339,7 @@ const ProductItem = ({ product }) => {
   };
 
   return (
-    <li className="flex justify-start md:justify-center items-center gap-4 flex-wrap md:flex-nowrap">
+    <li className="flex justify-between my-2 md:justify-center items-center gap-4 flex-wrap md:flex-nowrap">
       <Image
         src={product.image}
         alt={product.name}
@@ -347,7 +353,6 @@ const ProductItem = ({ product }) => {
       />
       <div className="product-content">
         <h2 className={`${tanker.className} text-5xl`}>{product.name}</h2>
-        <p className="text-balance max-w-3xl my-6">{product.description}</p>
       </div>
       <div className="quantity-buttons flex items-center gap-2">
         <Button

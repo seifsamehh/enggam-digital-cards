@@ -12,9 +12,9 @@ export const subCategories = [
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "itunes",
-        description: "Buy itunes gift cards",
-        path: "/home/gift-cards/itunes",
+        title: "Google Play",
+        description: "Buy google play gift cards",
+        path: "/home/gift-cards/google-play",
       },
       {
         imageUrl:
