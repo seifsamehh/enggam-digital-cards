@@ -4659,14 +4659,4 @@ export const subCategoryProducts = [
     country: "Egypt",
     related: "psn",
   },
-  {
-    id: generateUniqueId(),
-    image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    name: "PSN Card",
-    description: "refrfrrfrfrfrfrfrfrfrf ",
-    price: 12.00,
-    country: "sudan",
-    related: "psn",
-  },
 ];
