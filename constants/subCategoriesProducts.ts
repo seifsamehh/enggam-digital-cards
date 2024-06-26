@@ -4654,8 +4654,8 @@ export const subCategoryProducts = [
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "PSN Card",
-    description: "Test",
-    price: 10,
+    description: "We can choose what things need ",
+    price: 12.60$,
     country: "Egypt",
     related: "psn",
   },
