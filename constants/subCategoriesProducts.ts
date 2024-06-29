@@ -4647,16 +4647,790 @@ export const subCategoryProducts = [
     country: "South Korea",
     related: "google-play",
   },
-  // Game Cards
-  // psn
+  // Netflix Australia
   {
     id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-    name: "PSN Card",
-    description: "Test",
-    price: 10,
-    country: "Egypt",
-    related: "psn",
+    name: "Netflix Gift Card AU 30 AUD",
+    description:
+      "Netflix Gift Card Australia\n\n" +
+      "Purchase a Netflix Gift Card (AU) and start your membership to enjoy the latest TV shows and movies online! Watch on multiple devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start watching entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Australia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (AU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 24.82,
+    country: "Australia",
+    related: "netflix",
   },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card AU 50 AUD",
+    description:
+      "Netflix Gift Card Australia\n\n" +
+      "Purchase a Netflix Gift Card (AU) and start your membership to enjoy the latest TV shows and movies online! Watch on multiple devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start watching entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Australia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (AU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 40.99,
+    country: "Australia",
+    related: "netflix",
+  },
+  // Netflix Brazil
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card BR 35 BRL",
+    description:
+      "Netflix Gift Card Brazil\n\n" +
+      "Get the Netflix Gift Card (BR) to start or renew your Netflix membership! Choose from a vast library of movies, TV shows, and documentaries. Select from three different packages that suit your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Brazil. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (BR)\n" +
+      "1. Go to the Netflix Gift Card Redemption page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 8.75,
+    country: "Brazil",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card BR 50 BRL",
+    description:
+      "Netflix Gift Card Brazil\n\n" +
+      "Get the Netflix Gift Card (BR) to start or renew your Netflix membership! Choose from a vast library of movies, TV shows, and documentaries. Select from three different packages that suit your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Brazil. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (BR)\n" +
+      "1. Go to the Netflix Gift Card Redemption page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 13.39,
+    country: "Brazil",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card BR 70 BRL",
+    description:
+      "Netflix Gift Card Brazil\n\n" +
+      "Get the Netflix Gift Card (BR) to start or renew your Netflix membership! Choose from a vast library of movies, TV shows, and documentaries. Select from three different packages that suit your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Brazil. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (BR)\n" +
+      "1. Go to the Netflix Gift Card Redemption page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 15.34,
+    country: "Brazil",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card BR 150 BRL",
+    description:
+      "Netflix Gift Card Brazil\n\n" +
+      "Get the Netflix Gift Card (BR) to start or renew your Netflix membership! Choose from a vast library of movies, TV shows, and documentaries. Select from three different packages that suit your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Brazil. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (BR)\n" +
+      "1. Go to the Netflix Gift Card Redemption page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 36.15,
+    country: "Brazil",
+    related: "netflix",
+  },
+  // Netflix Canda
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card CA 15 CAD",
+    description:
+      "Netflix Gift Card Canada\n\n" +
+      "Purchase a Netflix Gift Card (CA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Canada. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (CA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 17.4,
+    country: "Canada",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card CA 30 CAD",
+    description:
+      "Netflix Gift Card Canada\n\n" +
+      "Purchase a Netflix Gift Card (CA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Canada. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (CA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 32.34,
+    country: "Canada",
+    related: "netflix",
+  },
+  // Netflix UAE
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card AE 100 AED",
+    description:
+      "Netflix Gift Card UAE\n\n" +
+      "Purchase a Netflix Gift Card (AE) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United Arab Emirates. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (AE)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 30.9,
+    country: "UAE",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card AE 500 AED",
+    description:
+      "Netflix Gift Card UAE\n\n" +
+      "Purchase a Netflix Gift Card (AE) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United Arab Emirates. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (AE)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 140.0,
+    country: "UAE",
+    related: "netflix",
+  },
+  // Netflix USA
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card US 15 USD",
+    description:
+      "Netflix Gift Card United States\n\n" +
+      "Get the Netflix Gift Card (US) to start or recharge your Netflix membership! Choose from a expansive library of movies, TV shows, and documentaries. Choose from three different packages that suits your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United States. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (US)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 20.6,
+    country: "USA",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card US 25 USD",
+    description:
+      "Netflix Gift Card United States\n\n" +
+      "Get the Netflix Gift Card (US) to start or recharge your Netflix membership! Choose from a expansive library of movies, TV shows, and documentaries. Choose from three different packages that suits your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United States. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (US)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 26.57,
+    country: "USA",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card US 30 USD",
+    description:
+      "Netflix Gift Card United States\n\n" +
+      "Get the Netflix Gift Card (US) to start or recharge your Netflix membership! Choose from a expansive library of movies, TV shows, and documentaries. Choose from three different packages that suits your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United States. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (US)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 31.4,
+    country: "USA",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card US 50 USD",
+    description:
+      "Netflix Gift Card United States\n\n" +
+      "Get the Netflix Gift Card (US) to start or recharge your Netflix membership! Choose from a expansive library of movies, TV shows, and documentaries. Choose from three different packages that suits your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United States. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (US)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 53.0,
+    country: "USA",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card US 60 USD",
+    description:
+      "Netflix Gift Card United States\n\n" +
+      "Get the Netflix Gift Card (US) to start or recharge your Netflix membership! Choose from a expansive library of movies, TV shows, and documentaries. Choose from three different packages that suits your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United States. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (US)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 63.3,
+    country: "USA",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card US 100 USD",
+    description:
+      "Netflix Gift Card United States\n\n" +
+      "Get the Netflix Gift Card (US) to start or recharge your Netflix membership! Choose from a expansive library of movies, TV shows, and documentaries. Choose from three different packages that suits your viewing needs and start watching on all devices!\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United States. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (US)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 106.0,
+    country: "USA",
+    related: "netflix",
+  },
+  // Netflix UK
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card UK 15 GBP",
+    description:
+      "Netflix Gift Card United Kingdom\n\n" +
+      "Purchase a Netflix Gift Card (UK) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United Kingdom. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (UK)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 25.75,
+    country: "UK",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card UK 25 GBP",
+    description:
+      "Netflix Gift Card United Kingdom\n\n" +
+      "Purchase a Netflix Gift Card (UK) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United Kingdom. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (UK)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 41.2,
+    country: "UK",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card UK 50 GBP",
+    description:
+      "Netflix Gift Card United Kingdom\n\n" +
+      "Purchase a Netflix Gift Card (UK) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in the United Kingdom. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (UK)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 72.0,
+    country: "UK",
+    related: "netflix",
+  },
+  // Netflix Europe
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Europe 15 EUR",
+    description:
+      "Netflix Gift Card Europe\n\n" +
+      "Purchase a Netflix Gift Card (EU) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Europe. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "The following European countries do not use Euro as their official currency, so the Netflix EUR is not redeemable there: Bulgaria, Czech Republic, Hungary, Poland, Romania, and Switzerland.\n\n" +
+      "The following European countries use Euro as their official currency, so the Netflix EUR is redeemable there: Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, and Spain.\n\n" +
+      "How to Redeem Netflix Gift Card (EU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 18.12,
+    country: "Europe",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Europe 25 EUR",
+    description:
+      "Netflix Gift Card Europe\n\n" +
+      "Purchase a Netflix Gift Card (EU) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Europe. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "The following European countries do not use Euro as their official currency, so the Netflix EUR is not redeemable there: Bulgaria, Czech Republic, Hungary, Poland, Romania, and Switzerland.\n\n" +
+      "The following European countries use Euro as their official currency, so the Netflix EUR is redeemable there: Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, and Spain.\n\n" +
+      "How to Redeem Netflix Gift Card (EU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 30.8,
+    country: "Europe",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Europe 30 EUR",
+    description:
+      "Netflix Gift Card Europe\n\n" +
+      "Purchase a Netflix Gift Card (EU) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Europe. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "The following European countries do not use Euro as their official currency, so the Netflix EUR is not redeemable there: Bulgaria, Czech Republic, Hungary, Poland, Romania, and Switzerland.\n\n" +
+      "The following European countries use Euro as their official currency, so the Netflix EUR is redeemable there: Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, and Spain.\n\n" +
+      "How to Redeem Netflix Gift Card (EU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 34.36,
+    country: "Europe",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Europe 35 EUR",
+    description:
+      "Netflix Gift Card Europe\n\n" +
+      "Purchase a Netflix Gift Card (EU) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Europe. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "The following European countries do not use Euro as their official currency, so the Netflix EUR is not redeemable there: Bulgaria, Czech Republic, Hungary, Poland, Romania, and Switzerland.\n\n" +
+      "The following European countries use Euro as their official currency, so the Netflix EUR is redeemable there: Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, and Spain.\n\n" +
+      "How to Redeem Netflix Gift Card (EU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 40.0,
+    country: "Europe",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Europe 40 EUR",
+    description:
+      "Netflix Gift Card Europe\n\n" +
+      "Purchase a Netflix Gift Card (EU) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Europe. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "The following European countries do not use Euro as their official currency, so the Netflix EUR is not redeemable there: Bulgaria, Czech Republic, Hungary, Poland, Romania, and Switzerland.\n\n" +
+      "The following European countries use Euro as their official currency, so the Netflix EUR is redeemable there: Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, and Spain.\n\n" +
+      "How to Redeem Netflix Gift Card (EU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 45.82,
+    country: "Europe",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Europe 45 EUR",
+    description:
+      "Netflix Gift Card Europe\n\n" +
+      "Purchase a Netflix Gift Card (EU) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Europe. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "The following European countries do not use Euro as their official currency, so the Netflix EUR is not redeemable there: Bulgaria, Czech Republic, Hungary, Poland, Romania, and Switzerland.\n\n" +
+      "The following European countries use Euro as their official currency, so the Netflix EUR is redeemable there: Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, and Spain.\n\n" +
+      "How to Redeem Netflix Gift Card (EU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 51.56,
+    country: "Europe",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Europe 50 EUR",
+    description:
+      "Netflix Gift Card Europe\n\n" +
+      "Purchase a Netflix Gift Card (EU) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Europe. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "The following European countries do not use Euro as their official currency, so the Netflix EUR is not redeemable there: Bulgaria, Czech Republic, Hungary, Poland, Romania, and Switzerland.\n\n" +
+      "The following European countries use Euro as their official currency, so the Netflix EUR is redeemable there: Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, and Spain.\n\n" +
+      "How to Redeem Netflix Gift Card (EU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 60.77,
+    country: "Europe",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Europe 75 EUR",
+    description:
+      "Netflix Gift Card Europe\n\n" +
+      "Purchase a Netflix Gift Card (EU) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Europe. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "The following European countries do not use Euro as their official currency, so the Netflix EUR is not redeemable there: Bulgaria, Czech Republic, Hungary, Poland, Romania, and Switzerland.\n\n" +
+      "The following European countries use Euro as their official currency, so the Netflix EUR is redeemable there: Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, and Spain.\n\n" +
+      "How to Redeem Netflix Gift Card (EU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 85.94,
+    country: "Europe",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Europe 100 EUR",
+    description:
+      "Netflix Gift Card Europe\n\n" +
+      "Purchase a Netflix Gift Card (EU) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Europe. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "The following European countries do not use Euro as their official currency, so the Netflix EUR is not redeemable there: Bulgaria, Czech Republic, Hungary, Poland, Romania, and Switzerland.\n\n" +
+      "The following European countries use Euro as their official currency, so the Netflix EUR is redeemable there: Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Portugal, Slovakia, Slovenia, and Spain.\n\n" +
+      "How to Redeem Netflix Gift Card (EU)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 114.58,
+    country: "Europe",
+    related: "netflix",
+  },
+  // Netflix Saudi Arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card KSA 100 SAR",
+    description:
+      "Netflix Gift Card Saudi Arabia (KSA)\n\n" +
+      "Purchase a Netflix Gift Card (KSA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Saudi Arabia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (KSA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 27.92,
+    country: "saudi arabia",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card KSA 150 SAR",
+    description:
+      "Netflix Gift Card Saudi Arabia (KSA)\n\n" +
+      "Purchase a Netflix Gift Card (KSA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Saudi Arabia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (KSA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 41.87,
+    country: "saudi arabia",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card KSA 200 SAR",
+    description:
+      "Netflix Gift Card Saudi Arabia (KSA)\n\n" +
+      "Purchase a Netflix Gift Card (KSA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Saudi Arabia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (KSA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 55.84,
+    country: "saudi arabia",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card KSA 250 SAR",
+    description:
+      "Netflix Gift Card Saudi Arabia (KSA)\n\n" +
+      "Purchase a Netflix Gift Card (KSA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Saudi Arabia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (KSA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 71.0,
+    country: "saudi arabia",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card KSA 300 SAR",
+    description:
+      "Netflix Gift Card Saudi Arabia (KSA)\n\n" +
+      "Purchase a Netflix Gift Card (KSA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Saudi Arabia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (KSA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 83.76,
+    country: "saudi arabia",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card KSA 350 SAR",
+    description:
+      "Netflix Gift Card Saudi Arabia (KSA)\n\n" +
+      "Purchase a Netflix Gift Card (KSA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Saudi Arabia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (KSA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 97.72,
+    country: "saudi arabia",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card KSA 400 SAR",
+    description:
+      "Netflix Gift Card Saudi Arabia (KSA)\n\n" +
+      "Purchase a Netflix Gift Card (KSA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Saudi Arabia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (KSA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 111.69,
+    country: "saudi arabia",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card KSA 450 SAR",
+    description:
+      "Netflix Gift Card Saudi Arabia (KSA)\n\n" +
+      "Purchase a Netflix Gift Card (KSA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Saudi Arabia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (KSA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 125.67,
+    country: "saudi arabia",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card KSA 500 SAR",
+    description:
+      "Netflix Gift Card Saudi Arabia (KSA)\n\n" +
+      "Purchase a Netflix Gift Card (KSA) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Saudi Arabia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Redeem Netflix Gift Card (KSA)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 139.62,
+    country: "saudi arabia",
+    related: "netflix",
+  },
+  // Netflix Norway
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card NORWAY 250 NOK",
+    description: "",
+    price: 32.96,
+    country: "norway",
+    related: "netflix",
+  },
+  // Netflix Malaysia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Malaysia RM 50",
+    description:
+      "Netflix Gift Card Malaysia (MY)\n\n" +
+      "Purchase a Netflix Gift Card (MY) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Malaysia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "Select the proper Netflix plan for you:\n\n" +
+      "Basic:\n" +
+      "- Simultaneous viewing: 1 Screen\n" +
+      "- Watch on tablet or PC, TV, phone, tablet, and PlayStation 4\n" +
+      "- Unlimited movies and TV shows\n" +
+      "- Cancel anytime\n" +
+      "- First month free",
+    price: 21.63,
+    country: "Malaysia",
+    related: "netflix",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Malaysia RM 100",
+    description:
+      "Netflix Gift Card Malaysia (MY)\n\n" +
+      "Purchase a Netflix Gift Card (MY) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Malaysia. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "Select the proper Netflix plan for you:\n\n" +
+      "Basic:\n" +
+      "- Simultaneous viewing: 1 Screen\n" +
+      "- Watch on tablet or PC, TV, phone, tablet, and PlayStation 4\n" +
+      "- Unlimited movies and TV shows\n" +
+      "- Cancel anytime\n" +
+      "- First month free",
+    price: 41.2,
+    country: "Malaysia",
+    related: "netflix",
+  },
+  // Netflix Thailand
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Thailand THB 1500",
+    description:
+      "Netflix Gift Card Thailand (TH)\n\n" +
+      "Purchase a Netflix Gift Card (TH) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Thailand. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Recover Netflix Gift Card (TH)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 68.0,
+    country: "Thailand",
+    related: "netflix",
+  },
+  // Netflix Mexico
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Netflix Gift Card Mexico MXN 300",
+    description:
+      "Netflix Gift Card Mexico (MX)\n\n" +
+      "Purchase a Netflix Gift Card (MX) and begin your membership to start streaming the latest TV shows and movies online! Watch on different devices anytime, anywhere. Download selected shows and movies to watch offline wherever you are.\n\n" +
+      "Pay for your membership or gift one to someone special. Members can use a Netflix card to pay their fee. Non-members can use one to start enjoying entertainment instantly on any device.\n\n" +
+      "Valid only towards the Netflix service via Netflix account (18+ or age of majority to become a member), in Mexico. Full value credited to your Netflix account upon redemption. Nonrefundable and not redeemable for cash, except where required by law. Does not expire.\n\n" +
+      "How to Recover Netflix Gift Card (MX)\n" +
+      "1. Go to the Netflix Redemption Page.\n" +
+      "2. Enter the PIN.\n" +
+      "3. Select your preferred plan.",
+    price: 25.75,
+    country: "Mexico",
+    related: "netflix",
+  },
+  // Game Cards
+  // psn
 ];
