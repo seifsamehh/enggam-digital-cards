@@ -26,9 +26,9 @@ export const subCategories = [
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "itunes",
-        description: "Buy itunes gift cards",
-        path: "/home/gift-cards/itunes",
+        title: "Playstation",
+        description: "Buy playstation gift cards",
+        path: "/home/gift-cards/playstation",
       },
     ],
   },

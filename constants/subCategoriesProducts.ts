@@ -5340,6 +5340,1605 @@ export const subCategoryProducts = [
     country: "Mexico",
     related: "netflix",
   },
+  // Playstation
+  // playstation australia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Australia AUD 30",
+    description:
+      "This product is valid for the Australia PSN store only. It is not redeemable for PSN accounts created in countries other than Australia.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSN, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.\n\n" +
+      "Sony PlayStation Terms and Conditions:\n" +
+      'Your use of this PSNSM code ("Code") constitutes your acceptance of these terms and any additional terms available at http://us.playstation.com/redemption.',
+    price: 22.66,
+    country: "Australia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Australia AUD 50",
+    description:
+      "This product is valid for the Australia PSN store only. It is not redeemable for PSN accounts created in countries other than Australia.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSN, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.\n\n" +
+      "Sony PlayStation Terms and Conditions:\n" +
+      'Your use of this PSNSM code ("Code") constitutes your acceptance of these terms and any additional terms available at http://us.playstation.com/redemption.',
+    price: 38.1,
+    country: "Australia",
+    related: "playstation",
+  },
+  // playstation UAE
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 5",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 5.0,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 10",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 10.0,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 15",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 15.15,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 20",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 20.0,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 30",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 29.87,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 40",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 39.45,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 45",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 44.8,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 50",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 49.95,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 60",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 60.77,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 70",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 70.0,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card UAE AED 100",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 98.88,
+    country: "UAE",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 12 Month Membership UAE",
+    description:
+      "This product is valid for the UAE PSN store only. It is not redeemable for PSN accounts created in countries other than the United Arab Emirates.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 57.16,
+    country: "UAE",
+    related: "playstation",
+  },
+  // playstation germany
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 5",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 5.66,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 10",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 10.6,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 15",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 15.96,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 20",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 21.3,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 25",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 26.67,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 30",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 31.93,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 35",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 37.35,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 40",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 42.23,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 50",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 5.66, // Assuming this is a typo, it should match other similar entries
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 75",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 50.47,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Germany EUR 100",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 106.0,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 1 Month Membership Germany",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 9.37,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 3 Month Membership Germany",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 24.72,
+    country: "Germany",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 12 Month Membership Germany",
+    description:
+      "This product is valid for the Germany PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 60.25,
+    country: "Germany",
+    related: "playstation",
+  },
+  // playstation kuwait
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 5",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 5.0,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 10",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 10.0,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 15",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 15.0,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 20",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 20.0,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 30",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 30.2,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 40",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 40.15,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 45",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 45.3,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 50",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 50.35,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 60",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 60.45,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 70",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 70.5,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Kuwait USD 100",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 100.95,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 1 Month Membership Kuwait",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 8.2,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 3 Month Membership Kuwait",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 21.4,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 12 Month Membership Kuwait",
+    description:
+      "This product is valid for the Kuwait PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 21.4,
+    country: "Kuwait",
+    related: "playstation",
+  },
+  // playstation saudi arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 5",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 5.15,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 10",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 10.3,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 15",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 15.45,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 20",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 20.6,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 30",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 30.9,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 40",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 41.2,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 45",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 46.35,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 50",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 51.5,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 60",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 61.8,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 70",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 72.1,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card Saudi Arabia USD 100",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 103.0,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 1 Month Membership Saudi Arabia",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 8.75,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 3 Month Membership Saudi Arabia",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 20.6,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Plus 12 Month Membership Saudi Arabia",
+    description:
+      "This product is valid for the Saudi Arabia PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the code and your membership will be activated immediately.",
+    price: 46.35,
+    country: "saudi arabia",
+    related: "playstation",
+  },
+  // playstation uk
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 5",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 6.2,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 10",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 10.39,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 15",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 17.51,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 20",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 24.61,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 25",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 30.9,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 30",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 36.0,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 35",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 43.26,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 45",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 53.56,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 50",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 61.8,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 80",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 95.79,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 90",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 108.0,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card United Kingdom GBP 100",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page.\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately.",
+    price: 120.5,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Now 1 Month Subscription (UK)",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Subscribe to PlayStation Now and gain access to a library of over 800 PS4, PS3, and PS2 games to stream instantly to your PS5, PS4, or PC, and download hundreds of PS4 and PS2 games to play on your PS4 or PS5 console.\n\n" +
+      "How to Subscribe:\n" +
+      "1. Sign in to PlayStation Network on your PS5, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the PlayStation Now subscription.\n" +
+      "3. Follow the on-screen instructions to complete your subscription.",
+    price: 12.36,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Now 3 Month Subscription (UK)",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Subscribe to PlayStation Now and gain access to a library of over 800 PS4, PS3, and PS2 games to stream instantly to your PS5, PS4, or PC, and download hundreds of PS4 and PS2 games to play on your PS4 or PS5 console.\n\n" +
+      "How to Subscribe:\n" +
+      "1. Sign in to PlayStation Network on your PS5, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the PlayStation Now subscription.\n" +
+      "3. Follow the on-screen instructions to complete your subscription.",
+    price: 31.9,
+    country: "UK",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Now 12 Month Subscription (UK)",
+    description:
+      "This product is valid for the UK PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Subscribe to PlayStation Now and gain access to a library of over 800 PS4, PS3, and PS2 games to stream instantly to your PS5, PS4, or PC, and download hundreds of PS4 and PS2 games to play on your PS4 or PS5 console.\n\n" +
+      "How to Subscribe:\n" +
+      "1. Sign in to PlayStation Network on your PS5, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the PlayStation Now subscription.\n" +
+      "3. Follow the on-screen instructions to complete your subscription.",
+    price: 61.8,
+    country: "UK",
+    related: "playstation",
+  },
+  // playstation USA
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $10 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $10 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 9.47,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $20 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $20 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 19.46,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $25 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $25 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 23.69,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $30 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $30 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 29.87,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $50 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $50 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 46.86,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $55 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $55 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 54.59,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $60 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $60 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 56.13,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $70 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $70 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 70.55,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $75 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $75 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 70.0,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $100 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $100 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 95.79,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation PSN Card $110 (US)",
+    description:
+      "This product is valid for the USA PSN store only. It is not redeemable for PSN accounts created in other countries.\n\n" +
+      "Add $110 to your PlayStation Network (PSN) account to purchase games, movies, and more from the PlayStation Store.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS3, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet.",
+    price: 108.15,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Now 1 Month Subscription (US)",
+    description:
+      "Subscribe to PlayStation Now and gain access to a library of over 800 PS4, PS3, and PS2 games to stream instantly to your PS5, PS4, or PC, and download hundreds of PS4 and PS2 games to play on your PS4 or PS5 console.\n\n" +
+      "How to Subscribe:\n" +
+      "1. Sign in to PlayStation Network on your PS5, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the PlayStation Now subscription.\n" +
+      "3. Follow the on-screen instructions to complete your subscription.",
+    price: 11.53,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Now 3 Month Subscription (US)",
+    description:
+      "Subscribe to PlayStation Now and gain access to a library of over 800 PS4, PS3, and PS2 games to stream instantly to your PS5, PS4, or PC, and download hundreds of PS4 and PS2 games to play on your PS4 or PS5 console.\n\n" +
+      "How to Subscribe:\n" +
+      "1. Sign in to PlayStation Network on your PS5, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the PlayStation Now subscription.\n" +
+      "3. Follow the on-screen instructions to complete your subscription.",
+    price: 25.75,
+    country: "USA",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Now 12 Month Subscription (US)",
+    description:
+      "Subscribe to PlayStation Now and gain access to a library of over 800 PS4, PS3, and PS2 games to stream instantly to your PS5, PS4, or PC, and download hundreds of PS4 and PS2 games to play on your PS4 or PS5 console.\n\n" +
+      "How to Subscribe:\n" +
+      "1. Sign in to PlayStation Network on your PS5, PS4, or PC using Media Go.\n" +
+      "2. Go to PlayStation Store and select the PlayStation Now subscription.\n" +
+      "3. Follow the on-screen instructions to complete your subscription.",
+    price: 56.65,
+    country: "USA",
+    related: "playstation",
+  },
+  // playstation canda
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Network Card CAD $10",
+    description:
+      "Redeem this CAD $10 PlayStation Network Card to add funds to your PlayStation Store wallet and enjoy gaming, movies, music, and more content on your PS4, PS3, PS Vita, and PSP systems.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS4, PS3, PS Vita, or PSP.\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes option.\n" +
+      "3. Enter the code to add funds to your wallet instantly.\n\n" +
+      "Sony PlayStation Terms and Conditions:\n" +
+      "Your use of this PSN code constitutes your acceptance of these terms and any additional terms available at http://us.playstation.com/redemption.",
+    price: 8.44,
+    country: "Canada",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Network Card CAD $20",
+    description:
+      "Get CAD $20 in your PlayStation Store wallet with this redeemable card, and explore a wide range of downloadable content for your PS4, PS3, PS Vita, and PSP systems.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS4, PS3, PS Vita, or PSP.\n" +
+      "2. Navigate to PlayStation Store and choose Redeem Codes.\n" +
+      "3. Enter the code to add funds to your wallet instantly.\n\n" +
+      "Sony PlayStation Terms and Conditions:\n" +
+      "By redeeming this PSN code, you agree to the terms and conditions posted at http://us.playstation.com/redemption.",
+    price: 16.68,
+    country: "Canada",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Network Card CAD $25",
+    description:
+      "Add CAD $25 to your PlayStation Store wallet instantly upon redemption, and access a variety of games, movies, and exclusive content on your PS4, PS3, PS Vita, and PSP systems.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS4, PS3, PS Vita, or PSP.\n" +
+      "2. Visit PlayStation Store and select Redeem Codes.\n" +
+      "3. Enter the code to add funds to your wallet immediately.\n\n" +
+      "Sony PlayStation Terms and Conditions:\n" +
+      "Using this PSN code signifies your acceptance of the terms and conditions available at http://us.playstation.com/redemption.",
+    price: 20.9,
+    country: "Canada",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Network Card CAD $50",
+    description:
+      "Redeem this CAD $50 PlayStation Network Card to receive funds in your wallet for purchasing games, DLC, movies, and more on your PS4, PS3, PS Vita, and PSP systems.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS4, PS3, PS Vita, or PSP.\n" +
+      "2. Go to PlayStation Store and select Redeem Codes.\n" +
+      "3. Enter the code to add funds to your wallet instantly.\n\n" +
+      "Sony PlayStation Terms and Conditions:\n" +
+      "Your use of this PSN code is subject to the terms and conditions posted at http://us.playstation.com/redemption.",
+    price: 41.7,
+    country: "Canada",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Network Card CAD $60",
+    description:
+      "Add CAD $60 to your PlayStation Store wallet using this redeemable card, and enjoy gaming, entertainment, and more on your PS4, PS3, PS Vita, and PSP systems.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS4, PS3, PS Vita, or PSP.\n" +
+      "2. Navigate to PlayStation Store and select Redeem Codes.\n" +
+      "3. Enter the code to add funds to your wallet instantly.\n\n" +
+      "Sony PlayStation Terms and Conditions:\n" +
+      "By redeeming this PSN code, you agree to the terms and conditions found at http://us.playstation.com/redemption.",
+    price: 50.47,
+    country: "Canada",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Network Card CAD $75",
+    description:
+      "Instantly add CAD $75 to your PlayStation Store wallet with this card, and get access to a wide selection of games, movies, and exclusive content on your PS4, PS3, PS Vita, and PSP systems.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS4, PS3, PS Vita, or PSP.\n" +
+      "2. Go to PlayStation Store and select Redeem Codes.\n" +
+      "3. Enter the code to add funds to your wallet immediately.\n\n" +
+      "Sony PlayStation Terms and Conditions:\n" +
+      "Using this PSN code signifies your acceptance of the terms and conditions available at http://us.playstation.com/redemption.",
+    price: 62.3,
+    country: "Canada",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "PlayStation Network Card CAD $100",
+    description:
+      "Redeem this CAD $100 PlayStation Network Card to add funds to your wallet and purchase games, movies, music, and more on your PS4, PS3, PS Vita, and PSP systems.\n\n" +
+      "How to Redeem:\n" +
+      "1. Sign in to PlayStation Network on your PS4, PS3, PS Vita, or PSP.\n" +
+      "2. Visit PlayStation Store and select Redeem Codes.\n" +
+      "3. Enter the code to add funds to your wallet instantly.\n\n" +
+      "Sony PlayStation Terms and Conditions:\n" +
+      "Your use of this PSN code constitutes your acceptance of these terms and any additional terms available at http://us.playstation.com/redemption.",
+    price: 83.43,
+    country: "Canada",
+    related: "playstation",
+  },
+  // playstation bahrain
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "psn-eur-5-card-bh",
+    description:
+      "psn-eur-5-card-bh = 5.04\n\n" +
+      "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
+      "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
+      "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
+      "3. Enter the PSN card code and the reserves will be included to your wallet immediately\n" +
+      "Sony Playstation Terms and Conditions\n" +
+      "Your utilize of this PSNSM code ('Code') constitutes your acknowledgment of these terms and any extra terms accessible at http://us.playstation.com/redemption.",
+    price: 5.04,
+    country: "Bahrain",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "psn-eur-15-card-bh",
+    description:
+      "psn-eur-15-card-bh = 15.14\n\n" +
+      "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
+      "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
+      "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
+      "3. Enter the PSN card code and the reserves will be included to your wallet immediately\n" +
+      "Sony Playstation Terms and Conditions\n" +
+      "Your utilize of this PSNSM code ('Code') constitutes your acknowledgment of these terms and any extra terms accessible at http://us.playstation.com/redemption.",
+    price: 15.14,
+    country: "Bahrain",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "psn-eur-30-card-bh",
+    description:
+      "psn-eur-30-card-bh = 30.17\n\n" +
+      "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
+      "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
+      "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
+      "3. Enter the PSN card code and the reserves will be included to your wallet immediately\n" +
+      "Sony Playstation Terms and Conditions\n" +
+      "Your utilize of this PSNSM code ('Code') constitutes your acknowledgment of these terms and any extra terms accessible at http://us.playstation.com/redemption.",
+    price: 30.17,
+    country: "Bahrain",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "psn-eur-50-card-bh",
+    description:
+      "psn-eur-50-card-bh = 50.36\n\n" +
+      "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
+      "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
+      "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
+      "3. Enter the PSN card code and the reserves will be included to your wallet immediately\n" +
+      "Sony Playstation Terms and Conditions\n" +
+      "Your utilize of this PSNSM code ('Code') constitutes your acknowledgment of these terms and any extra terms accessible at http://us.playstation.com/redemption.",
+    price: 50.36,
+    country: "Bahrain",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "psn-eur-70-card-bh",
+    description:
+      "psn-eur-70-card-bh = 70.55\n\n" +
+      "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
+      "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
+      "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
+      "3. Enter the PSN card code and the reserves will be included to your wallet immediately\n" +
+      "Sony Playstation Terms and Conditions\n" +
+      "Your utilize of this PSNSM code ('Code') constitutes your acknowledgment of these terms and any extra terms accessible at http://us.playstation.com/redemption.",
+    price: 70.55,
+    country: "Bahrain",
+    related: "playstation",
+  },
+  // playstation greece
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "playstation-plus-3-months-membership-gr",
+    description:
+      "playstation-plus-3-months-membership-gr = 24.70\n\n" +
+      "Purchase PlayStation Plus Membership now! Take your gaming to another level with exclusive content and exciting downloads of PlayStation Plus. This membership card offers months' worth of full-game trials, exclusive offers, free games, early demos and betas and much more right at your fingertips — and right through your PlayStation 3, PlayStation 4, and PS Vita - for the incredible gaming experience you've always wanted.\n\n" +
+      "How to redeem the PlayStation Network Card Code?\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately\n\n" +
+      "Sony Playstation Terms and Conditions\n" +
+      "Your use of this PSNSM code ('Code') constitutes your acknowledgment of these terms and any additional terms available at http://us.playstation.com/redemption.",
+    price: 24.7,
+    country: "Greece",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "playstation-plus-12-months-membership-gr",
+    description:
+      "playstation-plus-12-months-membership-gr = 56.65\n\n" +
+      "Purchase PlayStation Plus Membership now! Take your gaming to another level with exclusive content and exciting downloads of PlayStation Plus. This membership card offers months' worth of full-game trials, exclusive offers, free games, early demos and betas and much more right at your fingertips — and right through your PlayStation 3, PlayStation 4, and PS Vita - for the incredible gaming experience you've always wanted.\n\n" +
+      "How to redeem the PlayStation Network Card Code?\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately\n\n" +
+      "Sony Playstation Terms and Conditions\n" +
+      "Your use of this PSNSM code ('Code') constitutes your acknowledgment of these terms and any additional terms available at http://us.playstation.com/redemption.",
+    price: 56.65,
+    country: "Greece",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "psn-eur-20-card-gr",
+    description:
+      "psn-eur-20-card-gr = 23.79\n\n" +
+      "A PlayStation Network (PSN) card grants you access to various PS Network services. It serves as a virtual or online medium of exchange that you can use to purchase goods on the PS Network.\n\n" +
+      "When do PSN codes activate?\n" +
+      "To access specific items, you'll receive 12-digit alphanumeric PlayStation Network codes using your PSN account. These codes are for one-time use only; you cannot use the same code more than once. You can start downloading content to your PS console after entering the code. When using the PlayStation VITA version, log in to your PlayStation Network account first. Once you've done that, you'll see the REUSE CODES icon.\n\n" +
+      "How to redeem a PlayStation Store voucher online:\n" +
+      "1) Go to PlayStation Store and select your profile at the top of the screen.\n" +
+      "2) Select Redeem Codes from the drop-down menu.\n" +
+      "3) Carefully enter the code and select Redeem.\n\n" +
+      "The credit or content is applied to your account.",
+    price: 23.79,
+    country: "Greece",
+    related: "playstation",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "psn-eur-50-card-gr",
+    description:
+      "psn-eur-50-card-gr = 54.59\n\n" +
+      "A PlayStation Network (PSN) card grants you access to various PS Network services. It serves as a virtual or online medium of exchange that you can use to purchase goods on the PS Network.\n\n" +
+      "When do PSN codes activate?\n" +
+      "To access specific items, you'll receive 12-digit alphanumeric PlayStation Network codes using your PSN account. These codes are for one-time use only; you cannot use the same code more than once. You can start downloading content to your PS console after entering the code. When using the PlayStation VITA version, log in to your PlayStation Network account first. Once you've done that, you'll see the REUSE CODES icon.\n\n" +
+      "How to redeem a PlayStation Store voucher online:\n" +
+      "1) Go to PlayStation Store and select your profile at the top of the screen.\n" +
+      "2) Select Redeem Codes from the drop-down menu.\n" +
+      "3) Carefully enter the code and select Redeem.\n\n" +
+      "The credit or content is applied to your account.",
+    price: 54.59,
+    country: "Greece",
+    related: "playstation",
+  },
+  // playstation hong kong
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "psn-200-hkd-card-hk",
+    description:
+      "psn-200-hkd-card-hk = 27.29\n\n" +
+      "How to redeem the PlayStation Network Card Code?\n" +
+      "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go\n" +
+      "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page\n" +
+      "3. Enter the PSN card code and the funds will be added to your wallet immediately\n\n" +
+      "Sony Playstation Terms and Conditions\n" +
+      "Your use of this PSNSM code ('Code') constitutes your acknowledgment of these terms and any additional terms available at http://us.playstation.com/redemption.",
+    price: 27.29,
+    country: "Hong Kong",
+    related: "playstation",
+  },
   // Game Cards
-  // psn
 ];
