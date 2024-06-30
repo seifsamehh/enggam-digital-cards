@@ -6768,7 +6768,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "psn-eur-5-card-bh",
     description:
-      "psn-eur-5-card-bh = 5.04\n\n" +
       "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
       "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
       "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
@@ -6785,7 +6784,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "psn-eur-15-card-bh",
     description:
-      "psn-eur-15-card-bh = 15.14\n\n" +
       "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
       "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
       "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
@@ -6802,7 +6800,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "psn-eur-30-card-bh",
     description:
-      "psn-eur-30-card-bh = 30.17\n\n" +
       "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
       "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
       "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
@@ -6819,7 +6816,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "psn-eur-50-card-bh",
     description:
-      "psn-eur-50-card-bh = 50.36\n\n" +
       "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
       "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
       "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
@@ -6836,7 +6832,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "psn-eur-70-card-bh",
     description:
-      "psn-eur-70-card-bh = 70.55\n\n" +
       "This item is pertinent for Bahrain PSN store as it were. (It isn't redeemable for PSN accounts made in other nations than the Canada Code?\n" +
       "1. Sign in to PlayStation Organize on your PS3, PSN or PC utilizing Media Go\n" +
       "2. Head to PlayStation Store and select the Recover Codes symbol at the best of the page\n" +
@@ -6854,7 +6849,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "playstation-plus-3-months-membership-gr",
     description:
-      "playstation-plus-3-months-membership-gr = 24.70\n\n" +
       "Purchase PlayStation Plus Membership now! Take your gaming to another level with exclusive content and exciting downloads of PlayStation Plus. This membership card offers months' worth of full-game trials, exclusive offers, free games, early demos and betas and much more right at your fingertips — and right through your PlayStation 3, PlayStation 4, and PS Vita - for the incredible gaming experience you've always wanted.\n\n" +
       "How to redeem the PlayStation Network Card Code?\n" +
       "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go\n" +
@@ -6872,7 +6866,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "playstation-plus-12-months-membership-gr",
     description:
-      "playstation-plus-12-months-membership-gr = 56.65\n\n" +
       "Purchase PlayStation Plus Membership now! Take your gaming to another level with exclusive content and exciting downloads of PlayStation Plus. This membership card offers months' worth of full-game trials, exclusive offers, free games, early demos and betas and much more right at your fingertips — and right through your PlayStation 3, PlayStation 4, and PS Vita - for the incredible gaming experience you've always wanted.\n\n" +
       "How to redeem the PlayStation Network Card Code?\n" +
       "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go\n" +
@@ -6890,7 +6883,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "psn-eur-20-card-gr",
     description:
-      "psn-eur-20-card-gr = 23.79\n\n" +
       "A PlayStation Network (PSN) card grants you access to various PS Network services. It serves as a virtual or online medium of exchange that you can use to purchase goods on the PS Network.\n\n" +
       "When do PSN codes activate?\n" +
       "To access specific items, you'll receive 12-digit alphanumeric PlayStation Network codes using your PSN account. These codes are for one-time use only; you cannot use the same code more than once. You can start downloading content to your PS console after entering the code. When using the PlayStation VITA version, log in to your PlayStation Network account first. Once you've done that, you'll see the REUSE CODES icon.\n\n" +
@@ -6909,7 +6901,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "psn-eur-50-card-gr",
     description:
-      "psn-eur-50-card-gr = 54.59\n\n" +
       "A PlayStation Network (PSN) card grants you access to various PS Network services. It serves as a virtual or online medium of exchange that you can use to purchase goods on the PS Network.\n\n" +
       "When do PSN codes activate?\n" +
       "To access specific items, you'll receive 12-digit alphanumeric PlayStation Network codes using your PSN account. These codes are for one-time use only; you cannot use the same code more than once. You can start downloading content to your PS console after entering the code. When using the PlayStation VITA version, log in to your PlayStation Network account first. Once you've done that, you'll see the REUSE CODES icon.\n\n" +
@@ -6929,7 +6920,6 @@ export const subCategoryProducts = [
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "psn-200-hkd-card-hk",
     description:
-      "psn-200-hkd-card-hk = 27.29\n\n" +
       "How to redeem the PlayStation Network Card Code?\n" +
       "1. Sign in to PlayStation Network on your PS3, PSP, or PC using Media Go\n" +
       "2. Go to PlayStation Store and select the Redeem Codes icon at the top of the page\n" +
