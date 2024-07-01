@@ -84,8 +84,8 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
         <HeaderHome />
         <main className="py-6 flex justify-center items-center flex-col gap-2">
           <Image
-            src="/assets/product-not-found.svg"
-            alt="not found"
+            src="/assets/out-of-stock.svg"
+            alt="out of stock"
             width={500}
             height={500}
           />
@@ -131,7 +131,7 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
             </select>
           </div>
           <h1 className={`${tanker.className} text-3xl md:text-8xl`}>
-            Product not found
+            Out of stock
           </h1>
         </main>
         <Footer />
