@@ -6930,5 +6930,1701 @@ export const subCategoryProducts = [
     country: "Hong Kong",
     related: "playstation",
   },
-  // Game Cards
+  // Razer Gold
+  // Razer Gold Brazil
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-5-brl-card-br",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Brazil) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 1.13,
+    country: "Brazil",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-10-brl-card-br",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Brazil) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 2.26,
+    country: "Brazil",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-20-brl-card-br",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Brazil) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 4.84,
+    country: "Brazil",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-25-brl-card-br",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Brazil) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 5.15,
+    country: "Brazil",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-30-brl-card-br",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Brazil) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 8.24,
+    country: "Brazil",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-50-brl-card-br",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Brazil) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 10.3,
+    country: "Brazil",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-100-brl-card-br",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Brazil) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 22.66,
+    country: "Brazil",
+    related: "razer-gold",
+  },
+  // Razer Gold Canada
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-20-cad-card-ca",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Tap on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Canada) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 17.4,
+    country: "Canada",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-25-cad-card-ca",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Tap on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Canada) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 21.63,
+    country: "Canada",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-50-cad-card-ca",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Tap on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Canada) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 42.74,
+    country: "Canada",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-100-cad-card-ca",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Tap on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Canada) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 85.69,
+    country: "Canada",
+    related: "razer-gold",
+  },
+  // Razer Gold Europe
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-5-eur-card-eu",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Europe) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 5.97,
+    country: "Europe",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-10-eur-card-eu",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Europe) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 12.36,
+    country: "Europe",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-20-eur-card-eu",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Europe) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 23.69,
+    country: "Europe",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-50-eur-card-eu",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Europe) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 56.65,
+    country: "Europe",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-100-eur-card-eu",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Europe) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 112.27,
+    country: "Europe",
+    related: "razer-gold",
+  },
+  // Razer Gold Malaysia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-5-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 1.54,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-10-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 2.88,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-20-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 5.56,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-30-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 8.24,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-40-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 11.02,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-50-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 13.39,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-100-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 26.26,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-200-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 50.98,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-300-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 76.37,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-500-my-card-my",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Malaysia) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 127.27,
+    country: "Malaysia",
+    related: "razer-gold",
+  },
+  // Razer Gold Turkey
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-5-try-card-try",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Turkey) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 0.46,
+    country: "Turkey",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-10-try-card-try",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Turkey) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 0.77,
+    country: "Turkey",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-25-try-card-try",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Turkey) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 2.06,
+    country: "Turkey",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-50-try-card-try",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Turkey) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 3.7,
+    country: "Turkey",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-100-try-card-try",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Turkey) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 7.21,
+    country: "Turkey",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-250-try-card-try",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Turkey) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 16.99,
+    country: "Turkey",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-500-try-card-try",
+    description:
+      "How to redeem your Razer Gold PIN?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Press on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click Next.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold?\n" +
+      "Razer Gold (Turkey) vouchers are a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including Razer Silver and exclusive game deals.",
+    price: 30.9,
+    country: "Turkey",
+    related: "razer-gold",
+  },
+  // Razer Gold USA
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-1-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 1.33,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-2-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 2.47,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-5-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 5.04,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-10-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 9.99,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-20-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 20.08,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-25-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 25.75,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-50-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 50.47,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-100-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 100.94,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-150-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 154.5,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-200-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 200.85,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-250-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 257.5,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-300-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 309.0,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-400-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 412.0,
+    country: "USA",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-500-rixty-card-usa",
+    description:
+      "How to redeem your Razer Gold Rixty Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Rixty) USA?\n" +
+      "Razer Gold USD (Rixty) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more bang for your buck, including earning Razer Silver and exclusive game deals.",
+    price: 504.7,
+    country: "USA",
+    related: "razer-gold",
+  },
+  // Razer Gold Global
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-1-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 1.03,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-2-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 2.16,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-5-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 5.04,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-10-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 10.09,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-20-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 20.39,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-50-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 51.5,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-100-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 103.0,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-150-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 154.5,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-200-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 203.94,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-250-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 257.5,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-300-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 303.85,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-400-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 406.85,
+    country: "Global",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-500-global-card",
+    description:
+      "How to redeem your Razer Gold Global Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Global)?\n" +
+      "Razer Gold Global is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 504.7,
+    country: "Global",
+    related: "razer-gold",
+  },
+  // Razer Gold Colombia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-cop-30000",
+    description:
+      "How to redeem your Razer Gold Colombia Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Colombia)?\n" +
+      "Razer Gold Colombia is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 10.3,
+    country: "Colombia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-cop-50000",
+    description:
+      "How to redeem your Razer Gold Colombia Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Colombia)?\n" +
+      "Razer Gold Colombia is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 19.57,
+    country: "Colombia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-cop-100000",
+    description:
+      "How to redeem your Razer Gold Colombia Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Colombia)?\n" +
+      "Razer Gold Colombia is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 32.96,
+    country: "Colombia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-cop-150000",
+    description:
+      "How to redeem your Razer Gold Colombia Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Colombia)?\n" +
+      "Razer Gold Colombia is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 47.38,
+    country: "Colombia",
+    related: "razer-gold",
+  },
+  // Razer Gold Australia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-australia-aud-10",
+    description:
+      "How to redeem your Razer Gold Australia Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Australia)?\n" +
+      "Razer Gold Australia is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 8.14,
+    country: "Australia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-australia-aud-20",
+    description:
+      "How to redeem your Razer Gold Australia Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Australia)?\n" +
+      "Razer Gold Australia is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 16.0,
+    country: "Australia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-australia-aud-50",
+    description:
+      "How to redeem your Razer Gold Australia Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Australia)?\n" +
+      "Razer Gold Australia is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 39.24,
+    country: "Australia",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-australia-aud-100",
+    description:
+      "How to redeem your Razer Gold Australia Code?\n" +
+      "1. Log in to your Razer Gold account at gold.razer.com.\n" +
+      "2. Click on [Reload Now] to reload your Razer account.\n" +
+      "3. Select 'Razer Gold Gift Card (PIN)', enter your PIN or voucher code, and click 'Next'.\n" +
+      "4. Successfully reload your account and start using your Razer Gold to purchase games and in-game content.\n\n" +
+      "What is the purpose of Razer Gold (Australia)?\n" +
+      "Razer Gold Australia is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 78.28,
+    country: "Australia",
+    related: "razer-gold",
+  },
+  // Razer Gold Hong Kong
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-hong-kong-hkd-50",
+    description:
+      "How to redeem your Razer Gold Hong Kong Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Hong Kong)?\n" +
+      "Razer Gold Hong Kong is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 8.44,
+    country: "Hong Kong",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-hong-kong-hkd-100",
+    description:
+      "How to redeem your Razer Gold Hong Kong Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Hong Kong)?\n" +
+      "Razer Gold Hong Kong is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 15.96,
+    country: "Hong Kong",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-hong-kong-hkd-200",
+    description:
+      "How to redeem your Razer Gold Hong Kong Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Hong Kong)?\n" +
+      "Razer Gold Hong Kong is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 30.38,
+    country: "Hong Kong",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-hong-kong-hkd-300",
+    description:
+      "How to redeem your Razer Gold Hong Kong Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Hong Kong)?\n" +
+      "Razer Gold Hong Kong is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 44.59,
+    country: "Hong Kong",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-hong-kong-hkd-400",
+    description:
+      "How to redeem your Razer Gold Hong Kong Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Hong Kong)?\n" +
+      "Razer Gold Hong Kong is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 58.7,
+    country: "Hong Kong",
+    related: "razer-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-hong-kong-hkd-500",
+    description:
+      "How to redeem your Razer Gold Hong Kong Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Hong Kong)?\n" +
+      "Razer Gold Hong Kong is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 72.92,
+    country: "Hong Kong",
+    related: "razer-gold",
+  },
+  // Razer Gold India
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-india-inr-50",
+    description:
+      "How to redeem your Razer Gold India Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (India)?\n" +
+      "Razer Gold India is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 1.0,
+    country: "India",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-india-inr-500",
+    description:
+      "How to redeem your Razer Gold India Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (India)?\n" +
+      "Razer Gold India is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 7.72,
+    country: "India",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-india-inr-1000",
+    description:
+      "How to redeem your Razer Gold India Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (India)?\n" +
+      "Razer Gold India is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 15.75,
+    country: "India",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-india-inr-2000",
+    description:
+      "How to redeem your Razer Gold India Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (India)?\n" +
+      "Razer Gold India is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 30.38,
+    country: "India",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-india-inr-3000",
+    description:
+      "How to redeem your Razer Gold India Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (India)?\n" +
+      "Razer Gold India is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 45.32,
+    country: "India",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-india-inr-5000",
+    description:
+      "How to redeem your Razer Gold India Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (India)?\n" +
+      "Razer Gold India is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 74.67,
+    country: "India",
+    related: "razer-gold",
+  },
+  // Razer Gold Indonesia
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-indonesia-idr-10000",
+    description:
+      "How to upgrade MOL account to Razer Gold account?\n" +
+      "1. Visit zvault.razer.com or www.mol.com to receive the prompt to upgrade to a Razer Gold account.\n" +
+      "2. Login to the upgrade portal with your existing MOL or zVault account. Next, you will be prompted to verify your account via a few emails.\n" +
+      "3. Create a new Razer ID account, or login with your existing Razer ID.\n" +
+      "4. Select your preferred wallet currency. If your country is not listed, select the “Global” option.\n" +
+      "5. Verify your Razer ID account to complete the upgrade.\n" +
+      "6. Get rewarded with Razer Silver upon your successful upgrade.\n\n" +
+      "What is the purpose of Razer Gold (Indonesia)?\n" +
+      "Razer Gold Indonesia (IDR) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 0.92,
+    country: "Indonesia",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-indonesia-idr-20000",
+    description:
+      "How to upgrade MOL account to Razer Gold account?\n" +
+      "1. Visit zvault.razer.com or www.mol.com to receive the prompt to upgrade to a Razer Gold account.\n" +
+      "2. Login to the upgrade portal with your existing MOL or zVault account. Next, you will be prompted to verify your account via a few emails.\n" +
+      "3. Create a new Razer ID account, or login with your existing Razer ID.\n" +
+      "4. Select your preferred wallet currency. If your country is not listed, select the “Global” option.\n" +
+      "5. Verify your Razer ID account to complete the upgrade.\n" +
+      "6. Get rewarded with Razer Silver upon your successful upgrade.\n\n" +
+      "What is the purpose of Razer Gold (Indonesia)?\n" +
+      "Razer Gold Indonesia (IDR) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 1.95,
+    country: "Indonesia",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-indonesia-idr-50000",
+    description:
+      "How to upgrade MOL account to Razer Gold account?\n" +
+      "1. Visit zvault.razer.com or www.mol.com to receive the prompt to upgrade to a Razer Gold account.\n" +
+      "2. Login to the upgrade portal with your existing MOL or zVault account. Next, you will be prompted to verify your account via a few emails.\n" +
+      "3. Create a new Razer ID account, or login with your existing Razer ID.\n" +
+      "4. Select your preferred wallet currency. If your country is not listed, select the “Global” option.\n" +
+      "5. Verify your Razer ID account to complete the upgrade.\n" +
+      "6. Get rewarded with Razer Silver upon your successful upgrade.\n\n" +
+      "What is the purpose of Razer Gold (Indonesia)?\n" +
+      "Razer Gold Indonesia (IDR) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 4.12,
+    country: "Indonesia",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-indonesia-idr-100000",
+    description:
+      "How to upgrade MOL account to Razer Gold account?\n" +
+      "1. Visit zvault.razer.com or www.mol.com to receive the prompt to upgrade to a Razer Gold account.\n" +
+      "2. Login to the upgrade portal with your existing MOL or zVault account. Next, you will be prompted to verify your account via a few emails.\n" +
+      "3. Create a new Razer ID account, or login with your existing Razer ID.\n" +
+      "4. Select your preferred wallet currency. If your country is not listed, select the “Global” option.\n" +
+      "5. Verify your Razer ID account to complete the upgrade.\n" +
+      "6. Get rewarded with Razer Silver upon your successful upgrade.\n\n" +
+      "What is the purpose of Razer Gold (Indonesia)?\n" +
+      "Razer Gold Indonesia (IDR) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 8.24,
+    country: "Indonesia",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-indonesia-idr-200000",
+    description:
+      "How to upgrade MOL account to Razer Gold account?\n" +
+      "1. Visit zvault.razer.com or www.mol.com to receive the prompt to upgrade to a Razer Gold account.\n" +
+      "2. Login to the upgrade portal with your existing MOL or zVault account. Next, you will be prompted to verify your account via a few emails.\n" +
+      "3. Create a new Razer ID account, or login with your existing Razer ID.\n" +
+      "4. Select your preferred wallet currency. If your country is not listed, select the “Global” option.\n" +
+      "5. Verify your Razer ID account to complete the upgrade.\n" +
+      "6. Get rewarded with Razer Silver upon your successful upgrade.\n\n" +
+      "What is the purpose of Razer Gold (Indonesia)?\n" +
+      "Razer Gold Indonesia (IDR) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 15.96,
+    country: "Indonesia",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-indonesia-idr-500000",
+    description:
+      "How to upgrade MOL account to Razer Gold account?\n" +
+      "1. Visit zvault.razer.com or www.mol.com to receive the prompt to upgrade to a Razer Gold account.\n" +
+      "2. Login to the upgrade portal with your existing MOL or zVault account. Next, you will be prompted to verify your account via a few emails.\n" +
+      "3. Create a new Razer ID account, or login with your existing Razer ID.\n" +
+      "4. Select your preferred wallet currency. If your country is not listed, select the “Global” option.\n" +
+      "5. Verify your Razer ID account to complete the upgrade.\n" +
+      "6. Get rewarded with Razer Silver upon your successful upgrade.\n\n" +
+      "What is the purpose of Razer Gold (Indonesia)?\n" +
+      "Razer Gold Indonesia (IDR) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 39.14,
+    country: "Indonesia",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-indonesia-idr-1000000",
+    description:
+      "How to upgrade MOL account to Razer Gold account?\n" +
+      "1. Visit zvault.razer.com or www.mol.com to receive the prompt to upgrade to a Razer Gold account.\n" +
+      "2. Login to the upgrade portal with your existing MOL or zVault account. Next, you will be prompted to verify your account via a few emails.\n" +
+      "3. Create a new Razer ID account, or login with your existing Razer ID.\n" +
+      "4. Select your preferred wallet currency. If your country is not listed, select the “Global” option.\n" +
+      "5. Verify your Razer ID account to complete the upgrade.\n" +
+      "6. Get rewarded with Razer Silver upon your successful upgrade.\n\n" +
+      "What is the purpose of Razer Gold (Indonesia)?\n" +
+      "Razer Gold Indonesia (IDR) is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 77.76,
+    country: "Indonesia",
+    related: "razer-gold",
+  },
+  // Razer Gold Mexico
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-mexico-mxn-200",
+    description:
+      "How to redeem your Razer Gold Mexico Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Mexico)?\n" +
+      "Razer Gold Mexico is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 14.42,
+    country: "Mexico",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-mexico-mxn-350",
+    description:
+      "How to redeem your Razer Gold Mexico Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Mexico)?\n" +
+      "Razer Gold Mexico is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 27.81,
+    country: "Mexico",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-mexico-mxn-500",
+    description:
+      "How to redeem your Razer Gold Mexico Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Mexico)?\n" +
+      "Razer Gold Mexico is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 38.11,
+    country: "Mexico",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-mexico-mxn-1000",
+    description:
+      "How to redeem your Razer Gold Mexico Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Mexico)?\n" +
+      "Razer Gold Mexico is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 72.1,
+    country: "Mexico",
+    related: "razer-gold",
+  },
+  // Razer Gold Taiwan
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-taiwan-twd-100",
+    description:
+      "How to redeem your Razer Gold Taiwan Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Taiwan)?\n" +
+      "Razer Gold Taiwan is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 4.84,
+    country: "Taiwan",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-taiwan-twd-300",
+    description:
+      "How to redeem your Razer Gold Taiwan Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Taiwan)?\n" +
+      "Razer Gold Taiwan is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 12.87,
+    country: "Taiwan",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-taiwan-twd-500",
+    description:
+      "How to redeem your Razer Gold Taiwan Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Taiwan)?\n" +
+      "Razer Gold Taiwan is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 26.36,
+    country: "Taiwan",
+    related: "razer-gold",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "razer-gold-taiwan-twd-1000",
+    description:
+      "How to redeem your Razer Gold Taiwan Code?\n" +
+      "1. Visit gold.razer.com and sign into your Razer Gold account.\n" +
+      "2. Click on [Reload Now] and select Razer Gold PIN as your payment method.\n" +
+      "3. Input the PIN and click 'Next'.\n" +
+      "4. Complete the 2-step verification.\n" +
+      "5. Start spending your Razer Gold and earn Razer Silver.\n\n" +
+      "What is the purpose of Razer Gold (Taiwan)?\n" +
+      "Razer Gold Taiwan is a unified virtual credit system for gamers worldwide, with over 42,000 games and entertainment titles available. Purchase games and in-game content with Razer Gold to get more value for your money, including earning Razer Silver and exclusive game deals.",
+    price: 40.78,
+    country: "Taiwan",
+    related: "razer-gold",
+  },
 ];
