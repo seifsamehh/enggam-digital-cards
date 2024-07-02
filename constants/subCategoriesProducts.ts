@@ -8627,4 +8627,1477 @@ export const subCategoryProducts = [
     country: "Taiwan",
     related: "razer-gold",
   },
+  // Steam
+  // Steam UAE
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uae-50-aed",
+    description:
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including bestsellers, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items, and more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to store and reload the stated value into your Steam Account balance, which you can use to purchase your favorite games. Select from all the best titles from current blockbusters, greatest hits, to the best of the independents.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "Follow the steps below to redeem Steam Wallet Code:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the Redeem a Steam Wallet Code page.\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and press Continue.\n" +
+      "4. The funds will be added to your account and be ready for use to purchase games on STEAM!",
+    price: 14.42,
+    country: "UAE",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uae-100-aed",
+    description:
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including bestsellers, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items, and more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to store and reload the stated value into your Steam Account balance, which you can use to purchase your favorite games. Select from all the best titles from current blockbusters, greatest hits, to the best of the independents.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "Follow the steps below to redeem Steam Wallet Code:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the Redeem a Steam Wallet Code page.\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and press Continue.\n" +
+      "4. The funds will be added to your account and be ready for use to purchase games on STEAM!",
+    price: 29.14,
+    country: "UAE",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uae-200-aed",
+    description:
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including bestsellers, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items, and more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to store and reload the stated value into your Steam Account balance, which you can use to purchase your favorite games. Select from all the best titles from current blockbusters, greatest hits, to the best of the independents.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "Follow the steps below to redeem Steam Wallet Code:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the Redeem a Steam Wallet Code page.\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and press Continue.\n" +
+      "4. The funds will be added to your account and be ready for use to purchase games on STEAM!",
+    price: 57.16,
+    country: "UAE",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uae-400-aed",
+    description:
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including bestsellers, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items, and more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to store and reload the stated value into your Steam Account balance, which you can use to purchase your favorite games. Select from all the best titles from current blockbusters, greatest hits, to the best of the independents.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "Follow the steps below to redeem Steam Wallet Code:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the Redeem a Steam Wallet Code page.\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and press Continue.\n" +
+      "4. The funds will be added to your account and be ready for use to purchase games on STEAM!",
+    price: 112.78,
+    country: "UAE",
+    related: "steam",
+  },
+  // Steam Europe
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-eu-5-eur",
+    description:
+      "Steam Wallet Code (EU) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 6.79,
+    country: "Europe",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-eu-10-eur",
+    description:
+      "Steam Wallet Code (EU) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 12.35,
+    country: "Europe",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-eu-20-eur",
+    description:
+      "Steam Wallet Code (EU) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 23.69,
+    country: "Europe",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-eu-50-eur",
+    description:
+      "Steam Wallet Code (EU) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 59.74,
+    country: "Europe",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-eu-100-eur",
+    description:
+      "Steam Wallet Code (EU) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 123.6,
+    country: "Europe",
+    related: "steam",
+  },
+  // Steam Brazil
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-brl-10-br",
+    description:
+      "Steam Wallet Code (Brazil) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 2.57,
+    country: "Brazil",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-brl-20-br",
+    description:
+      "Steam Wallet Code (Brazil) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 4.63,
+    country: "Brazil",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-brl-30-br",
+    description:
+      "Steam Wallet Code (Brazil) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 7.21,
+    country: "Brazil",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-brl-50-br",
+    description:
+      "Steam Wallet Code (Brazil) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 11.33,
+    country: "Brazil",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-brl-100-br",
+    description:
+      "Steam Wallet Code (Brazil) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 22.66,
+    country: "Brazil",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-brl-150-br",
+    description:
+      "Steam Wallet Code (Brazil) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 33.99,
+    country: "Brazil",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-brl-200-br",
+    description:
+      "Steam Wallet Code (Brazil) works like gift certificates that can be redeemed on Steam for the purchase of games, software, hardware, and any other items available for purchase on Steam.\n\n" +
+      "Redemption Steps:\n" +
+      "1. Log in to your Steam account.\n" +
+      "2. Click on your account name in the top right corner, then click on 'Account details'.\n" +
+      "3. Click on 'Add funds to your Steam Wallet'.\n" +
+      "4. Click on 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: https://www.steam.com",
+    price: 44.29,
+    country: "Brazil",
+    related: "steam",
+  },
+  // Steam Kuwait
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-kwd-5-kw",
+    description:
+      "This item is applicable for KW Steam Wallet Codes store only (It is not redeemable for Steam Wallet Codes accounts created in countries other than Kuwait).\n\n" +
+      "How to Redeem A Steam Wallet Code:\n" +
+      "1. Go to [Steam Wallet Code Redemption Page] and sign in if you aren't already. You may need to create a Steam account if you do not already have one.\n" +
+      "2. Once logged into Steam, please enter the unique Wallet code just received into the “Steam Wallet Code” field.\n" +
+      "3. Click “Continue” to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.\n" +
+      "4. The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right-hand corner next to [Your username]'s Account.",
+    price: 18.54,
+    country: "Kuwait",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-kwd-10-kw",
+    description:
+      "This item is applicable for KW Steam Wallet Codes store only (It is not redeemable for Steam Wallet Codes accounts created in countries other than Kuwait).\n\n" +
+      "How to Redeem A Steam Wallet Code:\n" +
+      "1. Go to [Steam Wallet Code Redemption Page] and sign in if you aren't already. You may need to create a Steam account if you do not already have one.\n" +
+      "2. Once logged into Steam, please enter the unique Wallet code just received into the “Steam Wallet Code” field.\n" +
+      "3. Click “Continue” to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.\n" +
+      "4. The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right-hand corner next to [Your username]'s Account.",
+    price: 36.25,
+    country: "Kuwait",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-kwd-20-kw",
+    description:
+      "This item is applicable for KW Steam Wallet Codes store only (It is not redeemable for Steam Wallet Codes accounts created in countries other than Kuwait).\n\n" +
+      "How to Redeem A Steam Wallet Code:\n" +
+      "1. Go to [Steam Wallet Code Redemption Page] and sign in if you aren't already. You may need to create a Steam account if you do not already have one.\n" +
+      "2. Once logged into Steam, please enter the unique Wallet code just received into the “Steam Wallet Code” field.\n" +
+      "3. Click “Continue” to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.\n" +
+      "4. The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right-hand corner next to [Your username]'s Account.",
+    price: 72.1,
+    country: "Kuwait",
+    related: "steam",
+  },
+  {
+    id: "generateUniqueId()",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-kwd-30-kw",
+    description:
+      "This item is applicable for KW Steam Wallet Codes store only (It is not redeemable for Steam Wallet Codes accounts created in countries other than Kuwait).\n\n" +
+      "How to Redeem A Steam Wallet Code:\n" +
+      "1. Go to [Steam Wallet Code Redemption Page] and sign in if you aren't already. You may need to create a Steam account if you do not already have one.\n" +
+      "2. Once logged into Steam, please enter the unique Wallet code just received into the “Steam Wallet Code” field.\n" +
+      "3. Click “Continue” to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.\n" +
+      "4. The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right-hand corner next to [Your username]'s Account.",
+    price: 108.15,
+    country: "Kuwait",
+    related: "steam",
+  },
+  // Steam Saudi Arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-sa-20sar",
+    description:
+      "This item is pertinent for SA Steam Wallet Codes store only (It isn't redeemable for Steam Wallet Codes accounts made in other countries than Saudi Arabia).\n\n" +
+      "How to Redeem A Steam Wallet Code:\n" +
+      "1. Go to [Steam Wallet Code Redemption Page] and sign in if you aren't already. You may need to create a Steam account if you do not already have one.\n" +
+      "2. Once logged into Steam, please enter the unique Wallet code just received into the “Steam Wallet Code” field.\n" +
+      "3. Press “Continue” to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.\n" +
+      "4. The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right-hand corner next to [Your username]'s Account.",
+    price: 6.0,
+    country: "saudi arabia",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-sa-50sar",
+    description:
+      "This item is pertinent for SA Steam Wallet Codes store only (It isn't redeemable for Steam Wallet Codes accounts made in other countries than Saudi Arabia).\n\n" +
+      "How to Redeem A Steam Wallet Code:\n" +
+      "1. Go to [Steam Wallet Code Redemption Page] and sign in if you aren't already. You may need to create a Steam account if you do not already have one.\n" +
+      "2. Once logged into Steam, please enter the unique Wallet code just received into the “Steam Wallet Code” field.\n" +
+      "3. Press “Continue” to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.\n" +
+      "4. The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right-hand corner next to [Your username]'s Account.",
+    price: 14.1,
+    country: "saudi arabia",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-sa-100sar",
+    description:
+      "This item is pertinent for SA Steam Wallet Codes store only (It isn't redeemable for Steam Wallet Codes accounts made in other countries than Saudi Arabia).\n\n" +
+      "How to Redeem A Steam Wallet Code:\n" +
+      "1. Go to [Steam Wallet Code Redemption Page] and sign in if you aren't already. You may need to create a Steam account if you do not already have one.\n" +
+      "2. Once logged into Steam, please enter the unique Wallet code just received into the “Steam Wallet Code” field.\n" +
+      "3. Press “Continue” to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.\n" +
+      "4. The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right-hand corner next to [Your username]'s Account.",
+    price: 28.84,
+    country: "saudi arabia",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-sa-200sar",
+    description:
+      "This item is pertinent for SA Steam Wallet Codes store only (It isn't redeemable for Steam Wallet Codes accounts made in other countries than Saudi Arabia).\n\n" +
+      "How to Redeem A Steam Wallet Code:\n" +
+      "1. Go to [Steam Wallet Code Redemption Page] and sign in if you aren't already. You may need to create a Steam account if you do not already have one.\n" +
+      "2. Once logged into Steam, please enter the unique Wallet code just received into the “Steam Wallet Code” field.\n" +
+      "3. Press “Continue” to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.\n" +
+      "4. The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right-hand corner next to [Your username]'s Account.",
+    price: 56.65,
+    country: "saudi arabia",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-sa-400sar",
+    description:
+      "This item is pertinent for SA Steam Wallet Codes store only (It isn't redeemable for Steam Wallet Codes accounts made in other countries than Saudi Arabia).\n\n" +
+      "How to Redeem A Steam Wallet Code:\n" +
+      "1. Go to [Steam Wallet Code Redemption Page] and sign in if you aren't already. You may need to create a Steam account if you do not already have one.\n" +
+      "2. Once logged into Steam, please enter the unique Wallet code just received into the “Steam Wallet Code” field.\n" +
+      "3. Press “Continue” to redeem the credit onto your account. Note: If you have never used Steam Wallet credit on your account, you may be prompted to enter your current address to determine the correct currency.\n" +
+      "4. The value of the Steam Wallet code will be added to your account's Steam Wallet balance. The current available balance will be listed in the upper right-hand corner next to [Your username]'s Account.",
+    price: 111.24,
+    country: "saudi arabia",
+    related: "steam",
+  },
+  // Steam Turkey
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-tr-10tl",
+    description:
+      "Steam 10 TL (TR) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including bestsellers, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your SEAGM Member account My Game Card page and press Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 3.0,
+    country: "Turkey",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-tr-20tl",
+    description:
+      "Steam 20 TL (TR) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including bestsellers, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your SEAGM Member account My Game Card page and press Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 6.18,
+    country: "Turkey",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-tr-50tl",
+    description:
+      "Steam 50 TL (TR) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including bestsellers, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your SEAGM Member account My Game Card page and press Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 8.24,
+    country: "Turkey",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-tr-100tl",
+    description:
+      "Steam 100 TL (TR) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including bestsellers, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your SEAGM Member account My Game Card page and press Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 15.45,
+    country: "Turkey",
+    related: "steam",
+  },
+  // Steam USA
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-us-5usd",
+    description:
+      "$5 Steam Wallet Code (US) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 5.66,
+    country: "USA",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-us-10usd",
+    description:
+      "$10 Steam Wallet Code (US) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 10.81,
+    country: "USA",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-us-15usd",
+    description:
+      "$15 Steam Wallet Code (US) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 15.96,
+    country: "USA",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-us-20usd",
+    description:
+      "$20 Steam Wallet Code (US) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 20.49,
+    country: "USA",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-us-25usd",
+    description:
+      "$25 Steam Wallet Code (US) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 26.78,
+    country: "USA",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-us-30usd",
+    description:
+      "$30 Steam Wallet Code (US) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 31.93,
+    country: "USA",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-us-50usd",
+    description:
+      "$50 Steam Wallet Code (US) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 50.47,
+    country: "USA",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-us-75usd",
+    description:
+      "$75 Steam Wallet Code (US) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 78.0,
+    country: "USA",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-us-100usd",
+    description:
+      "$100 Steam Wallet Code (US) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 101.97,
+    country: "USA",
+    related: "steam",
+  },
+  // Steam UK
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uk-5gbp",
+    description:
+      "GBP 5 Steam Wallet Code (UK) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 7.21,
+    country: "UK",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uk-10gbp",
+    description:
+      "GBP 10 Steam Wallet Code (UK) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 14.31,
+    country: "UK",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uk-20gbp",
+    description:
+      "GBP 20 Steam Wallet Code (UK) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 27.81,
+    country: "UK",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uk-25gbp",
+    description:
+      "GBP 25 Steam Wallet Code (UK) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 34.81,
+    country: "UK",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uk-50gbp",
+    description:
+      "GBP 50 Steam Wallet Code (UK) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 67.98,
+    country: "UK",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-uk-100gbp",
+    description:
+      "GBP 100 Steam Wallet Code (UK) can be used to add balance to Steam Wallet. It is usable by all Valve Steam clients worldwide.\n\n" +
+      "What is STEAM?\n" +
+      "STEAM is one of the most popular gaming platforms to play your favorite games. Gamers can choose from thousands of titles including blockbusters, indie hits, casual favorites, Dota 2 items, PUBG, CSGO, Team Fortress 2 items & more.\n\n" +
+      "What is Steam Wallet Code?\n" +
+      "Steam Wallet Code is STEAM's prepaid card used to deposit and reload the specified value into your Steam Account balance, which you can use to purchase your favorite games.\n\n" +
+      "How to Redeem Steam Wallet Code?\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the [Steam Wallet Code Redemption Page].\n" +
+      "3. Enter the Steam Wallet Code copied from your EGYCARDS Member account My Game Card page and tap Proceed.\n" +
+      "4. The funds will be added to your account and ready for use to buy games on STEAM!",
+    price: 133.9,
+    country: "UK",
+    related: "steam",
+  },
+  // Steam Oman
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-oman-10usd",
+    description:
+      "$10 Steam Wallet Card Oman can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Oman:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 10.81,
+    country: "Oman",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-oman-20usd",
+    description:
+      "$20 Steam Wallet Card Oman can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Oman:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 21.52,
+    country: "Oman",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-oman-50usd",
+    description:
+      "$50 Steam Wallet Card Oman can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Oman:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 53.56,
+    country: "Oman",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-oman-75usd",
+    description:
+      "$75 Steam Wallet Card Oman can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Oman:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 80.34,
+    country: "Oman",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-oman-100usd",
+    description:
+      "$100 Steam Wallet Card Oman can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Oman:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 107.12,
+    country: "Oman",
+    related: "steam",
+  },
+  // Steam Bahrain
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-bahrain-10usd",
+    description:
+      "$10 Steam Wallet Card Bahrain can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Bahrain:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 10.91,
+    country: "Bahrain",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-bahrain-20usd",
+    description:
+      "$20 Steam Wallet Card Bahrain can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Bahrain:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 21.73,
+    country: "Bahrain",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-bahrain-50usd",
+    description:
+      "$50 Steam Wallet Card Bahrain can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Bahrain:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 54.59,
+    country: "Bahrain",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-bahrain-75usd",
+    description:
+      "$75 Steam Wallet Card Bahrain can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Bahrain:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 81.37,
+    country: "Bahrain",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-bahrain-100usd",
+    description:
+      "$100 Steam Wallet Card Bahrain can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Bahrain:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 108.15,
+    country: "Bahrain",
+    related: "steam",
+  },
+  // Steam Qatar
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-qatar-20qar",
+    description:
+      "20QAR Steam Wallet Card Qatar can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Qatar:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 5.87,
+    country: "Qatar",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-qatar-50qar",
+    description:
+      "50QAR Steam Wallet Card Qatar can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Qatar:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 15.45,
+    country: "Qatar",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-qatar-100qar",
+    description:
+      "100QAR Steam Wallet Card Qatar can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Qatar:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 28.73,
+    country: "Qatar",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-qatar-200qar",
+    description:
+      "200QAR Steam Wallet Card Qatar can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Qatar:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 57.47,
+    country: "Qatar",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-qatar-400qar",
+    description:
+      "400QAR Steam Wallet Card Qatar can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Card Qatar:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 113.4,
+    country: "Qatar",
+    related: "steam",
+  },
+  // Steam South Korea
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-korea-10000krw",
+    description:
+      "₩10,000 Steam Wallet Code (KR) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code South Korea:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 8.34,
+    country: "South Korea",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-korea-25000krw",
+    description:
+      "₩25,000 Steam Wallet Code (KR) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code South Korea:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 22.14,
+    country: "South Korea",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-korea-50000krw",
+    description:
+      "₩50,000 Steam Wallet Code (KR) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code South Korea:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 41.2,
+    country: "South Korea",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-korea-100000krw",
+    description:
+      "₩100,000 Steam Wallet Code (KR) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code South Korea:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 81.37,
+    country: "South Korea",
+    related: "steam",
+  },
+  // Steam Japan
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-japan-2000jpy",
+    description:
+      "Yen 2,000 Steam Wallet Code (JP) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code Japan:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 22.66,
+    country: "Japan",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-japan-3000jpy",
+    description:
+      "Yen 3,000 Steam Wallet Code (JP) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code Japan:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 30.9,
+    country: "Japan",
+    related: "steam",
+  },
+  // Steam Thailand
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-thailand-200thb",
+    description:
+      "200 THB Steam Wallet Code (TH) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code Thailand:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 10.3,
+    country: "Thailand",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-thailand-350thb",
+    description:
+      "350 THB Steam Wallet Code (TH) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code Thailand:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 15.45,
+    country: "Thailand",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-thailand-1000thb",
+    description:
+      "1000 THB Steam Wallet Code (TH) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code Thailand:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 46.35,
+    country: "Thailand",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-thailand-2000thb",
+    description:
+      "2000 THB Steam Wallet Code (TH) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code Thailand:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 82.4,
+    country: "Thailand",
+    related: "steam",
+  },
+  // Steam South Africa
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-south-africa-70zar",
+    description:
+      "70 ZAR Steam Wallet Code (ZA) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code South Africa:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 7.21,
+    country: "South Africa",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-south-africa-150zar",
+    description:
+      "150 ZAR Steam Wallet Code (ZA) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code South Africa:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 15.55,
+    country: "South Africa",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-south-africa-220zar",
+    description:
+      "220 ZAR Steam Wallet Code (ZA) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code South Africa:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 21.0,
+    country: "South Africa",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-south-africa-500zar",
+    description:
+      "500 ZAR Steam Wallet Code (ZA) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code South Africa:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 45.21,
+    country: "South Africa",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-south-africa-800zar",
+    description:
+      "800 ZAR Steam Wallet Code (ZA) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code South Africa:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Click on your account name, then click on Account Details.\n" +
+      "3. Click on 'Add Funds to your Steam Wallet'.\n" +
+      "4. Click 'Redeem a Steam Wallet Code'.\n" +
+      "5. Enter your Steam Wallet Gift Card.\n\n" +
+      "Brand Partner Contact:\n" +
+      "Visit: [Steam](https://www.steam.com)",
+    price: 71.17,
+    country: "South Africa",
+    related: "steam",
+  },
+  // Steam Vietnam
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-vietnam-100k-vnd",
+    description:
+      "100K VND Steam Wallet Code (VN) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code Vietnam:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the 'Redeem a Steam Wallet Code' page.\n" +
+      "3. Enter your Steam Wallet Code and click 'Continue'.\n" +
+      "4. The funds will be added to your Steam Wallet balance.\n\n" +
+      "Steam is one of the most popular gaming platforms where you can find a wide variety of games including top hits, indie favorites, and more.\n\n" +
+      "Steam Wallet Code (VN) Upheld Nations: Steam Wallet Code (VN) can be utilized by all Valve Steam clients universally.",
+    price: 5.66,
+    country: "Vietnam",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-vietnam-200k-vnd",
+    description:
+      "200K VND Steam Wallet Code (VN) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code Vietnam:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the 'Redeem a Steam Wallet Code' page.\n" +
+      "3. Enter your Steam Wallet Code and click 'Continue'.\n" +
+      "4. The funds will be added to your Steam Wallet balance.\n\n" +
+      "Steam is one of the most popular gaming platforms where you can find a wide variety of games including top hits, indie favorites, and more.\n\n" +
+      "Steam Wallet Code (VN) Upheld Nations: Steam Wallet Code (VN) can be utilized by all Valve Steam clients universally.",
+    price: 10.71,
+    country: "Vietnam",
+    related: "steam",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "steam-wallet-code-vietnam-500k-vnd",
+    description:
+      "500K VND Steam Wallet Code (VN) can be redeemed on Steam for the purchase of games, software, hardware, and other items available on Steam.\n\n" +
+      "How to Redeem Steam Wallet Code Vietnam:\n" +
+      "1. Login to your Steam account.\n" +
+      "2. Go to the 'Redeem a Steam Wallet Code' page.\n" +
+      "3. Enter your Steam Wallet Code and click 'Continue'.\n" +
+      "4. The funds will be added to your Steam Wallet balance.\n\n" +
+      "Steam is one of the most popular gaming platforms where you can find a wide variety of games including top hits, indie favorites, and more.\n\n" +
+      "Steam Wallet Code (VN) Upheld Nations: Steam Wallet Code (VN) can be utilized by all Valve Steam clients universally.",
+    price: 25.23,
+    country: "Vietnam",
+    related: "steam",
+  },
 ];

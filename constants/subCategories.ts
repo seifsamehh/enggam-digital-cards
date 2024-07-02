@@ -37,6 +37,13 @@ export const subCategories = [
         description: "Buy Razer Gold gift cards",
         path: "/home/gift-cards/razer-gold",
       },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Steam",
+        description: "Buy Steam gift cards",
+        path: "/home/gift-cards/steam",
+      },
     ],
   },
 
