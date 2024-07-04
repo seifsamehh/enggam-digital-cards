@@ -136,6 +136,9 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
               <option value="Qatar">Qatar</option>
               <option value="South Africa">South Africa</option>
               <option value="Vietnam">Vietnam</option>
+              <option value="Libya">Libya</option>
+              <option value="Algeria">Algeria</option>
+              <option value="Jordan">Jordan</option>
             </select>
           </div>
           <h1 className={`${tanker.className} text-3xl md:text-8xl`}>
@@ -201,6 +204,9 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
             <option value="Qatar">Qatar</option>
             <option value="South Africa">South Africa</option>
             <option value="Vietnam">Vietnam</option>
+            <option value="Libya">Libya</option>
+            <option value="Algeria">Algeria</option>
+            <option value="Jordan">Jordan</option>
           </select>
         </div>
 
@@ -224,7 +230,9 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
                   {product.name}
                 </h3>
                 <p>{product.price} $</p>
-                <Badge>{product.country}</Badge>
+                <Badge>
+                  {product.country ? product.country : "No Country"}
+                </Badge>
                 <div className="product-btns">
                   <Button
                     variant={"default"}

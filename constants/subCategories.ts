@@ -51,6 +51,20 @@ export const subCategories = [
         description: "Buy flyin gift cards",
         path: "/home/gift-cards/flyin",
       },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "B-tech",
+        description: "Buy b-tech gift cards",
+        path: "/home/gift-cards/b-tech",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Shahid",
+        description: "Buy shahid gift cards",
+        path: "/home/gift-cards/shahid",
+      },
     ],
   },
 

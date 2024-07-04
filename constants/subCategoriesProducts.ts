@@ -10173,4 +10173,458 @@ export const subCategoryProducts = [
     price: 131.8,
     related: "flyin",
   },
+  // B-tech
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "b-tech-100egp-egypt",
+    description:
+      "100 EGP B-tech gift card can be used to purchase a variety of electronic items from B-tech.\n\n" +
+      "What is B-tech?\n" +
+      "Company B-tech is a pioneer in the electronics industry, offering innovative products and services to customers worldwide. From cutting-edge technology to reliable customer service, B-tech has established itself as the go-to provider for those in need of advanced electronic solutions. With a dedicated team of experienced professionals, B-tech offers a wide range of products designed to meet the needs of any customer. With a focus on quality, B-tech is committed to delivering products and services that excel.\n\n" +
+      "What can you purchase with B-tech Gift Card?\n" +
+      "At B-tech, you can purchase electronic items such as TVs, home theater systems, gaming consoles, computers, and accessories. You can also buy audio equipment including headphones, speakers, and sound systems. Other items that can be purchased include security and surveillance systems, car audio systems, and home automation products.",
+    price: 2.98,
+    country: "Egypt",
+    related: "b-tech",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "b-tech-500egp-egypt",
+    description:
+      "500 EGP B-tech gift card can be used to purchase a variety of electronic items from B-tech.\n\n" +
+      "What is B-tech?\n" +
+      "Company B-tech is a pioneer in the electronics industry, offering innovative products and services to customers worldwide. From cutting-edge technology to reliable customer service, B-tech has established itself as the go-to provider for those in need of advanced electronic solutions. With a dedicated team of experienced professionals, B-tech offers a wide range of products designed to meet the needs of any customer. With a focus on quality, B-tech is committed to delivering products and services that excel.\n\n" +
+      "What can you purchase with B-tech Gift Card?\n" +
+      "At B-tech, you can purchase electronic items such as TVs, home theater systems, gaming consoles, computers, and accessories. You can also buy audio equipment including headphones, speakers, and sound systems. Other items that can be purchased include security and surveillance systems, car audio systems, and home automation products.",
+    price: 12.36,
+    country: "Egypt",
+    related: "b-tech",
+  },
+  // Shahid
+  // Shahid Libya
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-3months-libya",
+    description:
+      "Shahid VIP 3 months subscription (Libya) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Furthermore, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 3 months subscription (Libya) gift card and for more visit us on www.egycards.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 7.44,
+    country: "Libya",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-12months-libya",
+    description:
+      "Shahid VIP 12 months subscription (Libya) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Furthermore, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 12 months subscription (Libya) gift card and for more visit us on www.egycards.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 23.84,
+    country: "Libya",
+    related: "shahid",
+  },
+  // Shahid Global
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-3months-global",
+    description:
+      "Shahid VIP 3 months subscription (Global) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 3 months subscription (Global) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 41.2,
+    country: "Global",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-6months-global",
+    description:
+      "Shahid VIP 6 months subscription (Global) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 6 months subscription (Global) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 82.4,
+    country: "Global",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-12months-global",
+    description:
+      "Shahid VIP 12 months subscription (Global) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 12 months subscription (Global) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 118.45,
+    country: "Global",
+    related: "shahid",
+  },
+  // Shahid Algeria
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-3months-algeria",
+    description:
+      "Shahid VIP 3 months subscription (North Africa - Algeria) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Purchase your Shahid VIP 3 months subscription (North Africa - Algeria) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 9.27,
+    country: "Algeria",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-12months-algeria",
+    description:
+      "Shahid VIP 12 months subscription (North Africa - Algeria) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Purchase your Shahid VIP 12 months subscription (North Africa - Algeria) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 24.2,
+    country: "Algeria",
+    related: "shahid",
+  },
+  // Shahid UAE
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-3months-uae",
+    description:
+      "Shahid VIP 3 months subscription (GCC - UAE) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 3 months subscription (GCC - UAE) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 27.58,
+    country: "UAE",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-6months-uae",
+    description:
+      "Shahid VIP 6 months subscription (GCC - UAE) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 6 months subscription (GCC - UAE) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 51.0,
+    country: "UAE",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-12months-uae",
+    description:
+      "Shahid VIP 12 months subscription (GCC - UAE) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 12 months subscription (GCC - UAE) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 86.83,
+    country: "UAE",
+    related: "shahid",
+  },
+  // Shahid Saudi Arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-3months-ksa",
+    description:
+      "Shahid VIP Envision 3 months (KSA) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP Envision 3 months (KSA) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 31.48,
+    country: "saudi arabia",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-sports-3months-ksa",
+    description:
+      "Shahid Sports 3 months (KSA) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid Sports 3 months (KSA) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Sports Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 45.17,
+    country: "saudi arabia",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-sports-12months-ksa",
+    description:
+      "Shahid Sports 12 months (KSA) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid Sports 12 months (KSA) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Sports Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 155.53,
+    country: "saudi arabia",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-ultimate-3months-ksa",
+    description:
+      "Shahid Ultimate 3 months (KSA) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive shows & series that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid Ultimate 3 months (KSA) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 52.48,
+    country: "saudi arabia",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-3months-ksa",
+    description:
+      "Shahid VIP 3 months (KSA) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 3 months (KSA) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 24.63,
+    country: "saudi arabia",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-6months-ksa",
+    description:
+      "Shahid VIP 6 months (KSA) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 6 months (KSA) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 45.64,
+    country: "saudi arabia",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-12months-ksa",
+    description:
+      "Shahid VIP 12 months (KSA) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive dramas & shows that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 12 months (KSA) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 77.58,
+    country: "saudi arabia",
+    related: "shahid",
+  },
+  // Shahid Kuwait
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-3months-kwt",
+    description:
+      "Shahid VIP 3 months (Kuwait) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive shows & series that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 3 months (Kuwait) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 28.47,
+    country: "Kuwait",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-6months-kwt",
+    description:
+      "Shahid VIP 6 months (Kuwait) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive shows & series that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 6 months (Kuwait) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 53.0,
+    country: "Kuwait",
+    related: "shahid",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-12months-kwt",
+    description:
+      "Shahid VIP 12 months (Kuwait) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive shows & series that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 12 months (Kuwait) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 90.36,
+    country: "Kuwait",
+    related: "shahid",
+  },
+  // Shahid Jordan
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-3months-jor",
+    description:
+      "Shahid VIP 3 months (Jordan) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive shows & series that get updated around the clock.\n\n" +
+      "Additionally, customers of Shahid VIP have access to Shahid's family entertainment library, which also includes content from Disney, Marvel, Fox, and ABC Studios, as well as exclusive Shahid Premieres, Arabic films, live TV channels, and Shahid Originals.\n\n" +
+      "Purchase your Shahid VIP 3 months (Jordan) gift card and for more visit us on www.enggam.com.\n\n" +
+      "HOW TO Recover SHAHID VIP Subscription:\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 9.81,
+    country: "Jordan",
+    related: "shahid",
+  },
+  // Shahid Bahrain
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "shahid-vip-3months-bhr",
+    description:
+      "Shahid VIP 3 months (Bahrain) - As part of MBC Group, SHAHID is the number one premium Arabic VOD service in the world, offering all MBC group content at a seamless experience and thus becoming the top destination for premium content viewing online in MENA.\n\n" +
+      "It has the largest library of Arabic movies & the latest, besides offering exclusive shows & series that get updated around the clock.\n\n" +
+      "HOW TO Recover SHAHID VIP (LEVANT)?\n" +
+      "1. Please visit Shahid's website: https://shahid.mbc.net/en to proceed with the recovery code.\n" +
+      "2. Enter the voucher code.\n" +
+      "3. Provide your email and password.\n" +
+      "4. Code Recovered.",
+    price: 23.69,
+    country: "Bahrain",
+    related: "shahid",
+  },
 ];

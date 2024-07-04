@@ -92,8 +92,8 @@ const SubProductDetails = () => {
               <p className="text-gray-500 dark:text-gray-300 py-4 max-w-3xl">
                 {product.description}
               </p>
-              <p>Price: {product.price}$</p>
-              <p>Country: {product.country}</p>
+              <p className="text-2xl">Price: {product.price}$</p>
+              <p className="text-2xl">Country: {product.country}</p>
               <Button
                 variant="default"
                 className="mt-4 relative z-10"
