@@ -44,6 +44,13 @@ export const subCategories = [
         description: "Buy Steam gift cards",
         path: "/home/gift-cards/steam",
       },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Flyin",
+        description: "Buy flyin gift cards",
+        path: "/home/gift-cards/flyin",
+      },
     ],
   },
 

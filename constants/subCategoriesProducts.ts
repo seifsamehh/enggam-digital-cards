@@ -8240,7 +8240,7 @@ export const subCategoryProducts = [
   },
   // Razer Gold India
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-india-inr-50",
@@ -8258,7 +8258,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-india-inr-500",
@@ -8276,7 +8276,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-india-inr-1000",
@@ -8294,7 +8294,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-india-inr-2000",
@@ -8312,7 +8312,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-india-inr-3000",
@@ -8330,7 +8330,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-india-inr-5000",
@@ -8349,7 +8349,7 @@ export const subCategoryProducts = [
   },
   // Razer Gold Indonesia
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-indonesia-idr-10000",
@@ -8368,7 +8368,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-indonesia-idr-20000",
@@ -8387,7 +8387,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-indonesia-idr-50000",
@@ -8406,7 +8406,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-indonesia-idr-100000",
@@ -8425,7 +8425,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-indonesia-idr-200000",
@@ -8444,7 +8444,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-indonesia-idr-500000",
@@ -8463,7 +8463,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-indonesia-idr-1000000",
@@ -8483,7 +8483,7 @@ export const subCategoryProducts = [
   },
   // Razer Gold Mexico
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-mexico-mxn-200",
@@ -8501,7 +8501,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-mexico-mxn-350",
@@ -8519,7 +8519,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-mexico-mxn-500",
@@ -8537,7 +8537,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-mexico-mxn-1000",
@@ -8556,7 +8556,7 @@ export const subCategoryProducts = [
   },
   // Razer Gold Taiwan
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-taiwan-twd-100",
@@ -8574,7 +8574,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-taiwan-twd-300",
@@ -8592,7 +8592,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-taiwan-twd-500",
@@ -8610,7 +8610,7 @@ export const subCategoryProducts = [
     related: "razer-gold",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "razer-gold-taiwan-twd-1000",
@@ -8630,7 +8630,7 @@ export const subCategoryProducts = [
   // Steam
   // Steam UAE
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-uae-50-aed",
@@ -8650,7 +8650,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-uae-100-aed",
@@ -8670,7 +8670,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-uae-200-aed",
@@ -8690,7 +8690,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-uae-400-aed",
@@ -8711,7 +8711,7 @@ export const subCategoryProducts = [
   },
   // Steam Europe
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-eu-5-eur",
@@ -8730,7 +8730,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-eu-10-eur",
@@ -8749,7 +8749,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-eu-20-eur",
@@ -8768,7 +8768,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-eu-50-eur",
@@ -8787,7 +8787,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-eu-100-eur",
@@ -8807,7 +8807,7 @@ export const subCategoryProducts = [
   },
   // Steam Brazil
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-brl-10-br",
@@ -8826,7 +8826,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-brl-20-br",
@@ -8845,7 +8845,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-brl-30-br",
@@ -8864,7 +8864,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-brl-50-br",
@@ -8883,7 +8883,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-brl-100-br",
@@ -8902,7 +8902,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-brl-150-br",
@@ -8921,7 +8921,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-brl-200-br",
@@ -8941,7 +8941,7 @@ export const subCategoryProducts = [
   },
   // Steam Kuwait
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-kwd-5-kw",
@@ -8957,7 +8957,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-kwd-10-kw",
@@ -8973,7 +8973,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-kwd-20-kw",
@@ -8989,7 +8989,7 @@ export const subCategoryProducts = [
     related: "steam",
   },
   {
-    id: "generateUniqueId()",
+    id: generateUniqueId(),
     image:
       "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "steam-wallet-code-kwd-30-kw",
@@ -10099,5 +10099,78 @@ export const subCategoryProducts = [
     price: 25.23,
     country: "Vietnam",
     related: "steam",
+  },
+  // flyin
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "flyin-com-26.6",
+    description:
+      "26.6 Flyin.com card can be used for bookings on Flyin.com, including both domestic and international flights.\n\n" +
+      "How to Recover Flyin.com Card:\n" +
+      "1. Log in or make an account on Flyin.\n" +
+      "2. Select the suitable flight and enter all the desired information.\n" +
+      "3. Within the 'Coupons and Rebates' field, enter the code, and then press on 'Apply'.\n\n" +
+      "Terms and Conditions:\n" +
+      "1. It is accessible in both domestic and international bookings.\n" +
+      "2. It is only valid for LikeCard users.\n" +
+      "3. A discount code on bookings through Flyin platforms.\n" +
+      "4. The Code will be valid from the 25th of Aug 2023 till the 30th of Sep 2024.\n" +
+      "5. Offer valid before completing the booking.\n" +
+      "6. Offer only valid for bookings booked online on www.flyin.com or Flyin mobile app.\n" +
+      "7. The offer amount will be deducted from any discounts due in the event of partial or total cancellation of the purchase.\n" +
+      "8. This offer cannot be combined with any other offer.\n" +
+      "9. Other Flyin service terms & conditions apply.",
+    price: 23.69,
+    related: "flyin",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "flyin-com-53.3",
+    description:
+      "53.3 Flyin.com card can be used for bookings on Flyin.com, including both domestic and international flights.\n\n" +
+      "How to Recover Flyin.com Card:\n" +
+      "1. Log in or make an account on Flyin.\n" +
+      "2. Select the suitable flight and enter all the desired information.\n" +
+      "3. Within the 'Coupons and Rebates' field, enter the code, and then press on 'Apply'.\n\n" +
+      "Terms and Conditions:\n" +
+      "1. It is accessible in both domestic and international bookings.\n" +
+      "2. It is only valid for LikeCard users.\n" +
+      "3. A discount code on bookings through Flyin platforms.\n" +
+      "4. The Code will be valid from the 25th of Aug 2023 till the 30th of Sep 2024.\n" +
+      "5. Offer valid before completing the booking.\n" +
+      "6. Offer only valid for bookings booked online on www.flyin.com or Flyin mobile app.\n" +
+      "7. The offer amount will be deducted from any discounts due in the event of partial or total cancellation of the purchase.\n" +
+      "8. This offer cannot be combined with any other offer.\n" +
+      "9. Other Flyin service terms & conditions apply.",
+    price: 50.47,
+    related: "flyin",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "flyin-com-133",
+    description:
+      "133 Flyin.com card can be used for bookings on Flyin.com, including both domestic and international flights.\n\n" +
+      "How to Recover Flyin.com Card:\n" +
+      "1. Log in or make an account on Flyin.\n" +
+      "2. Select the suitable flight and enter all the desired information.\n" +
+      "3. Within the 'Coupons and Rebates' field, enter the code, and then press on 'Apply'.\n\n" +
+      "Terms and Conditions:\n" +
+      "1. It is accessible in both domestic and international bookings.\n" +
+      "2. It is only valid for LikeCard users.\n" +
+      "3. A discount code on bookings through Flyin platforms.\n" +
+      "4. The Code will be valid from the 25th of Aug 2023 till the 30th of Sep 2024.\n" +
+      "5. Offer valid before completing the booking.\n" +
+      "6. Offer only valid for bookings booked online on www.flyin.com or Flyin mobile app.\n" +
+      "7. The offer amount will be deducted from any discounts due in the event of partial or total cancellation of the purchase.\n" +
+      "8. This offer cannot be combined with any other offer.\n" +
+      "9. Other Flyin service terms & conditions apply.",
+    price: 131.8,
+    related: "flyin",
   },
 ];
