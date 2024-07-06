@@ -10952,4 +10952,204 @@ export const subCategoryProducts = [
     country: "Global",
     related: "bigo",
   },
+  // bigo bahrain
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-bahrain-230-diamonds",
+    description:
+      "230 Diamonds Bigo Live (BH). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select group.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 5.56,
+    country: "Bahrain",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-bahrain-462-diamonds",
+    description:
+      "462 Diamonds Bigo Live (BH). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select group.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 11.0,
+    country: "Bahrain",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-bahrain-4684-diamonds",
+    description:
+      "4684 Diamonds Bigo Live (BH). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select group.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 113.3,
+    country: "Bahrain",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-bahrain-11810-diamonds",
+    description:
+      "11810 Diamonds Bigo Live (BH). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select group.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 273.98,
+    country: "Bahrain",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-bahrain-23821-diamonds",
+    description:
+      "23821 Diamonds Bigo Live (BH). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select group.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 548.99,
+    country: "Bahrain",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-bahrain-48042-diamonds",
+    description:
+      "48042 Diamonds Bigo Live (BH). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select group.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 1096.95,
+    country: "Bahrain",
+    related: "bigo",
+  },
+  // bigo saudi arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-saudi-arabia-10460-diamonds",
+    description:
+      "10,460 Diamonds Bigo Live (SA). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select category.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 273.98,
+    country: "saudi arabia",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-saudi-arabia-21030-diamonds",
+    description:
+      "21,030 Diamonds Bigo Live (SA). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select category.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 548.99,
+    country: "saudi arabia",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-saudi-arabia-42370-diamonds",
+    description:
+      "42,370 Diamonds Bigo Live (SA). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select category.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 1096.95,
+    country: "saudi arabia",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-saudi-arabia-86140-diamonds",
+    description:
+      "86,140 Diamonds Bigo Live (SA). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select category.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 1632.55,
+    country: "saudi arabia",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-saudi-arabia-86140-diamonds",
+    description:
+      "86,140 Diamonds Bigo Live (SA). Bigo Live enables you to watch live streaming around the clock, connect with people worldwide, and live-stream your favorite moments. It allows creative expression, discovery of new things, and staying connected. Bigo Live is used by over 300 million people globally.\n\n" +
+      "How to redeem Bigo Live:\n" +
+      "1. Go to Bigo Live.\n" +
+      "2. Tap on Revive at the top right corner.\n" +
+      "3. Enter your Bigo ID and confirm.\n" +
+      "4. Select 'Points Direct Top-up' as your payment option.\n" +
+      "5. Select category.\n" +
+      "6. Enter the pin code printed on the receipt.\n\n",
+    price: 2174.33,
+    country: "saudi arabia",
+    related: "bigo",
+  },
 ];

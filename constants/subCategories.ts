@@ -4,7 +4,7 @@ export const subCategories = [
     sub: [
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720287069/Enggam%20Digital%20Cards/itunes_w1t4gb.jpg",
         title: "itunes",
         description: "Buy itunes gift cards",
         path: "/home/gift-cards/itunes",
