@@ -220,12 +220,12 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
                 <Image
                   src={product.image}
                   alt={product.name}
-                  width={200}
-                  height={200}
+                  width={300}
+                  height={300}
                   className="rounded-sm"
                 />
                 <h3
-                  className={`${tanker.className} text-3xl font-bold text-red-500`}
+                  className={`${tanker.className} text-3xl max-w-36 font-bold text-red-500`}
                 >
                   {product.name}
                 </h3>

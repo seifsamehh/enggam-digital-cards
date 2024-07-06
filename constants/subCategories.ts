@@ -79,6 +79,48 @@ export const subCategories = [
         description: "Buy bigo gift cards",
         path: "/home/gift-cards/bigo",
       },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Brands",
+        description: "Buy brands gift cards",
+        path: "/home/gift-cards/brands",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Anghami",
+        description: "Buy anghami gift cards",
+        path: "/home/gift-cards/anghami",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Careem",
+        description: "Buy careem gift cards",
+        path: "/home/gift-cards/careem",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Voucherry",
+        description: "Buy voucherry gift cards",
+        path: "/home/gift-cards/voucherry",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "IMO",
+        description: "Buy imo gift cards",
+        path: "/home/gift-cards/imo",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Deezer",
+        description: "Buy deezer gift cards",
+        path: "/home/gift-cards/deezer",
+      },
     ],
   },
 
