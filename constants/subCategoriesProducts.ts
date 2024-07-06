@@ -8,7 +8,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720287069/Enggam%20Digital%20Cards/itunes_w1t4gb.jpg",
     name: "iTunes USA 2$ Gift Card",
     description:
       "iTunes Blessing Card code is redeemable for apps, recreations, music, motion pictures, TV appears and more on the iTunes Store, App Store, iBooks Store, and the Mac App Store. Beneficiaries can get to their substance on an iPhone, iPad, or iPod, and observe or tune in on a computer – Mac or PC. Buying the iTunes Blessing Card is so fast and simple. Fair include it to cart and make your installment. Your buy will be prepared in an moment and the card will be sent to you. Get it for yourself or for companions and family to appear that you simply appreciate them! With the iTunes Blessing Card you do not need to worry about who is your niece's top pick craftsman or your fantastic uncle's top choice creator. It's a gift that's appropriate for all ages, styles and events Let your adored ones know that you simply are considering of them with an iTunes Blessing Card nowadays. Official link : https://www.apple.com/",
@@ -10626,5 +10626,330 @@ export const subCategoryProducts = [
     price: 23.69,
     country: "Bahrain",
     related: "shahid",
+  },
+  // Jarir
+  // Jarir Saudi Arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "jarir-bookstore-50sar-ksa",
+    description:
+      "50 SAR Jarir (Saudi Arabia) - How to utilize Jarir Bookstore (Saudi Arabia):\n" +
+      "In Store:\n" +
+      "– Appear the standardized identification to cashier.\n" +
+      "Website/App:\n" +
+      "1) Sign in to your Jarir account.\n" +
+      "2) Include items to the bushel at that point go to the cart page.\n" +
+      "3) Enter the code within the “Coupon / Markdown code” field, then press “Apply”.\n\n" +
+      "About Jarir Bookstore:\n" +
+      "Jarir Bookstore (Saudi Arabia) is the most well-known retailer, offering everything from the latest in technology such as smart TVs, smartphones, and gaming consoles to school and office supplies, art and craft products, books, and much more. Besides Jarir Bookstore offers Arabic and English books, Jarir publications, office supplies, school supplies, arts and crafts supplies, children's development, computers, and peripherals. 'Not just a bookstore,' says the sign.\n\n" +
+      "Terms and Conditions:\n" +
+      "1. Jarir Bookstore E-Gift card is redeemable in Saudi Arabia at Jarir website/Jarir app and Jarir bookstore showrooms.\n" +
+      "2. This E-Gift card is non-reloadable and only valid for one transaction.\n" +
+      "3. Jarir Bookstore (Saudi Arabia) E-Gift card cannot be redeemed for cash or extended once it has expired.\n" +
+      "4. This E-Gift card is non-refundable and cannot be replaced if lost or stolen.\n" +
+      "5. If the product purchased with this E-Gift card is returned, the customer will not be given a cash refund, but the product can be exchanged for another product available at Jarir with the same value as the E-Gift card used.\n" +
+      "6. This E-Gift card is valid until the desired close date.\n\n" +
+      "Purchase Jarir (Saudi Arabia) gift cards and more from www.enggam.com, and then select from a variety of cards with multiple types of payments and fast delivery.",
+    price: 15.45,
+    country: "saudi arabia",
+    related: "jarir",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "jarir-bookstore-100sar-ksa",
+    description:
+      "100 SAR Jarir (Saudi Arabia) - How to utilize Jarir Bookstore (Saudi Arabia):\n" +
+      "In Store:\n" +
+      "– Appear the standardized identification to cashier.\n" +
+      "Website/App:\n" +
+      "1) Sign in to your Jarir account.\n" +
+      "2) Include items to the bushel at that point go to the cart page.\n" +
+      "3) Enter the code within the “Coupon / Markdown code” field, then press “Apply”.\n\n" +
+      "About Jarir Bookstore:\n" +
+      "Jarir Bookstore (Saudi Arabia) is the most well-known retailer, offering everything from the latest in technology such as smart TVs, smartphones, and gaming consoles to school and office supplies, art and craft products, books, and much more. Besides Jarir Bookstore offers Arabic and English books, Jarir publications, office supplies, school supplies, arts and crafts supplies, children's development, computers, and peripherals. 'Not just a bookstore,' says the sign.\n\n" +
+      "Terms and Conditions:\n" +
+      "1. Jarir Bookstore E-Gift card is redeemable in Saudi Arabia at Jarir website/Jarir app and Jarir bookstore showrooms.\n" +
+      "2. This E-Gift card is non-reloadable and only valid for one transaction.\n" +
+      "3. Jarir Bookstore (Saudi Arabia) E-Gift card cannot be redeemed for cash or extended once it has expired.\n" +
+      "4. This E-Gift card is non-refundable and cannot be replaced if lost or stolen.\n" +
+      "5. If the product purchased with this E-Gift card is returned, the customer will not be given a cash refund, but the product can be exchanged for another product available at Jarir with the same value as the E-Gift card used.\n" +
+      "6. This E-Gift card is valid until the desired close date.\n\n" +
+      "Purchase Jarir (Saudi Arabia) gift cards and more from www.enggam.com, and then select from a variety of cards with multiple types of payments and fast delivery.",
+    price: 29.78,
+    country: "saudi arabia",
+    related: "jarir",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "jarir-bookstore-300sar-ksa",
+    description:
+      "300 SAR Jarir (Saudi Arabia) - How to utilize Jarir Bookstore (Saudi Arabia):\n" +
+      "In Store:\n" +
+      "– Appear the standardized identification to cashier.\n" +
+      "Website/App:\n" +
+      "1) Sign in to your Jarir account.\n" +
+      "2) Include items to the bushel at that point go to the cart page.\n" +
+      "3) Enter the code within the “Coupon / Markdown code” field, then press “Apply”.\n\n" +
+      "About Jarir Bookstore:\n" +
+      "Jarir Bookstore (Saudi Arabia) is the most well-known retailer, offering everything from the latest in technology such as smart TVs, smartphones, and gaming consoles to school and office supplies, art and craft products, books, and much more. Besides Jarir Bookstore offers Arabic and English books, Jarir publications, office supplies, school supplies, arts and crafts supplies, children's development, computers, and peripherals. 'Not just a bookstore,' says the sign.\n\n" +
+      "Terms and Conditions:\n" +
+      "1. Jarir Bookstore E-Gift card is redeemable in Saudi Arabia at Jarir website/Jarir app and Jarir bookstore showrooms.\n" +
+      "2. This E-Gift card is non-reloadable and only valid for one transaction.\n" +
+      "3. Jarir Bookstore (Saudi Arabia) E-Gift card cannot be redeemed for cash or extended once it has expired.\n" +
+      "4. This E-Gift card is non-refundable and cannot be replaced if lost or stolen.\n" +
+      "5. If the product purchased with this E-Gift card is returned, the customer will not be given a cash refund, but the product can be exchanged for another product available at Jarir with the same value as the E-Gift card used.\n" +
+      "6. This E-Gift card is valid until the desired close date.\n\n" +
+      "Purchase Jarir (Saudi Arabia) gift cards and more from www.enggam.com, and then select from a variety of cards with multiple types of payments and fast delivery.",
+    price: 87.55,
+    country: "saudi arabia",
+    related: "jarir",
+  },
+  // Bigo
+  // Bigo Global
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-40plus2-diamonds-global",
+    description:
+      "40+2 Diamonds ($1) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 1.03,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-80plus4-diamonds-global",
+    description:
+      "80+4 Diamonds ($2) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 2.06,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-120plus6-diamonds-global",
+    description:
+      "120+6 Diamonds ($3) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 3.09,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-200plus10-diamonds-global",
+    description:
+      "200+10 Diamonds ($5) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 5.0,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-400plus20-diamonds-global",
+    description:
+      "400+20 Diamonds ($10) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 9.78,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-600plus30-diamonds-global",
+    description:
+      "600+30 Diamonds ($15) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 14.93,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-800plus40-diamonds-global",
+    description:
+      "800+40 Diamonds ($20) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 19.0,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-1000plus50-diamonds-global",
+    description:
+      "1,000+50 Diamonds ($25) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 23.69,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-2000plus20-diamonds-global",
+    description:
+      "2,000+20 Diamonds ($50) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 46.35,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-3000plus150-diamonds-global",
+    description:
+      "3,000+150 Diamonds ($75) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 71.0,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-4000plus200-diamonds-global",
+    description:
+      "4,000+200 Diamonds ($100) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 92.7,
+    country: "Global",
+    related: "bigo",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "bigo-live-8000plus400-diamonds-global",
+    description:
+      "8,000+400 Diamonds ($200) Bigo Live Global. BIGO LIVE is an online social network live streaming app. It allows you to live stream your special moments, have live chats with friends, make video calls, and watch popular videos. \n\n" +
+      "Worldwide BIGO LIVE Gift Card – Worldwide STORE\n\n" +
+      "Bigo Live Gift Card code arrives on a leading video-based social media platform worldwide. It allows potential users to connect with the world and discover tons of fun. The Bigo Live platform has more than 200 million active users worldwide.\n\n" +
+      "HOW TO DOWNLOAD YOUR BIGO LIVE Gift CARD CODE?\n" +
+      "To install, visit bigo.tv. Bigo Live, you'll need to select the 'Install' button indicated in the top right corner, then you can enter your Bigo Live Gift Card code and confirm. You'll need to tap 'Direct Recharge Points' as a payment option, then you can select the group and insert the Bigo Live Gift Card code.\n\n" +
+      "Instant Email Delivery of Bigo Live Gift Cards\n" +
+      "After purchasing the Bigo Gift Card, your gift card code will be sent to the email address you entered. Your Bigo Gift Card code will be delivered immediately without waiting.\n\n" +
+      "Note:\n" +
+      "Gift card to be redeemed in the following countries:\n" +
+      "Afghanistan, Algeria, American Samoa, Argentina, Bahrain, Bangladesh, Belgium, Bermuda, Bolivia, Brazil, Chile, Colombia, Comoros, Costa Rica, Dominican Republic, Ecuador, Egypt, El Salvador, Gabon, Germany, Ghana, Guatemala, Honduras, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kenya, Kuwait, Lebanon, Mexico, Morocco, Nepal, Nigeria, Pakistan, Palestinian Territory Occupied, Paraguay, Peru, Puerto Rico, Qatar, Saudi Arabia, Senegal, South Africa, Suriname, Tanzania, The Bahamas, Trinidad & Tobago, Tunisia, Turkey, UAE, Zimbabwe.",
+    price: 184.0,
+    country: "Global",
+    related: "bigo",
   },
 ];

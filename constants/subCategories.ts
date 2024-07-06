@@ -65,6 +65,20 @@ export const subCategories = [
         description: "Buy shahid gift cards",
         path: "/home/gift-cards/shahid",
       },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Jarir",
+        description: "Buy jarir gift cards",
+        path: "/home/gift-cards/jarir",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Bigo",
+        description: "Buy bigo gift cards",
+        path: "/home/gift-cards/bigo",
+      },
     ],
   },
 
