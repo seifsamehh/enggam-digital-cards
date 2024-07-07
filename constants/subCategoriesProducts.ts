@@ -11876,4 +11876,1228 @@ export const subCategoryProducts = [
     country: "Germany",
     related: "deezer",
   },
+  // Xbox
+  // Xbox UK
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-5-uk",
+    description:
+      "£5 Xbox Live Card United Kingdom (UK). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 7.0,
+    country: "UK",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-10-uk",
+    description:
+      "£10 Xbox Live Card United Kingdom (UK). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 12.36,
+    country: "UK",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-15-uk",
+    description:
+      "£15 Xbox Live Card United Kingdom (UK). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 18.54,
+    country: "UK",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-20-uk",
+    description:
+      "£20 Xbox Live Card United Kingdom (UK). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 24.2,
+    country: "UK",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-25-uk",
+    description:
+      "£25 Xbox Live Card United Kingdom (UK). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 30.9,
+    country: "UK",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-50-uk",
+    description:
+      "£50 Xbox Live Card United Kingdom (UK). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 62.0,
+    country: "UK",
+    related: "xbox",
+  },
+  // Xbox USA
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-5-us",
+    description:
+      "$5 Xbox Live Gift Card (US). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 5.0,
+    country: "USA",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-10-us",
+    description:
+      "$10 Xbox Live Gift Card (US). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 9.78,
+    country: "USA",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-15-us",
+    description:
+      "$15 Xbox Live Gift Card (US). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 14.62,
+    country: "USA",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-20-us",
+    description:
+      "$20 Xbox Live Gift Card (US). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 19.57,
+    country: "USA",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-25-us",
+    description:
+      "$25 Xbox Live Gift Card (US). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 25.75,
+    country: "USA",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-50-us",
+    description:
+      "$50 Xbox Live Gift Card (US). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 48.41,
+    country: "USA",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-100-us",
+    description:
+      "$100 Xbox Live Gift Card (US). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 96.82,
+    country: "USA",
+    related: "xbox",
+  },
+  // Xbox Canada
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-15-cad",
+    description:
+      "15CAD Xbox Live card Canada (CA). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 11.84,
+    country: "Canada",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-25-cad",
+    description:
+      "25CAD Xbox Live card Canada (CA). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 20.08,
+    country: "Canada",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-50-cad",
+    description:
+      "50CAD Xbox Live card Canada (CA). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 36.14,
+    country: "Canada",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-75-cad",
+    description:
+      "75CAD Xbox Live card Canada (CA). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 57.16,
+    country: "Canada",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-100-cad",
+    description:
+      "100CAD Xbox Live card Canada (CA). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 77.25,
+    country: "Canada",
+    related: "xbox",
+  },
+  // Xbox UAE
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-59-aed",
+    description:
+      "59 AED Xbox Live Card United Arab Emirates (15 USD). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 16.99,
+    country: "UAE",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-99-aed",
+    description:
+      "99 AED Xbox Live Card United Arab Emirates (15 USD). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 27.81,
+    country: "UAE",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-199-aed",
+    description:
+      "199 AED Xbox Live Card United Arab Emirates (15 USD). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 52.0,
+    country: "UAE",
+    related: "xbox",
+  },
+  // Xbox Saudi Arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-50-sar",
+    description:
+      "50 SAR Xbox Live Card Saudi Arabia (SA). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 14.42,
+    country: "saudi arabia",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-100-sar",
+    description:
+      "100 SAR Xbox Live Card Saudi Arabia (SA). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 26.95,
+    country: "saudi arabia",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-200-sar",
+    description:
+      "200 SAR Xbox Live Card Saudi Arabia (SA). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 56.65,
+    country: "saudi arabia",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-300-sar",
+    description:
+      "300 SAR Xbox Live Card Saudi Arabia (SA). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 82.4,
+    country: "saudi arabia",
+    related: "xbox",
+  },
+  // Xbox Brazil
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-5-brl",
+    description:
+      "5 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 1.33,
+    country: "Brazil",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-10-brl",
+    description:
+      "10 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 2.26,
+    country: "Brazil",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-15-brl",
+    description:
+      "15 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 3.39,
+    country: "Brazil",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-20-brl",
+    description:
+      "20 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 4.53,
+    country: "Brazil",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-25-brl",
+    description:
+      "25 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 5.66,
+    country: "Brazil",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-50-brl",
+    description:
+      "50 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 10.6,
+    country: "Brazil",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-60-brl",
+    description:
+      "60 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 12.36,
+    country: "Brazil",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-70-brl",
+    description:
+      "70 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 15.65,
+    country: "Brazil",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-100-brl",
+    description:
+      "100 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 21.0,
+    country: "Brazil",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-200-brl",
+    description:
+      "200 BRL Xbox Live Card Brazil (BR). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 41.2,
+    country: "Brazil",
+    related: "xbox",
+  },
+  // Xbox Australia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-15-aud",
+    description:
+      "15 AUD Xbox Live Card Australia (AU). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 10.81,
+    country: "Australia",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-25-aud",
+    description:
+      "25 AUD Xbox Live Card Australia (AU). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 18.54,
+    country: "Australia",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-50-aud",
+    description:
+      "50 AUD Xbox Live Card Australia (AU). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 36.05,
+    country: "Australia",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-100-aud",
+    description:
+      "100 AUD Xbox Live Card Australia (AU). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 71.07,
+    country: "Australia",
+    related: "xbox",
+  },
+  // Xbox Japan
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-5000-jpy",
+    description:
+      "¥5000 Xbox Live Card Japan (JP). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 51.5,
+    country: "Japan",
+    related: "xbox",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-gift-card-10000-jpy",
+    description:
+      "¥10000 Xbox Live Card Japan (JP). Use this Xbox Live gift card to buy games, add-ons, devices, and more from the Microsoft Store.\n\n" +
+      "How to redeem an Xbox Live gift card:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 99.9,
+    country: "Japan",
+    related: "xbox",
+  },
+  // Xbox Gold
+  // Xbox Gold USA
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-1-month-us",
+    description:
+      "Xbox Live Gold 1 Month Subscription (US). Enjoy exclusive member discounts and the most advanced multiplayer gaming network.\n\n" +
+      "How to redeem an Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 10.3,
+    country: "USA",
+    related: "xbox-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-3-month-us",
+    description:
+      "Xbox Live Gold 3 Month Subscription (US). Enjoy exclusive member discounts and the most advanced multiplayer gaming network.\n\n" +
+      "How to redeem an Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 23.17,
+    country: "USA",
+    related: "xbox-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-12-month-us",
+    description:
+      "Xbox Live Gold 12 Month Subscription (US). Enjoy exclusive member discounts and the most advanced multiplayer gaming network.\n\n" +
+      "How to redeem an Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 56.65,
+    country: "USA",
+    related: "xbox-gold",
+  },
+  // Xbox Gold Canada
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-3-month-ca",
+    description:
+      "3 Months Subscription Xbox Live Gold (CA). Enjoy exclusive member discounts and the most advanced multiplayer gaming network.\n\n" +
+      "How to redeem an Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 24.2,
+    country: "Canada",
+    related: "xbox-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-6-month-ca",
+    description:
+      "6 Months Subscription Xbox Live Gold (CA). Enjoy exclusive member discounts and the most advanced multiplayer gaming network.\n\n" +
+      "How to redeem an Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 33.99,
+    country: "Canada",
+    related: "xbox-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-12-month-ca",
+    description:
+      "12 Months Subscription Xbox Live Gold (CA). Enjoy exclusive member discounts and the most advanced multiplayer gaming network.\n\n" +
+      "How to redeem an Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 50.47,
+    country: "Canada",
+    related: "xbox-gold",
+  },
+  // Xbox Gold Saudi Arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-3-month-ksa",
+    description:
+      "3 Months Subscription Xbox Live Gold (KSA). Enjoy exclusive member discounts and the most advanced multiplayer gaming network.\n\n" +
+      "How to redeem an Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 28.84,
+    country: "saudi arabia",
+    related: "xbox-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-12-month-ksa",
+    description:
+      "12 Months Subscription Xbox Live Gold (KSA). Enjoy exclusive member discounts and the most advanced multiplayer gaming network.\n\n" +
+      "How to redeem an Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 61.8,
+    country: "saudi arabia",
+    related: "xbox-gold",
+  },
+  // Xbox Gold Turkey
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-3-month-tr",
+    description:
+      "3 Months Xbox Live Gold Subscription (TR). Experience the best in competitive and cooperative gaming across Xbox consoles.\n\n" +
+      "How to redeem Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 16.99,
+    country: "Turkey",
+    related: "xbox-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-12-month-tr",
+    description:
+      "12 Months Xbox Live Gold Subscription (TR). Experience the best in competitive and cooperative gaming across Xbox consoles.\n\n" +
+      "How to redeem Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 38.11,
+    country: "Turkey",
+    related: "xbox-gold",
+  },
+  // Xbox Gold Brazil
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-3-month-br",
+    description:
+      "3 Month Xbox Live Gold Subscription (BR). Experience the best in competitive and cooperative gaming across Xbox consoles.\n\n" +
+      "How to redeem Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 17.51,
+    country: "Brazil",
+    related: "xbox-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-12-month-br",
+    description:
+      "12 Month Xbox Live Gold Subscription (BR). Experience the best in competitive and cooperative gaming across Xbox consoles.\n\n" +
+      "How to redeem Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 43.26,
+    country: "Brazil",
+    related: "xbox-gold",
+  },
+  // Xbox Gold Singapore
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-1-month-sg",
+    description:
+      "1 Month Xbox Live Gold Subscription (SG). Experience the best in competitive and cooperative gaming across Xbox consoles.\n\n" +
+      "How to redeem Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 12.87,
+    country: "Singapore",
+    related: "xbox-gold",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-live-gold-3-month-sg",
+    description:
+      "3 Month Xbox Live Gold Subscription (SG). Experience the best in competitive and cooperative gaming across Xbox consoles.\n\n" +
+      "How to redeem Xbox Live Gold subscription:\n" +
+      "1. Sign in to your Xbox console.\n" +
+      "2. Press the Xbox button to open the guide.\n" +
+      "3. Select 'Store' and then 'Use a code'.\n" +
+      "4. Enter the 25-character code, then follow the prompts.",
+    price: 26.78,
+    country: "Singapore",
+    related: "xbox-gold",
+  },
+  // Xbox Game
+  // Xbox Game Brazil
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-pc-3-months-br",
+    description:
+      "3 Months Xbox Game Pass PC Subscription (Brazil). Discover your next favorite game. Unlimited access to over 100 high-quality PC games with new games added all the time.\n\n" +
+      "How to redeem Xbox Game Pass PC subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass for PC page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 20.6,
+    country: "Brazil",
+    related: "xbox-game",
+  },
+  // Xbox Game USA
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-3-months-usa",
+    description:
+      "3 Months Xbox Game Pass Subscription (USA). Discover your next favorite game. Unlimited access to over 100 high-quality games for console, PC, and supported Android devices. New games added all the time.\n\n" +
+      "How to redeem Xbox Game Pass subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 29.87,
+    country: "USA",
+    related: "xbox-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-6-months-usa",
+    description:
+      "6 Months Xbox Game Pass Subscription (USA). Enjoy unlimited access to over 100 high-quality games for console, PC, and supported Android devices. New games added all the time.\n\n" +
+      "How to redeem Xbox Game Pass subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 59.74,
+    country: "USA",
+    related: "xbox-game",
+  },
+  // Xbox Game UAE
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-3-months-uae",
+    description:
+      "3 Months Xbox Game Pass Subscription (UAE). Enjoy unlimited access to over 100 high-quality games for console, PC, and supported Android devices. New games added all the time.\n\n" +
+      "How to redeem Xbox Game Pass subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 33.99,
+    country: "UAE",
+    related: "xbox-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-6-months-uae",
+    description:
+      "6 Months Xbox Game Pass Subscription (UAE). Enjoy unlimited access to over 100 high-quality games for console, PC, and supported Android devices. New games added all the time.\n\n" +
+      "How to redeem Xbox Game Pass subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 66.95,
+    country: "UAE",
+    related: "xbox-game",
+  },
+  // Xbox Game Saudi Arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-3-months-ksa",
+    description:
+      "3 Months Xbox Game Pass Subscription (Saudi Arabia). Enjoy unlimited access to over 100 high-quality games for console, PC, and supported Android devices. New games added all the time.\n\n" +
+      "How to redeem Xbox Game Pass subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 33.99,
+    country: "saudi arabia",
+    related: "xbox-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-6-months-ksa",
+    description:
+      "6 Months Xbox Game Pass Subscription (Saudi Arabia). Enjoy unlimited access to over 100 high-quality games for console, PC, and supported Android devices. New games added all the time.\n\n" +
+      "How to redeem Xbox Game Pass subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 63.86,
+    country: "saudi arabia",
+    related: "xbox-game",
+  },
+  // Xbox Ultimate
+  // Xbox Ultimate Brazil
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-1-month-br",
+    description:
+      "1 Month Xbox Game Pass Ultimate Subscription (Brazil). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 9.27,
+    country: "Brazil",
+    related: "xbox-ultimate",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-3-months-br",
+    description:
+      "3 Months Xbox Game Pass Ultimate Subscription (Brazil). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 27.81,
+    country: "Brazil",
+    related: "xbox-ultimate",
+  },
+  // Xbox Ultimate USA
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-1-month-usa",
+    description:
+      "1 Month Xbox Game Pass Ultimate Subscription (USA). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 15.45,
+    country: "USA",
+    related: "xbox-ultimate",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-3-months-usa",
+    description:
+      "3 Months Xbox Game Pass Ultimate Subscription (USA). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 40.17,
+    country: "USA",
+    related: "xbox-ultimate",
+  },
+  // Xbox Ultimate Europe
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-1-month-eu",
+    description:
+      "1 Month Xbox Game Pass Ultimate Subscription (Europe). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 15.45,
+    country: "Europe",
+    related: "xbox-ultimate",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-3-months-eu",
+    description:
+      "3 Months Xbox Game Pass Ultimate Subscription (Europe). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 31.93,
+    country: "Europe",
+    related: "xbox-ultimate",
+  },
+  // Xbox Ultimate UAE
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-1-month-uae",
+    description:
+      "1 Month Xbox Game Pass Ultimate Subscription (United Arab Emirates). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 16.99,
+    country: "UAE",
+    related: "xbox-ultimate",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-3-months-uae",
+    description:
+      "3 Months Xbox Game Pass Ultimate Subscription (United Arab Emirates). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 47.38,
+    country: "UAE",
+    related: "xbox-ultimate",
+  },
+  // Xbox Ultimate Saudi Arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-1-month-sa",
+    description:
+      "1 Month Xbox Game Pass Ultimate Subscription (Saudi Arabia). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 16.99,
+    country: "saudi arabia",
+    related: "xbox-ultimate",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-1-month-sa",
+    description:
+      "1 Month Xbox Game Pass Ultimate Subscription (Saudi Arabia). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 16.99,
+    country: "saudi arabia",
+    related: "xbox-ultimate",
+  },
+  // Xbox Ultimate Turkey
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-1-month-tr",
+    description:
+      "1 Month Xbox Game Pass Ultimate Subscription (Turkey). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 13.9,
+    country: "Turkey",
+    related: "xbox-ultimate",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-3-months-tr",
+    description:
+      "3 Months Xbox Game Pass Ultimate Subscription (Turkey). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 29.87,
+    country: "Turkey",
+    related: "xbox-ultimate",
+  },
+  // Xbox Ultimate Russia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-1-month-ru",
+    description:
+      "1 Month Xbox Game Pass Ultimate Subscription (Russia). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 14.42,
+    country: "Russia",
+    related: "xbox-ultimate",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "xbox-game-pass-ultimate-3-months-ru",
+    description:
+      "3 Months Xbox Game Pass Ultimate Subscription (Russia). Get all the benefits of Xbox Live Gold and over 100 high-quality console and PC games with Xbox Game Pass Ultimate. Play with friends on the most advanced multiplayer network, discover new games, and enjoy exclusive member deals and discounts.\n\n" +
+      "How to redeem Xbox Game Pass Ultimate subscription:\n" +
+      "1. Sign in to your Xbox account or create a new one.\n" +
+      "2. Go to the Xbox Game Pass Ultimate page on the Microsoft Store.\n" +
+      "3. Select Join now, choose your plan, and follow the instructions.",
+    price: 37.0,
+    country: "Russia",
+    related: "xbox-ultimate",
+  },
 ];

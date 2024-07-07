@@ -121,6 +121,34 @@ export const subCategories = [
         description: "Buy deezer gift cards",
         path: "/home/gift-cards/deezer",
       },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Xbox",
+        description: "Buy xbox gift cards",
+        path: "/home/gift-cards/xbox",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Xbox Gold",
+        description: "Buy xbox gold gift cards",
+        path: "/home/gift-cards/xbox-gold",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Xbox Game",
+        description: "Buy xbox game gift cards",
+        path: "/home/gift-cards/xbox-game",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Xbox Ultimate",
+        description: "Buy xbox ultimate gift cards",
+        path: "/home/gift-cards/xbox-ultimate",
+      },
     ],
   },
 
