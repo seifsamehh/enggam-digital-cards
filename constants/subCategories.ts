@@ -102,7 +102,7 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720463465/Enggam%20Digital%20Cards/first_alpt9t.jpg",
         title: "Voucherry",
         description: "Buy voucherry gift cards",
         path: "/home/gift-cards/voucherry",
