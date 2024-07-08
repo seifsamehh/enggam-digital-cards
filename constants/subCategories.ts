@@ -25,21 +25,21 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720462373/Enggam%20Digital%20Cards/%D8%A7%D9%88%D9%84_%D8%B5%D9%88%D8%B1%D9%87_kpmdwg.jpg",
         title: "Playstation",
         description: "Buy playstation gift cards",
         path: "/home/gift-cards/playstation",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720462616/Enggam%20Digital%20Cards/%D8%A7%D9%88%D9%84_%D8%B5%D9%88%D8%B1%D9%87_nuxygc.jpg",
         title: "Razer Gold",
         description: "Buy Razer Gold gift cards",
         path: "/home/gift-cards/razer-gold",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720462758/Enggam%20Digital%20Cards/1_jte3n5.jpg",
         title: "Steam",
         description: "Buy Steam gift cards",
         path: "/home/gift-cards/steam",
@@ -88,7 +88,7 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720462937/Enggam%20Digital%20Cards/1_bqsbtq.webp",
         title: "Anghami",
         description: "Buy anghami gift cards",
         path: "/home/gift-cards/anghami",

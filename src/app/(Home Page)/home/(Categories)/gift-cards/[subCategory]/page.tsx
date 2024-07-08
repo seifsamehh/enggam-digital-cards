@@ -231,12 +231,12 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
                   className="rounded-sm"
                 />
                 <h3
-                  className={`${tanker.className} text-3xl max-w-36 font-bold text-red-500`}
+                  className={`${tanker.className} text-3xl font-bold text-red-500`}
                 >
                   {product.name}
                 </h3>
-                <p>{product.price} $</p>
-                <Badge>
+                <p className="text-2xl">{product.price} $</p>
+                <Badge className="text-xl">
                   {product.country ? product.country : "No Country"}
                 </Badge>
                 <div className="product-btns">
