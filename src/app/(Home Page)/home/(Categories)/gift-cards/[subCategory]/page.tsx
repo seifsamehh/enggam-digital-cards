@@ -236,7 +236,7 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
                   {product.name}
                 </h3>
                 <p className="text-2xl">{product.price} $</p>
-                <Badge className="text-xl">
+                <Badge className="text-lg">
                   {product.country ? product.country : "No Country"}
                 </Badge>
                 <div className="product-btns">
