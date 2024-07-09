@@ -70,7 +70,7 @@ const SubProductDetails = () => {
       <HeaderHome />
       {product ? (
         <section className="product-details py-6 relative">
-          <div className="container flex justify-around items-start gap-8 min-[290px] md:flex-nowrap">
+          <div className="container flex justify-around items-start gap-8 flex-wrap lg:flex-nowrap">
             <div className="left">
               <Image
                 src={product.image!}

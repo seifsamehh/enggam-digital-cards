@@ -81,7 +81,7 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720520584/Enggam%20Digital%20Cards/1..._rjoxll.jpg",
         title: "Brands",
         description: "Buy brands gift cards",
         path: "/home/gift-cards/brands",

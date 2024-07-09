@@ -11248,7 +11248,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720520585/Enggam%20Digital%20Cards/2..._qczjip.png",
     name: "brands-for-less-50-aed",
     description:
       "50 AED Brands For Less. Brands For Less offers the largest brands in toys, sportswear, fashion, home décor, jewelry, and more at significant discounts—up to 80% off retail prices. Each store visit promises an adventure with the latest products and unique finds.\n\n" +
@@ -11267,7 +11267,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720520585/Enggam%20Digital%20Cards/2..._qczjip.png",
     name: "brands-for-less-100-aed",
     description:
       "100 AED Brands For Less. Brands For Less offers the largest brands in toys, sportswear, fashion, home décor, jewelry, and more at significant discounts—up to 80% off retail prices. Each store visit promises an adventure with the latest products and unique finds.\n\n" +
@@ -11286,7 +11286,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720520585/Enggam%20Digital%20Cards/2..._qczjip.png",
     name: "brands-for-less-200-aed",
     description:
       "200 AED Brands For Less. Brands For Less offers the largest brands in toys, sportswear, fashion, home décor, jewelry, and more at significant discounts—up to 80% off retail prices. Each store visit promises an adventure with the latest products and unique finds.\n\n" +
@@ -11305,7 +11305,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720520585/Enggam%20Digital%20Cards/2..._qczjip.png",
     name: "brands-for-less-500-aed",
     description:
       "500 AED Brands For Less. Brands For Less offers the largest brands in toys, sportswear, fashion, home décor, jewelry, and more at significant discounts—up to 80% off retail prices. Each store visit promises an adventure with the latest products and unique finds.\n\n" +
