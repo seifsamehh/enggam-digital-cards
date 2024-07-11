@@ -11,14 +11,14 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684094/Enggam%20Digital%20Cards/1._xixn98.jpg",
         title: "Google Play",
         description: "Buy google play gift cards",
         path: "/home/gift-cards/google-play",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684510/Enggam%20Digital%20Cards/1_sfh3vv.jpg",
         title: "Netflix",
         description: "Buy netflix gift cards",
         path: "/home/gift-cards/netflix",
@@ -46,56 +46,56 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684043/Enggam%20Digital%20Cards/1.._dx01dc.png",
         title: "Flyin",
         description: "Buy flyin gift cards",
         path: "/home/gift-cards/flyin",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720685000/Enggam%20Digital%20Cards/%D8%AC%D9%88%D9%87_%D9%88%D8%A8%D8%B1%D9%87_%D9%83%D9%84%D9%87_nqoinf.png",
         title: "B-tech",
         description: "Buy b-tech gift cards",
         path: "/home/gift-cards/b-tech",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720683920/Enggam%20Digital%20Cards/1..._bfkefg.png",
         title: "Shahid",
         description: "Buy shahid gift cards",
         path: "/home/gift-cards/shahid",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684633/Enggam%20Digital%20Cards/1_ha7dfj.png",
         title: "Jarir",
         description: "Buy jarir gift cards",
         path: "/home/gift-cards/jarir",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720681534/Enggam%20Digital%20Cards/1....._agqkuv.png",
         title: "Bigo",
         description: "Buy bigo gift cards",
         path: "/home/gift-cards/bigo",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720520584/Enggam%20Digital%20Cards/1..._rjoxll.jpg",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720681335/Enggam%20Digital%20Cards/1.........._mockme.png",
         title: "Brands",
         description: "Buy brands gift cards",
         path: "/home/gift-cards/brands",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720462937/Enggam%20Digital%20Cards/1_bqsbtq.webp",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684287/Enggam%20Digital%20Cards/1._m3dw8g.png",
         title: "Anghami",
         description: "Buy anghami gift cards",
         path: "/home/gift-cards/anghami",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720681663/Enggam%20Digital%20Cards/1...._u28nlb.png",
         title: "Careem",
         description: "Buy careem gift cards",
         path: "/home/gift-cards/careem",
@@ -109,42 +109,42 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720681460/Enggam%20Digital%20Cards/1........._xozuqa.png",
         title: "IMO",
         description: "Buy imo gift cards",
         path: "/home/gift-cards/imo",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684859/Enggam%20Digital%20Cards/Your_paragraph_text_1_wsg2e1.png",
         title: "Deezer",
         description: "Buy deezer gift cards",
         path: "/home/gift-cards/deezer",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684720/Enggam%20Digital%20Cards/Xbox_feu1xg.png",
         title: "Xbox",
         description: "Buy xbox gift cards",
         path: "/home/gift-cards/xbox",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684720/Enggam%20Digital%20Cards/Xbox_feu1xg.png",
         title: "Xbox Gold",
         description: "Buy xbox gold gift cards",
         path: "/home/gift-cards/xbox-gold",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684720/Enggam%20Digital%20Cards/Xbox_feu1xg.png",
         title: "Xbox Game",
         description: "Buy xbox game gift cards",
         path: "/home/gift-cards/xbox-game",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1720684720/Enggam%20Digital%20Cards/Xbox_feu1xg.png",
         title: "Xbox Ultimate",
         description: "Buy xbox ultimate gift cards",
         path: "/home/gift-cards/xbox-ultimate",
