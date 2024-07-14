@@ -102,6 +102,19 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
             >
               <option value="">All</option>
               <option value="Global">Global</option>
+              <option value="Brazil">Brazil</option>
+              <option value="Colombia">Colombia</option>
+              <option value="Austria">Austria</option>
+              <option value="Denmark">Denmark</option>
+              <option value="Europe">Europe</option>
+              <option value="UK">United Kingdom</option>
+              <option value="USA">United States</option>
+              <option value="France">France</option>
+              <option value="Malaysia">Malaysia</option>
+              <option value="Philippines">Philippines</option>
+              <option value="Indonesia">Indonesia</option>
+              <option value="Australia">Australia</option>
+              <option value="Mexico">Mexico</option>
             </select>
           </div>
           <h1 className={`${tanker.className} text-3xl md:text-8xl`}>
@@ -133,6 +146,19 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
           >
             <option value="">All</option>
             <option value="Global">Global</option>
+            <option value="Brazil">Brazil</option>
+            <option value="Colombia">Colombia</option>
+            <option value="Austria">Austria</option>
+            <option value="Denmark">Denmark</option>
+            <option value="Europe">Europe</option>
+            <option value="UK">United Kingdom</option>
+            <option value="USA">United States</option>
+            <option value="France">France</option>
+            <option value="Malaysia">Malaysia</option>
+            <option value="Philippines">Philippines</option>
+            <option value="Indonesia">Indonesia</option>
+            <option value="Australia">Australia</option>
+            <option value="Mexico">Mexico</option>
           </select>
         </div>
 

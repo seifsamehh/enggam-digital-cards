@@ -172,16 +172,114 @@ export const subCategories = [
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "psn",
-        description: "Buy psn game cards",
-        path: "/home/game-cards/psn",
+        title: "Freefire",
+        description: "Buy freefire game cards",
+        path: "/home/game-cards/freefire",
       },
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "psn",
-        description: "Buy psn game cards",
-        path: "/home/game-cards/psn",
+        title: "Mobile Legends",
+        description: "Buy mobile legends game cards",
+        path: "/home/game-cards/mobilelegends",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Roblox",
+        description: "Buy roblox game cards",
+        path: "/home/game-cards/roblox",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Fortnite",
+        description: "Buy fortnite game cards",
+        path: "/home/game-cards/fortnite",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Perfect World",
+        description: "Buy perfect world game cards",
+        path: "/home/game-cards/perfect-world",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "3 Kingdoms Online",
+        description: "Buy 3 kingdoms online game cards",
+        path: "/home/game-cards/3-kingdoms-online",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Softnyx",
+        description: "Buy softnyx game cards",
+        path: "/home/game-cards/softnyx",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Goplay",
+        description: "Buy goplay game cards",
+        path: "/home/game-cards/goplay",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Popmundo",
+        description: "Buy popmundo game cards",
+        path: "/home/game-cards/popmundo",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Jawaker",
+        description: "Buy jawaker game cards",
+        path: "/home/game-cards/jawaker",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Candy Crush",
+        description: "Buy candy crush game cards",
+        path: "/home/game-cards/candy-crush",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Garena Shells",
+        description: "Buy garena shells game cards",
+        path: "/home/game-cards/garena-shells",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Conquer Online",
+        description: "Buy conquer online game cards",
+        path: "/home/game-cards/conquer-online",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Yalla Ludo",
+        description: "Buy yalla ludo game cards",
+        path: "/home/game-cards/yalla-ludo",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "League Of Legends",
+        description: "Buy league of legends game cards",
+        path: "/home/game-cards/league-of-legends",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Facebook Game Cards",
+        description: "Buy Facebook game cards",
+        path: "/home/game-cards/facebook-game-card",
       },
     ],
   },
