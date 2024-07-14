@@ -158,16 +158,16 @@ export const subCategories = [
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "psn",
-        description: "Buy psn game cards",
-        path: "/home/game-cards/psn",
+        title: "Pubg Game",
+        description: "Buy pubg game cards",
+        path: "/home/game-cards/pubg-game",
       },
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "psn",
-        description: "Buy psn game cards",
-        path: "/home/game-cards/psn",
+        title: "Pubg New State",
+        description: "Buy pubg game cards",
+        path: "/home/game-cards/pubg-state",
       },
       {
         imageUrl:

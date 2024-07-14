@@ -13102,4 +13102,335 @@ export const subCategoryProducts = [
     country: "Russia",
     related: "xbox-ultimate",
   },
+  // Game Cards
+  // Pubg Game
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-60-uc-global",
+    description:
+      "PUBG 60 UC (Global) Code. Recharge your PUBG Mobile account with 60 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 0.89,
+    country: "Global",
+    related: "pubg-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-300-25-uc-global",
+    description:
+      "PUBG 300+25 UC (Global) Code. Recharge your PUBG Mobile account with 325 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 4.25,
+    country: "Global",
+    related: "pubg-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-600-60-uc-global",
+    description:
+      "PUBG 600 + 60 UC (Global) Code. Recharge your PUBG Mobile account with 660 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 8.85,
+    country: "Global",
+    related: "pubg-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-1500-300-uc-global",
+    description:
+      "PUBG 1500 + 300 UC (Global) Code. Recharge your PUBG Mobile account with 1800 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 22.3,
+    country: "Global",
+    related: "pubg-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-3000-850-uc-global",
+    description:
+      "PUBG 3000 + 850 UC (Global) Code. Recharge your PUBG Mobile account with 3850 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 44.29,
+    country: "Global",
+    related: "pubg-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-6000-2100-uc-global",
+    description:
+      "PUBG 6000 + 2100 UC (Global) Code. Recharge your PUBG Mobile account with 8100 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 87.55,
+    country: "Global",
+    related: "pubg-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-16200-uc-global",
+    description:
+      "PUBG 16200 UC (Global) Code. Recharge your PUBG Mobile account with 16200 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 178.19,
+    country: "Global",
+    related: "pubg-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-24300-uc-global",
+    description:
+      "PUBG 24300 UC (Global) Code. Recharge your PUBG Mobile account with 24300 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 265.74,
+    country: "Global",
+    related: "pubg-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-32400-uc-global",
+    description:
+      "PUBG 32400 UC (Global) Code. Recharge your PUBG Mobile account with 32400 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 352.26,
+    country: "Global",
+    related: "pubg-game",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-40500-uc-global",
+    description:
+      "PUBG 40500 UC (Global) Code. Recharge your PUBG Mobile account with 40500 UC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "How to Recover PUBG M UC (Worldwide):\n" +
+      "1. Visit https://www.midasbuy.com/ot/redeem/pubgm and enter your PUBG Mobile player ID.\n" +
+      "2. Enter the code, and then click ok to redeem.\n" +
+      "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
+      "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
+    price: 463.5,
+    country: "Global",
+    related: "pubg-game",
+  },
+  // Pubg State
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-new-state-300-nc",
+    description:
+      "Pubg New State 300 NC. Recharge your PUBG New State account with 300 NC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "What is PUBG: Modern State vs PUBG?\n" +
+      "PUBG Unused State offers ultra-realistic design improbable to be found in any other fight royale portable amusement. It'll allow players the feel of playing on a PC in max design settings. Whereas PUBG Versatile offers less complex design, PUBG Modern State's reasonable illustrations are awe-inspiring in that comparison.\n\n" +
+      "Is PUBG: Modern State Tencent?\n" +
+      "PUBG: Modern State does have PUBG Studios as the modern engineer over China's Tencent Recreations to distinguish itself from the first PUBG Versatile.\n\n" +
+      "About PUBG: Modern STATE\n" +
+      "PUBG: Unused State, the most up to date title by PUBG Studio, the makers of PLAYERUNKNOWN'S BATTLEGROUNDS. With the next-generation versatile illustrations, PUBG: Unused State conveys the complete fight royale involvement straight into players' hands for iOS and Android. The competition has advanced into a unused battleground from the initial PUBG encounter, including in-game weapon customization, rambles, a combat roll capacity and more.\n\n" +
+      "PUBG: Unused State is set in 2051 and highlights with a assortment of vehicles, which players can utilize to investigate 8×8 km open universes. Players will be dropping into a brand-new battleground called TROI and as it were the most grounded will rise as the “Lone Survivor” in this epic confrontation. Hold up no more and begin your pre-register presently for Android clients!\n\n" +
+      "How to top-up PUBG: Unused State NC?\n" +
+      "1. Select the NC group.\n" +
+      "2. Enter your PUBG: Unused State Account ID.\n" +
+      "3. Check out and select your installment strategy.\n" +
+      "4. Once installment made, your acquired will be credited to your account in the blink of an eye.\n\n" +
+      "How to discover PUBG: Modern State Account ID?\n" +
+      "1. Use your account to log into the amusement.\n" +
+      "2. Tap the See More symbol within the beat right corner.\n" +
+      "3. Tap the setting symbol.\n" +
+      "4. The PUBG: Unused State Account ID will be shown.",
+    price: 1.0,
+    country: "Global",
+    related: "pubg-state",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-new-state-1500-80-nc",
+    description:
+      "Pubg New State 1500+80 NC. Recharge your PUBG New State account with 1580 NC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "What is PUBG: Modern State vs PUBG?\n" +
+      "PUBG Unused State offers ultra-realistic design improbable to be found in any other fight royale portable amusement. It'll allow players the feel of playing on a PC in max design settings. Whereas PUBG Versatile offers less complex design, PUBG Modern State's reasonable illustrations are awe-inspiring in that comparison.\n\n" +
+      "Is PUBG: Modern State Tencent?\n" +
+      "PUBG: Modern State does have PUBG Studios as the modern engineer over China's Tencent Recreations to distinguish itself from the first PUBG Versatile.\n\n" +
+      "About PUBG: Modern STATE\n" +
+      "PUBG: Unused State, the most up to date title by PUBG Studio, the makers of PLAYERUNKNOWN'S BATTLEGROUNDS. With the next-generation versatile illustrations, PUBG: Unused State conveys the complete fight royale involvement straight into players' hands for iOS and Android. The competition has advanced into a unused battleground from the initial PUBG encounter, including in-game weapon customization, rambles, a combat roll capacity and more.\n\n" +
+      "PUBG: Unused State is set in 2051 and highlights with a assortment of vehicles, which players can utilize to investigate 8×8 km open universes. Players will be dropping into a brand-new battleground called TROI and as it were the most grounded will rise as the “Lone Survivor” in this epic confrontation. Hold up no more and begin your pre-register presently for Android clients!\n\n" +
+      "How to top-up PUBG: Unused State NC?\n" +
+      "1. Select the NC group.\n" +
+      "2. Enter your PUBG: Unused State Account ID.\n" +
+      "3. Check out and select your installment strategy.\n" +
+      "4. Once installment made, your acquired will be credited to your account in the blink of an eye.\n\n" +
+      "How to discover PUBG: Modern State Account ID?\n" +
+      "1. Use your account to log into the amusement.\n" +
+      "2. Tap the See More symbol within the beat right corner.\n" +
+      "3. Tap the setting symbol.\n" +
+      "4. The PUBG: Unused State Account ID will be shown.",
+    price: 5.15,
+    country: "Global",
+    related: "pubg-state",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-new-state-3600-250-nc",
+    description:
+      "Pubg New State 3600+250 NC. Recharge your PUBG New State account with 3850 NC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "What is PUBG: Modern State vs PUBG?\n" +
+      "PUBG Unused State offers ultra-realistic design improbable to be found in any other fight royale portable amusement. It'll allow players the feel of playing on a PC in max design settings. Whereas PUBG Versatile offers less complex design, PUBG Modern State's reasonable illustrations are awe-inspiring in that comparison.\n\n" +
+      "Is PUBG: Modern State Tencent?\n" +
+      "PUBG: Modern State does have PUBG Studios as the modern engineer over China's Tencent Recreations to distinguish itself from the first PUBG Versatile.\n\n" +
+      "About PUBG: Modern STATE\n" +
+      "PUBG: Unused State, the most up to date title by PUBG Studio, the makers of PLAYERUNKNOWN'S BATTLEGROUNDS. With the next-generation versatile illustrations, PUBG: Unused State conveys the complete fight royale involvement straight into players' hands for iOS and Android. The competition has advanced into a unused battleground from the initial PUBG encounter, including in-game weapon customization, rambles, a combat roll capacity and more.\n\n" +
+      "PUBG: Unused State is set in 2051 and highlights with a assortment of vehicles, which players can utilize to investigate 8×8 km open universes. Players will be dropping into a brand-new battleground called TROI and as it were the most grounded will rise as the “Lone Survivor” in this epic confrontation. Hold up no more and begin your pre-register presently for Android clients!\n\n" +
+      "How to top-up PUBG: Unused State NC?\n" +
+      "1. Select the NC group.\n" +
+      "2. Enter your PUBG: Unused State Account ID.\n" +
+      "3. Check out and select your installment strategy.\n" +
+      "4. Once installment made, your acquired will be credited to your account in the blink of an eye.\n\n" +
+      "How to discover PUBG: Modern State Account ID?\n" +
+      "1. Use your account to log into the amusement.\n" +
+      "2. Tap the See More symbol within the beat right corner.\n" +
+      "3. Tap the setting symbol.\n" +
+      "4. The PUBG: Unused State Account ID will be shown.",
+    price: 12.36,
+    country: "Global",
+    related: "pubg-state",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-new-state-9300-930-nc",
+    description:
+      "Pubg New State 9300+930 NC. Recharge your PUBG New State account with 10230 NC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "What is PUBG: Modern State vs PUBG?\n" +
+      "PUBG Unused State offers ultra-realistic design improbable to be found in any other fight royale portable amusement. It'll allow players the feel of playing on a PC in max design settings. Whereas PUBG Versatile offers less complex design, PUBG Modern State's reasonable illustrations are awe-inspiring in that comparison.\n\n" +
+      "Is PUBG: Modern State Tencent?\n" +
+      "PUBG: Modern State does have PUBG Studios as the modern engineer over China's Tencent Recreations to distinguish itself from the first PUBG Versatile.\n\n" +
+      "About PUBG: Modern STATE\n" +
+      "PUBG: Unused State, the most up to date title by PUBG Studio, the makers of PLAYERUNKNOWN'S BATTLEGROUNDS. With the next-generation versatile illustrations, PUBG: Unused State conveys the complete fight royale involvement straight into players' hands for iOS and Android. The competition has advanced into a unused battleground from the initial PUBG encounter, including in-game weapon customization, rambles, a combat roll capacity and more.\n\n" +
+      "PUBG: Unused State is set in 2051 and highlights with a assortment of vehicles, which players can utilize to investigate 8×8 km open universes. Players will be dropping into a brand-new battleground called TROI and as it were the most grounded will rise as the “Lone Survivor” in this epic confrontation. Hold up no more and begin your pre-register presently for Android clients!\n\n" +
+      "How to top-up PUBG: Unused State NC?\n" +
+      "1. Select the NC group.\n" +
+      "2. Enter your PUBG: Unused State Account ID.\n" +
+      "3. Check out and select your installment strategy.\n" +
+      "4. Once installment made, your acquired will be credited to your account in the blink of an eye.\n\n" +
+      "How to discover PUBG: Modern State Account ID?\n" +
+      "1. Use your account to log into the amusement.\n" +
+      "2. Tap the See More symbol within the beat right corner.\n" +
+      "3. Tap the setting symbol.\n" +
+      "4. The PUBG: Unused State Account ID will be shown.",
+    price: 30.9,
+    country: "Global",
+    related: "pubg-state",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-new-state-15000-1800-nc",
+    description:
+      "Pubg New State 15000+1800 NC. Recharge your PUBG New State account with 16800 NC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "What is PUBG: Modern State vs PUBG?\n" +
+      "PUBG Unused State offers ultra-realistic design improbable to be found in any other fight royale portable amusement. It'll allow players the feel of playing on a PC in max design settings. Whereas PUBG Versatile offers less complex design, PUBG Modern State's reasonable illustrations are awe-inspiring in that comparison.\n\n" +
+      "Is PUBG: Modern State Tencent?\n" +
+      "PUBG: Modern State does have PUBG Studios as the modern engineer over China's Tencent Recreations to distinguish itself from the first PUBG Versatile.\n\n" +
+      "About PUBG: Modern STATE\n" +
+      "PUBG: Unused State, the most up to date title by PUBG Studio, the makers of PLAYERUNKNOWN'S BATTLEGROUNDS. With the next-generation versatile illustrations, PUBG: Unused State conveys the complete fight royale involvement straight into players' hands for iOS and Android. The competition has advanced into a unused battleground from the initial PUBG encounter, including in-game weapon customization, rambles, a combat roll capacity and more.\n\n" +
+      "PUBG: Unused State is set in 2051 and highlights with a assortment of vehicles, which players can utilize to investigate 8×8 km open universes. Players will be dropping into a brand-new battleground called TROI and as it were the most grounded will rise as the “Lone Survivor” in this epic confrontation. Hold up no more and begin your pre-register presently for Android clients!\n\n" +
+      "How to top-up PUBG: Unused State NC?\n" +
+      "1. Select the NC group.\n" +
+      "2. Enter your PUBG: Unused State Account ID.\n" +
+      "3. Check out and select your installment strategy.\n" +
+      "4. Once installment made, your acquired will be credited to your account in the blink of an eye.\n\n" +
+      "How to discover PUBG: Modern State Account ID?\n" +
+      "1. Use your account to log into the amusement.\n" +
+      "2. Tap the See More symbol within the beat right corner.\n" +
+      "3. Tap the setting symbol.\n" +
+      "4. The PUBG: Unused State Account ID will be shown.",
+    price: 49.44,
+    country: "Global",
+    related: "pubg-state",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "pubg-new-state-30000-5000-nc",
+    description:
+      "Pubg New State 30000+5000 NC. Recharge your PUBG New State account with 35000 NC to enhance your gaming experience with new skins, outfits, and other in-game items.\n\n" +
+      "What is PUBG: Modern State vs PUBG?\n" +
+      "PUBG Unused State offers ultra-realistic design improbable to be found in any other fight royale portable amusement. It'll allow players the feel of playing on a PC in max design settings. Whereas PUBG Versatile offers less complex design, PUBG Modern State's reasonable illustrations are awe-inspiring in that comparison.\n\n" +
+      "Is PUBG: Modern State Tencent?\n" +
+      "PUBG: Modern State does have PUBG Studios as the modern engineer over China's Tencent Recreations to distinguish itself from the first PUBG Versatile.\n\n" +
+      "About PUBG: Modern STATE\n" +
+      "PUBG: Unused State, the most up to date title by PUBG Studio, the makers of PLAYERUNKNOWN'S BATTLEGROUNDS. With the next-generation versatile illustrations, PUBG: Unused State conveys the complete fight royale involvement straight into players' hands for iOS and Android. The competition has advanced into a unused battleground from the initial PUBG encounter, including in-game weapon customization, rambles, a combat roll capacity and more.\n\n" +
+      "PUBG: Unused State is set in 2051 and highlights with a assortment of vehicles, which players can utilize to investigate 8×8 km open universes. Players will be dropping into a brand-new battleground called TROI and as it were the most grounded will rise as the “Lone Survivor” in this epic confrontation. Hold up no more and begin your pre-register presently for Android clients!\n\n" +
+      "How to top-up PUBG: Unused State NC?\n" +
+      "1. Select the NC group.\n" +
+      "2. Enter your PUBG: Unused State Account ID.\n" +
+      "3. Check out and select your installment strategy.\n" +
+      "4. Once installment made, your acquired will be credited to your account in the blink of an eye.\n\n" +
+      "How to discover PUBG: Modern State Account ID?\n" +
+      "1. Use your account to log into the amusement.\n" +
+      "2. Tap the See More symbol within the beat right corner.\n" +
+      "3. Tap the setting symbol.\n" +
+      "4. The PUBG: Unused State Account ID will be shown.",
+    price: 98.88,
+    country: "Global",
+    related: "pubg-state",
+  },
 ];
