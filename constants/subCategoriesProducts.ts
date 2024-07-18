@@ -14639,7 +14639,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215279/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_ht69fw.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215195/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.09_PM_voilfg.jpg",
     name: "fortnite-us-1000-vbucks",
     description:
       "Fortnite 1000 V-Bucks Card (United States). V-Bucks are an in-game currency used in Fortnite, developed by Epic Games. V-Bucks cards can be redeemed on various platforms including PlayStation, Xbox, Nintendo Switch, PC/Mac, and Mobile to purchase items like outfits, pickaxes, wraps, emotes, and Battle Passes.\n\n" +
@@ -14657,7 +14657,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215279/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_ht69fw.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215195/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.09_PM_voilfg.jpg",
     name: "fortnite-us-2800-vbucks",
     description:
       "Fortnite 2800 V-Bucks Card (United States). V-Bucks are an in-game currency used in Fortnite, developed by Epic Games. V-Bucks cards can be redeemed on various platforms including PlayStation, Xbox, Nintendo Switch, PC/Mac, and Mobile to purchase items like outfits, pickaxes, wraps, emotes, and Battle Passes.\n\n" +
@@ -14675,7 +14675,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215279/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_ht69fw.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215195/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.09_PM_voilfg.jpg",
     name: "fortnite-us-5000-vbucks",
     description:
       "Fortnite 5000 V-Bucks Card (United States). V-Bucks are an in-game currency used in Fortnite, developed by Epic Games. V-Bucks cards can be redeemed on various platforms including PlayStation, Xbox, Nintendo Switch, PC/Mac, and Mobile to purchase items like outfits, pickaxes, wraps, emotes, and Battle Passes.\n\n" +
@@ -14693,7 +14693,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215279/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_ht69fw.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215195/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.09_PM_voilfg.jpg",
     name: "fortnite-us-13500-vbucks",
     description:
       "Fortnite 13500 V-Bucks Card (United States). V-Bucks are an in-game currency used in Fortnite, developed by Epic Games. V-Bucks cards can be redeemed on various platforms including PlayStation, Xbox, Nintendo Switch, PC/Mac, and Mobile to purchase items like outfits, pickaxes, wraps, emotes, and Battle Passes.\n\n" +
@@ -15877,7 +15877,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-830-diamonds-global",
     description:
       "Yalla Ludo Diamonds 830 Diamonds (Global). Purchase Yalla Ludo Diamonds to enhance your gaming experience and unlock various in-game features. Use diamonds for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -15895,7 +15895,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-2320-diamonds-global",
     description:
       "Yalla Ludo Diamonds 2320 Diamonds (Global). Purchase Yalla Ludo Diamonds to enhance your gaming experience and unlock various in-game features. Use diamonds for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -15913,7 +15913,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-13000-diamonds-global",
     description:
       "Yalla Ludo Diamonds 13000 Diamonds (Global). Purchase Yalla Ludo Diamonds to enhance your gaming experience and unlock various in-game features. Use diamonds for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -15931,7 +15931,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-68500-gold-global",
     description:
       "Yalla Ludo Gold 68500 Gold (Global). Purchase Yalla Ludo Gold to enhance your gaming experience and unlock various in-game features. Use gold for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -15949,7 +15949,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-224500-gold-global",
     description:
       "Yalla Ludo Gold 224500 Gold (Global). Purchase Yalla Ludo Gold to enhance your gaming experience and unlock various in-game features. Use gold for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -15967,7 +15967,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-25300000-gold-global",
     description:
       "Yalla Ludo Gold 25,300,000 Gold (Global). Purchase Yalla Ludo Gold to enhance your gaming experience and unlock various in-game features. Use gold for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -15985,7 +15985,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-27800-diamonds-global",
     description:
       "Yalla Ludo Diamonds 27,800 Diamonds (Global). Purchase Yalla Ludo Diamonds to enhance your gaming experience and unlock various in-game features. Use diamonds for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -16003,7 +16003,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-56000-diamonds-global",
     description:
       "Yalla Ludo Diamonds 56,000 Diamonds (Global). Purchase Yalla Ludo Diamonds to enhance your gaming experience and unlock various in-game features. Use diamonds for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -16021,7 +16021,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-10030000-gold-global",
     description:
       "Yalla Ludo Gold 10,030,000 Gold (Global). Purchase Yalla Ludo Gold to enhance your gaming experience and unlock various in-game features. Use gold for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -16039,7 +16039,7 @@ export const subCategoryProducts = [
   {
     id: generateUniqueId(),
     image:
-      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
     name: "yalla-ludo-3700000-gold-global",
     description:
       "Yalla Ludo Gold 3,700,000 Gold (Global). Purchase Yalla Ludo Gold to enhance your gaming experience and unlock various in-game features. Use gold for real-time voice chat, different game modes like 2 & 4 Players mode and Team mode, and to play with friends in private or local rooms.\n\n" +
@@ -16163,7 +16163,7 @@ export const subCategoryProducts = [
       "On the off chance that you do not need to utilize the Facebook Blessing Card yourself to gotten to be dynamic within the world's most popular social network, you can too deliver it absent. Concurring to the network's working company, the stage has 2.5 billion dynamic clients each month. The probability that the individual you're giving the blessing card to is one of them is subsequently correspondingly tall.\n\n" +
       "Which information is collected for the utilize of the Facebook Gift Card?\n" +
       "The largest social arrange within the world itself is regularly criticized for its information collection lunacy. This is often not completely unjustified. Whoever employments this stage, their information is additionally put away by Facebook. Autonomous of this, be that as it may, is the utilize of our Facebook Blessing Card, since it comprises of a code that we send to you by e-mail after installment with a crypto cash of your choice. This implies on the one hand, coinsbee.com as it were needs your mail address and on the other hand, Facebook will not know around your installment strategy. So you'll stay as secure as conceivable and with greatest speed, around the clock.",
-    price: 12.36, // Facebook game card 150MXN
+    price: 12.36,
     country: "Mexico",
     related: "facebook-game-card",
   },
@@ -16187,8 +16187,220 @@ export const subCategoryProducts = [
       "On the off chance that you do not need to utilize the Facebook Blessing Card yourself to gotten to be dynamic within the world's most popular social network, you can too deliver it absent. Concurring to the network's working company, the stage has 2.5 billion dynamic clients each month. The probability that the individual you're giving the blessing card to is one of them is subsequently correspondingly tall.\n\n" +
       "Which information is collected for the utilize of the Facebook Gift Card?\n" +
       "The largest social arrange within the world itself is regularly criticized for its information collection lunacy. This is often not completely unjustified. Whoever employments this stage, their information is additionally put away by Facebook. Autonomous of this, be that as it may, is the utilize of our Facebook Blessing Card, since it comprises of a code that we send to you by e-mail after installment with a crypto cash of your choice. This implies on the one hand, coinsbee.com as it were needs your mail address and on the other hand, Facebook will not know around your installment strategy. So you'll stay as secure as conceivable and with greatest speed, around the clock.",
-    price: 18.0, // Facebook game card 250MXN
+    price: 18.0,
     country: "Mexico",
     related: "facebook-game-card",
+  },
+  // Payment Cards
+  // Prepaid
+  // Prepaid Canada
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD1",
+    description:
+      "My Prepaid Center MasterCard CAD1 Gift Card = 1.00\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 1.0,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD2",
+    description:
+      "My Prepaid Center MasterCard CAD2 Gift Card = 1.95\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 1.95,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD5",
+    description:
+      "My Prepaid Center MasterCard CAD5 Gift Card = 4.63\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 4.63,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD10",
+    description:
+      "My Prepaid Center MasterCard CAD10 Gift Card = 8.54\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 8.54,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD15",
+    description:
+      "My Prepaid Center MasterCard CAD15 Gift Card = 12.77\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 12.77,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD20",
+    description:
+      "My Prepaid Center MasterCard CAD20 Gift Card = 16.89\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 16.89,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD25",
+    description:
+      "My Prepaid Center MasterCard CAD25 Gift Card = 21.32\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 21.32,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD50",
+    description:
+      "My Prepaid Center MasterCard CAD50 Gift Card = 41.09\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 41.09,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD100",
+    description:
+      "My Prepaid Center MasterCard CAD100 Gift Card = 81.88\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 81.88,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD200",
+    description:
+      "My Prepaid Center MasterCard CAD200 Gift Card = 158.62\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 158.62,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "MY PREPAID CENTER MasterCard CAD999",
+    description:
+      "My Prepaid Center MasterCard CAD999 Gift Card = 772.50\n" +
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge of CAD 3.00 will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 772.50,
+    country: "Canada",
+    related: "my-prepaid-center-mastercard",
   },
 ];

@@ -194,7 +194,7 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
                     Add to cart
                   </Button>
                   <Link
-                    href={`/home/gift-cards/${params.subCategory}/${product.id}`}
+                    href={`/home/game-cards/${params.subCategory}/${product.id}`}
                   >
                     <Button variant={"outline"}>View details</Button>
                   </Link>

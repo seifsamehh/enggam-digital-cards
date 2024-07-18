@@ -164,7 +164,7 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721205615/Enggam%20Digital%20Cards/1._da3li0.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308739/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.57_AM_fae5o0.jpg",
         title: "Pubg New State",
         description: "Buy pubg game cards",
         path: "/home/game-cards/pubg-state",
@@ -192,7 +192,7 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215195/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.09_PM_voilfg.jpg",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215279/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_ht69fw.jpg",
         title: "Fortnite",
         description: "Buy fortnite game cards",
         path: "/home/game-cards/fortnite",
@@ -262,7 +262,7 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721215439/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-17_at_2.18.10_PM_1_mrxpo2.jpg",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721308616/Enggam%20Digital%20Cards/WhatsApp_Image_2024-07-18_at_12.36.54_AM_uacanl.jpg",
         title: "Yalla Ludo",
         description: "Buy yalla ludo game cards",
         path: "/home/game-cards/yalla-ludo",
@@ -289,9 +289,9 @@ export const subCategories = [
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "visa",
-        description: "Buy visa payment cards",
-        path: "/home/payment-cards/visa",
+        title: "My Prepaid Center Mastercard",
+        description: "Buy my prepaid center mastercards",
+        path: "/home/payment-cards/my-prepaid-center-mastercard",
       },
       {
         imageUrl:
