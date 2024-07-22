@@ -16193,6 +16193,7 @@ export const subCategoryProducts = [
   },
   // Payment Cards
   // Prepaid
+  // Prepaid canada
   {
     id: generateUniqueId(),
     image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
@@ -16402,4 +16403,678 @@ export const subCategoryProducts = [
     country: "Canada",
     related: "my-prepaid-center-mastercard",
   },
+  // Prepaid brazil
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Prepaid Mastercard 250 BRL",
+    description:
+      "Prepaid Mastercard 250 BRL Gift Card = 60.13\n" +
+      "Where can I purchase a prepaid credit card online?\n\n" +
+      "You'll easily purchase a prepaid credit card online at Enggam.com. It's quick, secure, and simple. Check out our wide selection of prepaid credit cards and select the one that's right for you. Select the desired credit amount for the card and enter your mail address. Pay along with your preferred payment method and your download code will arrive in seconds.\n\n" +
+      "Purchase Prepaid Mastercard Brazil and other gift cards from www.Enggam.com effortlessly and securely.",
+    price: 60.13,
+    country: "Brazil",
+    related: "my-prepaid-center-mastercard-brazil",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Prepaid Mastercard 500 BRL",
+    description:
+      "Prepaid Mastercard 500 BRL Gift Card = 119.99\n" +
+      "Where can I purchase a prepaid credit card online?\n\n" +
+      "You'll easily purchase a prepaid credit card online at Enggam.com. It's quick, secure, and simple. Check out our wide selection of prepaid credit cards and select the one that's right for you. Select the desired credit amount for the card and enter your mail address. Pay along with your preferred payment method and your download code will arrive in seconds.\n\n" +
+      "Purchase Prepaid Mastercard Brazil and other gift cards from www.Enggam.com effortlessly and securely.",
+    price: 119.99,
+    country: "Brazil",
+    related: "my-prepaid-center-mastercard-brazil",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Prepaid Mastercard 1000 BRL",
+    description:
+      "Prepaid Mastercard 1000 BRL Gift Card = 239.78\n" +
+      "Where can I purchase a prepaid credit card online?\n\n" +
+      "You'll easily purchase a prepaid credit card online at Enggam.com. It's quick, secure, and simple. Check out our wide selection of prepaid credit cards and select the one that's right for you. Select the desired credit amount for the card and enter your mail address. Pay along with your preferred payment method and your download code will arrive in seconds.\n\n" +
+      "Purchase Prepaid Mastercard Brazil and other gift cards from www.Enggam.com effortlessly and securely.",
+    price: 239.78,
+    country: "Brazil",
+    related: "my-prepaid-center-mastercard-brazil",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Prepaid Mastercard 2000 BRL",
+    description:
+      "Prepaid Mastercard 2000 BRL Gift Card = 479.36\n" +
+      "Where can I purchase a prepaid credit card online?\n\n" +
+      "You'll easily purchase a prepaid credit card online at Enggam.com. It's quick, secure, and simple. Check out our wide selection of prepaid credit cards and select the one that's right for you. Select the desired credit amount for the card and enter your mail address. Pay along with your preferred payment method and your download code will arrive in seconds.\n\n" +
+      "Purchase Prepaid Mastercard Brazil and other gift cards from www.Enggam.com effortlessly and securely.",
+    price: 479.36,
+    country: "Brazil",
+    related: "my-prepaid-center-mastercard-brazil",
+  },
+  // Prepaid Max
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "$25 MyPrepaidCenter MAX Mastercard",
+    description:
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 27.81,
+    related: "myprepaidcenter-max-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "$30 MyPrepaidCenter MAX Mastercard",
+    description:
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 33.47,
+    related: "myprepaidcenter-max-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "$50 MyPrepaidCenter MAX Mastercard",
+    description:
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 55.62,
+    related: "myprepaidcenter-max-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "$100 MyPrepaidCenter MAX Mastercard",
+    description:
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 113.30,
+    related: "myprepaidcenter-max-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "$250 MyPrepaidCenter MAX Mastercard",
+    description:
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 278.10,
+    related: "myprepaidcenter-max-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "$500 MyPrepaidCenter MAX Mastercard",
+    description:
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 545.90,
+    related: "myprepaidcenter-max-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "$750 MyPrepaidCenter MAX Mastercard",
+    description:
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 818.85,
+    related: "myprepaidcenter-max-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "$1000 MyPrepaidCenter MAX Mastercard",
+    description:
+      "Consideration !! Clients are encouraged to utilize the card right absent after buy since, after 12 months of enactment, a month to month upkeep charge will be pulled back from the sum.\n\n" +
+      "Cash never runs out.\n" +
+      "Cannot be reloaded.\n\n" +
+      "Cannot be utilized for repeating installments, pre-authorized exchanges, or cash withdrawals.\n" +
+      "The card might not be acknowledged by online retailers.\n" +
+      "The utilize of cards may be denied by law in a few countries.\n" +
+      "Cash from cards isn't CDIC-insured.\n" +
+      "For terms, see the cardholder understanding joined.\n" +
+      "Each blessing card's cost incorporates the obtaining expense exacted by the card's producer.",
+    price: 1081.00,
+    related: "myprepaidcenter-max-mastercard",
+  },
+  // Prepaid mastercard
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Mastercard 5 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 1 Week\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "Regularly Inquired Questions: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "Shop: Select from different plans to send the perfect gift for any occasion.\n\n" +
+      "Send: Buy gift cards online and choose to send them as an eGift by email.\n\n" +
+      "Spend: Flexibility to use the gift card or eGift card to shop online or add to a mobile wallet to make purchases in-store wherever Mastercard is accepted.\n\n" +
+      "بطاقات ماستر كارد المدفوعة مقدما هي اختيار ممتاز لتمويل صفحات الفيس بوك والشراء عبر الانترنت بكل امان.\n" +
+      "يمكنك استخدامها بشكل شخصي أو إرسالها إلى من تحب كهدية.\n" +
+      "تقبل الدفع على أي موقع يقبل الماستر كارد كوسيلة دفع طبقا لشروط ماستر كارد.",
+    price: 5.66,
+    related: "myprepaidcenter-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Mastercard 10 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 1 Week\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "Regularly Inquired Questions: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "Shop: Select from different plans to send the perfect gift for any occasion.\n\n" +
+      "Send: Buy gift cards online and choose to send them as an eGift by email.\n\n" +
+      "Spend: Flexibility to use the gift card or eGift card to shop online or add to a mobile wallet to make purchases in-store wherever Mastercard is accepted.\n\n" +
+      "بطاقات ماستر كارد المدفوعة مقدما هي اختيار ممتاز لتمويل صفحات الفيس بوك والشراء عبر الانترنت بكل امان.\n" +
+      "يمكنك استخدامها بشكل شخصي أو إرسالها إلى من تحب كهدية.\n" +
+      "تقبل الدفع على أي موقع يقبل الماستر كارد كوسيلة دفع طبقا لشروط ماستر كارد.",
+    price: 11.33,
+    related: "myprepaidcenter-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Mastercard 15 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 1 Week\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "Regularly Inquired Questions: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "Shop: Select from different plans to send the perfect gift for any occasion.\n\n" +
+      "Send: Buy gift cards online and choose to send them as an eGift by email.\n\n" +
+      "Spend: Flexibility to use the gift card or eGift card to shop online or add to a mobile wallet to make purchases in-store wherever Mastercard is accepted.\n\n" +
+      "بطاقات ماستر كارد المدفوعة مقدما هي اختيار ممتاز لتمويل صفحات الفيس بوك والشراء عبر الانترنت بكل امان.\n" +
+      "يمكنك استخدامها بشكل شخصي أو إرسالها إلى من تحب كهدية.\n" +
+      "تقبل الدفع على أي موقع يقبل الماستر كارد كوسيلة دفع طبقا لشروط ماستر كارد.",
+    price: 16.99,
+    related: "myprepaidcenter-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Mastercard 25 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 1 Week\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "Regularly Inquired Questions: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "Shop: Select from different plans to send the perfect gift for any occasion.\n\n" +
+      "Send: Buy gift cards online and choose to send them as an eGift by email.\n\n" +
+      "Spend: Flexibility to use the gift card or eGift card to shop online or add to a mobile wallet to make purchases in-store wherever Mastercard is accepted.\n\n" +
+      "بطاقات ماستر كارد المدفوعة مقدما هي اختيار ممتاز لتمويل صفحات الفيس بوك والشراء عبر الانترنت بكل امان.\n" +
+      "يمكنك استخدامها بشكل شخصي أو إرسالها إلى من تحب كهدية.\n" +
+      "تقبل الدفع على أي موقع يقبل الماستر كارد كوسيلة دفع طبقا لشروط ماستر كارد.",
+    price: 26.78,
+    related: "myprepaidcenter-mastercard",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Mastercard 50 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 1 Week\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "Regularly Inquired Questions: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "Shop: Select from different plans to send the perfect gift for any occasion.\n\n" +
+      "Send: Buy gift cards online and choose to send them as an eGift by email.\n\n" +
+      "Spend: Flexibility to use the gift card or eGift card to shop online or add to a mobile wallet to make purchases in-store wherever Mastercard is accepted.\n\n" +
+      "بطاقات ماستر كارد المدفوعة مقدما هي اختيار ممتاز لتمويل صفحات الفيس بوك والشراء عبر الانترنت بكل امان.\n" +
+      "يمكنك استخدامها بشكل شخصي أو إرسالها إلى من تحب كهدية.\n" +
+      "تقبل الدفع على أي موقع يقبل الماستر كارد كوسيلة دفع طبقا لشروط ماستر كارد.",
+    price: 53.56,
+    related: "myprepaidcenter-mastercard",
+  },
+  // Prepaid Visa
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 5 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 6.18,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 10 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 11.33,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 15 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 16.99,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 20 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 23.69,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 25 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 28.84,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 50 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 54.00,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 100 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 113.30,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 250 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 267.80,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 500 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 535.60,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 750 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 803.40,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 1000 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 1071.00,
+    related: "myprepaidcenter-visa",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1721206511/Enggam%20Digital%20Cards/facebook-online_ryud49.png",
+    name: "MyPrepaidCenter Visa 1500 USD",
+    description:
+      "Imperative:\n\n" +
+      "The expiry date is as follows:\n" +
+      "- For the Token: 3 Months from the purchase date.\n" +
+      "- For the card visa after activation, the Token is 6 Months up to two years.\n\n" +
+      "Your card is not reloadable and cannot be used in prohibited countries, for recurring payments, reservations, or to get cash from an ATM.\n\n" +
+      "It can be used anywhere Visa Debit Cards are accepted or in any U.S. webshop that accepts Discover Cards as payment.\n\n" +
+      "More Details here: https://www.myprepaidcenter.com/faq?type=generic\n\n" +
+      "كيف يمكن ان امول صفحات الفيس بوك او ربط الفيزا بالباي بال؟\n" +
+      "يمكن تمويل صفحات الفيس بوك ببيطاقات الفيزا.\n" +
+      "يمكن ربط الباي بال ببطاقة الفيزا.",
+    price: 1601.65,
+    related: "myprepaidcenter-visa",
+  },
+  // Jumia
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "JUMIA EGYPT 200 EGP Gift Card",
+    description:
+      "• Why Buy Gift Cards on Jumia?\n" +
+      "1. Gift Cards Offer Convenience:\n" +
+      "   Gift cards provide a convenient shopping experience. Once you have a gift card, you can use it without needing to visit physical stores that accept gift cards as a payment method. Your card details can be stored on your mobile phone, making it easy to pay at checkout.\n\n" +
+      "   For online shopping, you can copy and paste your card details on websites that accept gift cards. Gift cards like AMEX and Visa can be used at any store that accepts them as a payment method.\n\n" +
+      "• How to Use Vouchers or Coupons on Jumia:\n" +
+      "   - Place your orders on Jumia and apply the discounts provided.\n   - You can only use one voucher code per transaction.\n   - If your voucher does not cover the entire transaction amount, the remaining balance can be paid using other payment methods such as credit card, cash on delivery, or JumiaPay.",
+    price: 5.15,
+    related: "jumia-egypt",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "JUMIA EGYPT 500 EGP Gift Card",
+    description:
+      "• Why Buy Gift Cards on Jumia?\n" +
+      "1. Gift Cards Offer Convenience:\n" +
+      "   Gift cards provide a convenient shopping experience. Once you have a gift card, you can use it without needing to visit physical stores that accept gift cards as a payment method. Your card details can be stored on your mobile phone, making it easy to pay at checkout.\n\n" +
+      "   For online shopping, you can copy and paste your card details on websites that accept gift cards. Gift cards like AMEX and Visa can be used at any store that accepts them as a payment method.\n\n" +
+      "• How to Use Vouchers or Coupons on Jumia:\n" +
+      "   - Place your orders on Jumia and apply the discounts provided.\n   - You can only use one voucher code per transaction.\n   - If your voucher does not cover the entire transaction amount, the remaining balance can be paid using other payment methods such as credit card, cash on delivery, or JumiaPay.",
+    price: 12.36,
+    related: "jumia-egypt",
+  },
+  // Rewarable
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Rewarable Card €10",
+    description:
+      "• About Rewarable:\n" +
+      "Rewarable is an innovative platform offering versatile and secure gift card solutions for businesses and organizations. Our focus is on providing flexible, convenient, and secure reward options. We are committed to revolutionizing the gift card industry by offering real value and choice through our Rewarable Gift Card.\n\n" +
+      "• Redeeming Rewarable Gift Cards:\n" +
+      "1. Access the Rewarable Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered correctly, including any dashes or special characters.\n" +
+      "3. Choose Your Reward: Select from available rewards based on your gift card type. You may choose from popular brand gift cards or cash payouts through platforms like Skrill and AdvCash. Partial redemptions are also possible.\n" +
+      "4. Confirm the Redemption: Confirm your choice and provide your email address for order confirmation. For wallet top-ups, provide the wallet ID.\n" +
+      "5. Receive Your Reward: Once confirmed, your reward will be delivered to you.\n\n" +
+      "• Advantages of Rewarable Cards:\n" +
+      "1. Flexibility: Various levels of flexibility with our Flex, Preferred, or Limited Vouchers.\n" +
+      "2. Variety: Broad range of redemption options, including popular brand gift cards and cash payouts through reliable platforms.\n" +
+      "3. Ease of Use: Simple redemption process with a 16-digit voucher code.\n" +
+      "4. Security: High priority on secure transactions and user privacy.\n" +
+      "5. Customer Support: Dedicated support team available for assistance with any queries or issues.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarable aims to make the gift card purchase and redemption process as seamless as possible. Simply send us an email with your needs, and our team will guide you through the transaction.",
+    price: 12.56,
+    related: "rewarable-card",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Rewarable Card €30",
+    description:
+      "• About Rewarable:\n" +
+      "Rewarable is an innovative platform offering versatile and secure gift card solutions for businesses and organizations. Our focus is on providing flexible, convenient, and secure reward options. We are committed to revolutionizing the gift card industry by offering real value and choice through our Rewarable Gift Card.\n\n" +
+      "• Redeeming Rewarable Gift Cards:\n" +
+      "1. Access the Rewarable Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered correctly, including any dashes or special characters.\n" +
+      "3. Choose Your Reward: Select from available rewards based on your gift card type. You may choose from popular brand gift cards or cash payouts through platforms like Skrill and AdvCash. Partial redemptions are also possible.\n" +
+      "4. Confirm the Redemption: Confirm your choice and provide your email address for order confirmation. For wallet top-ups, provide the wallet ID.\n" +
+      "5. Receive Your Reward: Once confirmed, your reward will be delivered to you.\n\n" +
+      "• Advantages of Rewarable Cards:\n" +
+      "1. Flexibility: Various levels of flexibility with our Flex, Preferred, or Limited Vouchers.\n" +
+      "2. Variety: Broad range of redemption options, including popular brand gift cards and cash payouts through reliable platforms.\n" +
+      "3. Ease of Use: Simple redemption process with a 16-digit voucher code.\n" +
+      "4. Security: High priority on secure transactions and user privacy.\n" +
+      "5. Customer Support: Dedicated support team available for assistance with any queries or issues.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarable aims to make the gift card purchase and redemption process as seamless as possible. Simply send us an email with your needs, and our team will guide you through the transaction.",
+    price: 37.00,
+    related: "rewarable-card",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Rewarable Card €60",
+    description:
+      "• About Rewarable:\n" +
+      "Rewarable is an innovative platform offering versatile and secure gift card solutions for businesses and organizations. Our focus is on providing flexible, convenient, and secure reward options. We are committed to revolutionizing the gift card industry by offering real value and choice through our Rewarable Gift Card.\n\n" +
+      "• Redeeming Rewarable Gift Cards:\n" +
+      "1. Access the Rewarable Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered correctly, including any dashes or special characters.\n" +
+      "3. Choose Your Reward: Select from available rewards based on your gift card type. You may choose from popular brand gift cards or cash payouts through platforms like Skrill and AdvCash. Partial redemptions are also possible.\n" +
+      "4. Confirm the Redemption: Confirm your choice and provide your email address for order confirmation. For wallet top-ups, provide the wallet ID.\n" +
+      "5. Receive Your Reward: Once confirmed, your reward will be delivered to you.\n\n" +
+      "• Advantages of Rewarable Cards:\n" +
+      "1. Flexibility: Various levels of flexibility with our Flex, Preferred, or Limited Vouchers.\n" +
+      "2. Variety: Broad range of redemption options, including popular brand gift cards and cash payouts through reliable platforms.\n" +
+      "3. Ease of Use: Simple redemption process with a 16-digit voucher code.\n" +
+      "4. Security: High priority on secure transactions and user privacy.\n" +
+      "5. Customer Support: Dedicated support team available for assistance with any queries or issues.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarable aims to make the gift card purchase and redemption process as seamless as possible. Simply send us an email with your needs, and our team will guide you through the transaction.",
+    price: 72.10,
+    related: "rewarable-card",
+  },
+  // Rewarable AdvCash
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "AdvCash Card €10",
+    description:
+      "• About AdvCash Cards:\n" +
+      "The AdvCash gift card allows you to top up your Advanced Cash (AdvCash) account quickly and easily. Once you redeem the top-up code, the funds are immediately added to your AdvCash balance, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming AdvCash Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Make sure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your AdvCash account within seconds.\n\n" +
+      "• Advantages of AdvCash Cards:\n" +
+      "1. Convenience: Quickly top up your AdvCash account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account almost immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble is dedicated to making the gift card purchase and redemption process as smooth as possible. Contact us with your needs, and our team will assist you throughout the transaction.",
+    price: 12.15,
+    related: "rewarable-advcash",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "AdvCash Card €30",
+    description:
+      "• About AdvCash Cards:\n" +
+      "The AdvCash gift card allows you to top up your Advanced Cash (AdvCash) account quickly and easily. Once you redeem the top-up code, the funds are immediately added to your AdvCash balance, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming AdvCash Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Make sure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your AdvCash account within seconds.\n\n" +
+      "• Advantages of AdvCash Cards:\n" +
+      "1. Convenience: Quickly top up your AdvCash account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account almost immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble is dedicated to making the gift card purchase and redemption process as smooth as possible. Contact us with your needs, and our team will assist you throughout the transaction.",
+    price: 36.25,
+    related: "rewarable-advcash",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "AdvCash Card €60",
+    description:
+      "• About AdvCash Cards:\n" +
+      "The AdvCash gift card allows you to top up your Advanced Cash (AdvCash) account quickly and easily. Once you redeem the top-up code, the funds are immediately added to your AdvCash balance, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming AdvCash Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Make sure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your AdvCash account within seconds.\n\n" +
+      "• Advantages of AdvCash Cards:\n" +
+      "1. Convenience: Quickly top up your AdvCash account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account almost immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble is dedicated to making the gift card purchase and redemption process as smooth as possible. Contact us with your needs, and our team will assist you throughout the transaction.",
+    price: 72.10,
+    related: "rewarable-advcash",
+  },  
 ];

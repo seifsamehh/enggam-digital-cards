@@ -296,23 +296,51 @@ export const subCategories = [
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "visa",
-        description: "Buy visa payment cards",
-        path: "/home/payment-cards/visa",
+        title: "My Prepaid Center Mastercard Brazil",
+        description: "Buy my prepaid center mastercards",
+        path: "/home/payment-cards/my-prepaid-center-mastercard-brazil",
       },
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "visa",
-        description: "Buy visa payment cards",
-        path: "/home/payment-cards/visa",
+        title: "My Prepaid Center Max Mastercard",
+        description: "Buy my prepaid center mastercards",
+        path: "/home/payment-cards/my-prepaid-center-max-mastercard",
       },
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "visa",
-        description: "Buy visa payment cards",
-        path: "/home/payment-cards/visa",
+        title: "My Prepaid Center Mastercard USD",
+        description: "Buy my prepaid center mastercards",
+        path: "/home/payment-cards/myprepaidcenter-mastercard",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "My Prepaid Center Visa",
+        description: "Buy my prepaid center mastercards",
+        path: "/home/payment-cards/myprepaidcenter-visa",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Jumia Egypt",
+        description: "Buy jumia Egypt cards",
+        path: "/home/payment-cards/jumia-egypt",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Cards",
+        description: "Buy Rewarable cards",
+        path: "/home/payment-cards/rewarable-card",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable AdvCash Cards",
+        description: "Buy Rewarable AdvCash cards",
+        path: "/home/payment-cards/rewarable-advcash",
       },
     ],
   },
