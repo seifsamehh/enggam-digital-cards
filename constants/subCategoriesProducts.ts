@@ -17076,5 +17076,581 @@ export const subCategoryProducts = [
       "Rewarble is dedicated to making the gift card purchase and redemption process as smooth as possible. Contact us with your needs, and our team will assist you throughout the transaction.",
     price: 72.10,
     related: "rewarable-advcash",
-  },  
+  },
+  // Rewarable neteller
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Neteller Card €10",
+    description:
+      "• About Neteller Cards:\n" +
+      "The Neteller gift card provides a convenient way to top up your Neteller account balance quickly and easily. As soon as you redeem the top-up code, the funds are directly transferred to your Neteller balance, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Neteller Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Make sure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Neteller account almost instantly.\n\n" +
+      "• Advantages of Neteller Cards:\n" +
+      "1. Convenience: Quickly top up your Neteller account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 12.15,
+    related: "rewarable-neteller",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Neteller Card €30",
+    description:
+      "• About Neteller Cards:\n" +
+      "The Neteller gift card provides a convenient way to top up your Neteller account balance quickly and easily. As soon as you redeem the top-up code, the funds are directly transferred to your Neteller balance, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Neteller Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Make sure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Neteller account almost instantly.\n\n" +
+      "• Advantages of Neteller Cards:\n" +
+      "1. Convenience: Quickly top up your Neteller account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 36.25,
+    related: "rewarable-neteller",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Neteller Card €60",
+    description:
+      "• About Neteller Cards:\n" +
+      "The Neteller gift card provides a convenient way to top up your Neteller account balance quickly and easily. As soon as you redeem the top-up code, the funds are directly transferred to your Neteller balance, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Neteller Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Make sure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Neteller account almost instantly.\n\n" +
+      "• Advantages of Neteller Cards:\n" +
+      "1. Convenience: Quickly top up your Neteller account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 72.10,
+    related: "rewarable-neteller",
+  },
+  // Rewarable payeer
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Payeer Card €10",
+    description:
+      "• About Payeer Cards:\n" +
+      "The Payeer gift card offers a quick and convenient way to top up your Payeer account balance. Once you redeem the top-up code, the funds are immediately transferred to your Payeer balance, ensuring a smooth and user-friendly experience.\n\n" +
+      "• Redeeming Payeer Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Payeer account almost instantly.\n\n" +
+      "• Advantages of Payeer Cards:\n" +
+      "1. Convenience: Quickly top up your Payeer account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 12.15,
+    related: "rewarable-payeer",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Payeer Card €30",
+    description:
+      "• About Payeer Cards:\n" +
+      "The Payeer gift card offers a quick and convenient way to top up your Payeer account balance. Once you redeem the top-up code, the funds are immediately transferred to your Payeer balance, ensuring a smooth and user-friendly experience.\n\n" +
+      "• Redeeming Payeer Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Payeer account almost instantly.\n\n" +
+      "• Advantages of Payeer Cards:\n" +
+      "1. Convenience: Quickly top up your Payeer account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 36.25,
+    related: "rewarable-payeer",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Payeer Card €60",
+    description:
+      "• About Payeer Cards:\n" +
+      "The Payeer gift card offers a quick and convenient way to top up your Payeer account balance. Once you redeem the top-up code, the funds are immediately transferred to your Payeer balance, ensuring a smooth and user-friendly experience.\n\n" +
+      "• Redeeming Payeer Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Payeer account almost instantly.\n\n" +
+      "• Advantages of Payeer Cards:\n" +
+      "1. Convenience: Quickly top up your Payeer account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 77.25,
+    related: "rewarable-payeer",
+  },
+  // Rewarable perfect money
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money Card €10",
+    description:
+      "• About Perfect Money Cards:\n" +
+      "Revive your Perfect Money account balance quickly and easily with the Perfect Money gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Perfect Money Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Perfect Money account almost instantly.\n\n" +
+      "• Advantages of Perfect Money Cards:\n" +
+      "1. Convenience: Quickly top up your Perfect Money account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 12.15,
+    related: "perfect-money",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money Card €30",
+    description:
+      "• About Perfect Money Cards:\n" +
+      "Revive your Perfect Money account balance quickly and easily with the Perfect Money gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Perfect Money Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Perfect Money account almost instantly.\n\n" +
+      "• Advantages of Perfect Money Cards:\n" +
+      "1. Convenience: Quickly top up your Perfect Money account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 36.25,
+    related: "perfect-money",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money Card €60",
+    description:
+      "• About Perfect Money Cards:\n" +
+      "Revive your Perfect Money account balance quickly and easily with the Perfect Money gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Perfect Money Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Perfect Money account almost instantly.\n\n" +
+      "• Advantages of Perfect Money Cards:\n" +
+      "1. Convenience: Quickly top up your Perfect Money account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions and high priority on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 72.10,
+    related: "perfect-money",
+  },
+  // qiwi
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Qiwi Card €10",
+    description:
+      "• About Qiwi Cards:\n" +
+      "Revive your Qiwi account balance easily and quickly with the Qiwi gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Qiwi Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Qiwi account almost instantly.\n\n" +
+      "• Advantages of Qiwi Cards:\n" +
+      "1. Convenience: Easily top up your Qiwi account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 12.15,
+    related: "qiwi",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Qiwi Card €30",
+    description:
+      "• About Qiwi Cards:\n" +
+      "Revive your Qiwi account balance easily and quickly with the Qiwi gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Qiwi Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Qiwi account almost instantly.\n\n" +
+      "• Advantages of Qiwi Cards:\n" +
+      "1. Convenience: Easily top up your Qiwi account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 36.56,
+    related: "qiwi",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Qiwi Card €60",
+    description:
+      "• About Qiwi Cards:\n" +
+      "Revive your Qiwi account balance easily and quickly with the Qiwi gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Qiwi Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Qiwi account almost instantly.\n\n" +
+      "• Advantages of Qiwi Cards:\n" +
+      "1. Convenience: Easily top up your Qiwi account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 72.10,
+    related: "qiwi",
+  },
+  // safety pay
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SafetyPay Card €10",
+    description:
+      "• About SafetyPay Cards:\n" +
+      "Boost your SafetyPay account balance effortlessly with the SafetyPay gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming SafetyPay Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your SafetyPay account almost instantly.\n\n" +
+      "• Advantages of SafetyPay Cards:\n" +
+      "1. Convenience: Easily top up your SafetyPay account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 12.15,
+    related: "safetypay",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SafetyPay Card €30",
+    description:
+      "• About SafetyPay Cards:\n" +
+      "Boost your SafetyPay account balance effortlessly with the SafetyPay gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming SafetyPay Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your SafetyPay account almost instantly.\n\n" +
+      "• Advantages of SafetyPay Cards:\n" +
+      "1. Convenience: Easily top up your SafetyPay account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 36.56,
+    related: "safetypay",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SafetyPay Card €60",
+    description:
+      "• About SafetyPay Cards:\n" +
+      "Boost your SafetyPay account balance effortlessly with the SafetyPay gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming SafetyPay Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your SafetyPay account almost instantly.\n\n" +
+      "• Advantages of SafetyPay Cards:\n" +
+      "1. Convenience: Easily top up your SafetyPay account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 72.10,
+    related: "safetypay",
+  },
+  // servidolar
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Servidolar Card €10",
+    description:
+      "• About Servidolar Cards:\n" +
+      "Boost your Servidolar account balance effortlessly with the Servidolar gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Servidolar Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Servidolar account almost instantly.\n\n" +
+      "• Advantages of Servidolar Cards:\n" +
+      "1. Convenience: Easily top up your Servidolar account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 12.15,
+    related: "servidolar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Servidolar Card €30",
+    description:
+      "• About Servidolar Cards:\n" +
+      "Boost your Servidolar account balance effortlessly with the Servidolar gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Servidolar Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Servidolar account almost instantly.\n\n" +
+      "• Advantages of Servidolar Cards:\n" +
+      "1. Convenience: Easily top up your Servidolar account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 36.25,
+    related: "servidolar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Servidolar Card €60",
+    description:
+      "• About Servidolar Cards:\n" +
+      "Boost your Servidolar account balance effortlessly with the Servidolar gift card from Rewarble. The funds are instantly transferred to your account upon redeeming the top-up code, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming Servidolar Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your Servidolar account almost instantly.\n\n" +
+      "• Advantages of Servidolar Cards:\n" +
+      "1. Convenience: Easily top up your Servidolar account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are added to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 79.30,
+    related: "servidolar",
+  },
+  // skrill
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Skrill Card €10",
+    description:
+      "• About Skrill Cards:\n" +
+      "Replenish your Skrill balance quickly and easily with the Skrill gift card from Rewarble. Once redeemed, the funds are instantly deposited into your Skrill account, providing a smooth and user-friendly experience.\n\n" +
+      "• Redeeming Skrill Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be credited to your Skrill account instantly.\n\n" +
+      "• Advantages of Skrill Cards:\n" +
+      "1. Convenience: Easily top up your Skrill account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are credited to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 12.15,
+    related: "skrill",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Skrill Card €30",
+    description:
+      "• About Skrill Cards:\n" +
+      "Replenish your Skrill balance quickly and easily with the Skrill gift card from Rewarble. Once redeemed, the funds are instantly deposited into your Skrill account, providing a smooth and user-friendly experience.\n\n" +
+      "• Redeeming Skrill Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be credited to your Skrill account instantly.\n\n" +
+      "• Advantages of Skrill Cards:\n" +
+      "1. Convenience: Easily top up your Skrill account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are credited to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 36.25,
+    related: "skrill",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Skrill Card €60",
+    description:
+      "• About Skrill Cards:\n" +
+      "Replenish your Skrill balance quickly and easily with the Skrill gift card from Rewarble. Once redeemed, the funds are instantly deposited into your Skrill account, providing a smooth and user-friendly experience.\n\n" +
+      "• Redeeming Skrill Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be credited to your Skrill account instantly.\n\n" +
+      "• Advantages of Skrill Cards:\n" +
+      "1. Convenience: Easily top up your Skrill account without needing traditional payment methods.\n" +
+      "2. Speed: Funds are credited to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 72.10,
+    related: "skrill",
+  },
+  // webmoney
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "WebMoney Card €10",
+    description:
+      "• About WebMoney Cards:\n" +
+      "Revive your WebMoney balance with the WebMoney gift card from Rewarble. The WebMoney Gift Card offers you flexibility in how you top up your WebMoney account. Upon redeeming the WebMoney top-up code, the money is immediately added to your WebMoney balance, providing a seamless and user-friendly experience.\n\n" +
+      "• Redeeming WebMoney Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your WebMoney account instantly.\n\n" +
+      "• Advantages of WebMoney Cards:\n" +
+      "1. Convenience: Easily top up your WebMoney account without traditional payment methods.\n" +
+      "2. Speed: Funds are credited to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 12.15,
+    related: "webmoney",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "WebMoney Card €30",
+    description:
+      "• About WebMoney Cards:\n" +
+      "Revive your WebMoney balance with the WebMoney gift card from Rewarble. The WebMoney Gift Card offers you flexibility in how you top up your WebMoney account. Upon redeeming the WebMoney top-up code, the money is immediately added to your WebMoney balance, providing a seamless and user-friendly experience.\n\n" +
+      "• Redeeming WebMoney Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your WebMoney account instantly.\n\n" +
+      "• Advantages of WebMoney Cards:\n" +
+      "1. Convenience: Easily top up your WebMoney account without traditional payment methods.\n" +
+      "2. Speed: Funds are credited to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 36.25,
+    related: "webmoney",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "WebMoney Card €60",
+    description:
+      "• About WebMoney Cards:\n" +
+      "Revive your WebMoney balance with the WebMoney gift card from Rewarble. The WebMoney Gift Card offers you flexibility in how you top up your WebMoney account. Upon redeeming the WebMoney top-up code, the money is immediately added to your WebMoney balance, providing a seamless and user-friendly experience.\n\n" +
+      "• Redeeming WebMoney Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your WebMoney account instantly.\n\n" +
+      "• Advantages of WebMoney Cards:\n" +
+      "1. Convenience: Easily top up your WebMoney account without traditional payment methods.\n" +
+      "2. Speed: Funds are credited to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble offers a variety of gift card solutions, catering to different needs with flexibility and security. Contact us with your specific requirements, and our team will assist you throughout the transaction.",
+    price: 72.10,
+    related: "webmoney",
+  },
+  // Expresspay
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "ExpressPay Card €10",
+    description:
+      "• About ExpressPay Cards:\n" +
+      "Boost your ExpressPay account balance with the ExpressPay gift card from Rewarble. This card offers the flexibility you need to top up your ExpressPay account. Upon redeeming the ExpressPay top-up code, the funds are immediately transferred to your ExpressPay balance, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming ExpressPay Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your ExpressPay account instantly.\n\n" +
+      "• Advantages of ExpressPay Cards:\n" +
+      "1. Convenience: Easily top up your ExpressPay account without traditional payment methods.\n" +
+      "2. Speed: Funds are credited to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble provides comprehensive gift card solutions, offering flexibility and security. Our team is available to assist with any queries you may have.",
+    price: 12.15,
+    related: "expresspay",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "ExpressPay Card €30",
+    description:
+      "• About ExpressPay Cards:\n" +
+      "Boost your ExpressPay account balance with the ExpressPay gift card from Rewarble. This card offers the flexibility you need to top up your ExpressPay account. Upon redeeming the ExpressPay top-up code, the funds are immediately transferred to your ExpressPay balance, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming ExpressPay Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your ExpressPay account instantly.\n\n" +
+      "• Advantages of ExpressPay Cards:\n" +
+      "1. Convenience: Easily top up your ExpressPay account without traditional payment methods.\n" +
+      "2. Speed: Funds are credited to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble provides comprehensive gift card solutions, offering flexibility and security. Our team is available to assist with any queries you may have.",
+    price: 36.25,
+    related: "expresspay",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "ExpressPay Card €60",
+    description:
+      "• About ExpressPay Cards:\n" +
+      "Boost your ExpressPay account balance with the ExpressPay gift card from Rewarble. This card offers the flexibility you need to top up your ExpressPay account. Upon redeeming the ExpressPay top-up code, the funds are immediately transferred to your ExpressPay balance, ensuring a seamless and user-friendly experience.\n\n" +
+      "• Redeeming ExpressPay Cards:\n" +
+      "1. Access the Rewarble Redemption Portal: Visit www.rewarble.com/redeem.\n" +
+      "2. Enter Your Gift Card Code: Input the 16-digit voucher code found on the card or in the email received upon purchase. Ensure the code is entered accurately, including any dashes or special characters.\n" +
+      "3. Confirm Details: Once the details are confirmed, your top-up will be added to your ExpressPay account instantly.\n\n" +
+      "• Advantages of ExpressPay Cards:\n" +
+      "1. Convenience: Easily top up your ExpressPay account without traditional payment methods.\n" +
+      "2. Speed: Funds are credited to your account immediately upon redemption.\n" +
+      "3. Ease of Use: Simple process to redeem with a 16-digit voucher code.\n" +
+      "4. Security: Secure transactions with a focus on user privacy.\n\n" +
+      "• Additional Information:\n" +
+      "Rewarble provides comprehensive gift card solutions, offering flexibility and security. Our team is available to assist with any queries you may have.",
+    price: 72.10,
+    related: "expresspay",
+  },
 ];

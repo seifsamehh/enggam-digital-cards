@@ -342,6 +342,69 @@ export const subCategories = [
         description: "Buy Rewarable AdvCash cards",
         path: "/home/payment-cards/rewarable-advcash",
       },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Neteller Cards",
+        description: "Buy Rewarable Neteller cards",
+        path: "/home/payment-cards/rewarable-neteller",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Payeer Cards",
+        description: "Buy Rewarable payeer cards",
+        path: "/home/payment-cards/rewarable-payeer",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Perfect Money Cards",
+        description: "Buy Rewarable perfect money cards",
+        path: "/home/payment-cards/perfect-money",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Qiwi Cards",
+        description: "Buy Rewarable qiwi cards",
+        path: "/home/payment-cards/qiwi",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Safety Pay Cards",
+        description: "Buy Rewarable safety pay cards",
+        path: "/home/payment-cards/safetypay",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Servidolar Cards",
+        description: "Buy Rewarable servidolar cards",
+        path: "/home/payment-cards/servidolar",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Skrill Cards",
+        description: "Buy Rewarable skrill cards",
+        path: "/home/payment-cards/skrill",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Webmoney Cards",
+        description: "Buy Rewarable webmoney cards",
+        path: "/home/payment-cards/webmoney",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Rewarable Express Pay Cards",
+        description: "Buy Rewarable expresspay cards",
+        path: "/home/payment-cards/expresspay",
+      },
     ],
   },
   {
