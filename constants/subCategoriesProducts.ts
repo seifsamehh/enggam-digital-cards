@@ -17653,4 +17653,2290 @@ export const subCategoryProducts = [
     price: 72.10,
     related: "expresspay",
   },
+  // perfect money euro
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money €5 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers offer a secure and convenient way to transact online. You can purchase or sell these vouchers at BuySellVouchers.com, where transactions are protected with advanced security measures. The vouchers can be bought using various payment methods, including Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Purchase a Perfect Money Voucher:\n" +
+      "1. Select the Category: Prepaid Vouchers.\n" +
+      "2. Choose Perfect Money Vouchers: Select the desired voucher.\n" +
+      "3. Enter Quantity: Add the number of vouchers you want to the shopping cart.\n" +
+      "4. Buy the Voucher: Click the 'Buy' button.\n" +
+      "5. Choose Payment Method: Options include DAI, Tether, Litecoin, Bitcoin, Ethereum, or Binance USD.\n" +
+      "6. Enter Email Address: For item delivery.\n" +
+      "7. Complete Checkout: Enter captcha and click 'Checkout'.\n" +
+      "8. Receive the Voucher Code: The code will be sent to your email or available under 'Transactions' in your account.\n\n" +
+      "• Selling Perfect Money Vouchers:\n" +
+      "To sell an unwanted Perfect Money voucher, follow these steps:\n" +
+      "1. Sign Up: Choose 'Seller' account type.\n" +
+      "2. Set Up Account Preferences: Navigate to 'Account preferences'.\n" +
+      "3. Add Product: Go to 'My products' and add a new product.\n\n" +
+      "Note: Ensure to check product details and reviews before purchasing. If you do not receive the item, contact support immediately.",
+    price: 6.18,
+    related: "perfect-money-voucher-euro",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money €10 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers offer a secure and convenient way to transact online. You can purchase or sell these vouchers at BuySellVouchers.com, where transactions are protected with advanced security measures. The vouchers can be bought using various payment methods, including Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Purchase a Perfect Money Voucher:\n" +
+      "1. Select the Category: Prepaid Vouchers.\n" +
+      "2. Choose Perfect Money Vouchers: Select the desired voucher.\n" +
+      "3. Enter Quantity: Add the number of vouchers you want to the shopping cart.\n" +
+      "4. Buy the Voucher: Click the 'Buy' button.\n" +
+      "5. Choose Payment Method: Options include DAI, Tether, Litecoin, Bitcoin, Ethereum, or Binance USD.\n" +
+      "6. Enter Email Address: For item delivery.\n" +
+      "7. Complete Checkout: Enter captcha and click 'Checkout'.\n" +
+      "8. Receive the Voucher Code: The code will be sent to your email or available under 'Transactions' in your account.\n\n" +
+      "• Selling Perfect Money Vouchers:\n" +
+      "To sell an unwanted Perfect Money voucher, follow these steps:\n" +
+      "1. Sign Up: Choose 'Seller' account type.\n" +
+      "2. Set Up Account Preferences: Navigate to 'Account preferences'.\n" +
+      "3. Add Product: Go to 'My products' and add a new product.\n\n" +
+      "Note: Ensure to check product details and reviews before purchasing. If you do not receive the item, contact support immediately.",
+    price: 12.36,
+    related: "perfect-money-voucher-euro",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money €25 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers offer a secure and convenient way to transact online. You can purchase or sell these vouchers at BuySellVouchers.com, where transactions are protected with advanced security measures. The vouchers can be bought using various payment methods, including Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Purchase a Perfect Money Voucher:\n" +
+      "1. Select the Category: Prepaid Vouchers.\n" +
+      "2. Choose Perfect Money Vouchers: Select the desired voucher.\n" +
+      "3. Enter Quantity: Add the number of vouchers you want to the shopping cart.\n" +
+      "4. Buy the Voucher: Click the 'Buy' button.\n" +
+      "5. Choose Payment Method: Options include DAI, Tether, Litecoin, Bitcoin, Ethereum, or Binance USD.\n" +
+      "6. Enter Email Address: For item delivery.\n" +
+      "7. Complete Checkout: Enter captcha and click 'Checkout'.\n" +
+      "8. Receive the Voucher Code: The code will be sent to your email or available under 'Transactions' in your account.\n\n" +
+      "• Selling Perfect Money Vouchers:\n" +
+      "To sell an unwanted Perfect Money voucher, follow these steps:\n" +
+      "1. Sign Up: Choose 'Seller' account type.\n" +
+      "2. Set Up Account Preferences: Navigate to 'Account preferences'.\n" +
+      "3. Add Product: Go to 'My products' and add a new product.\n\n" +
+      "Note: Ensure to check product details and reviews before purchasing. If you do not receive the item, contact support immediately.",
+    price: 28.84,
+    related: "perfect-money-voucher-euro",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money €50 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers offer a secure and convenient way to transact online. You can purchase or sell these vouchers at BuySellVouchers.com, where transactions are protected with advanced security measures. The vouchers can be bought using various payment methods, including Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Purchase a Perfect Money Voucher:\n" +
+      "1. Select the Category: Prepaid Vouchers.\n" +
+      "2. Choose Perfect Money Vouchers: Select the desired voucher.\n" +
+      "3. Enter Quantity: Add the number of vouchers you want to the shopping cart.\n" +
+      "4. Buy the Voucher: Click the 'Buy' button.\n" +
+      "5. Choose Payment Method: Options include DAI, Tether, Litecoin, Bitcoin, Ethereum, or Binance USD.\n" +
+      "6. Enter Email Address: For item delivery.\n" +
+      "7. Complete Checkout: Enter captcha and click 'Checkout'.\n" +
+      "8. Receive the Voucher Code: The code will be sent to your email or available under 'Transactions' in your account.\n\n" +
+      "• Selling Perfect Money Vouchers:\n" +
+      "To sell an unwanted Perfect Money voucher, follow these steps:\n" +
+      "1. Sign Up: Choose 'Seller' account type.\n" +
+      "2. Set Up Account Preferences: Navigate to 'Account preferences'.\n" +
+      "3. Add Product: Go to 'My products' and add a new product.\n\n" +
+      "Note: Ensure to check product details and reviews before purchasing. If you do not receive the item, contact support immediately.",
+    price: 56.65,
+    related: "perfect-money-voucher-euro",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money €100 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers offer a secure and convenient way to transact online. You can purchase or sell these vouchers at BuySellVouchers.com, where transactions are protected with advanced security measures. The vouchers can be bought using various payment methods, including Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Purchase a Perfect Money Voucher:\n" +
+      "1. Select the Category: Prepaid Vouchers.\n" +
+      "2. Choose Perfect Money Vouchers: Select the desired voucher.\n" +
+      "3. Enter Quantity: Add the number of vouchers you want to the shopping cart.\n" +
+      "4. Buy the Voucher: Click the 'Buy' button.\n" +
+      "5. Choose Payment Method: Options include DAI, Tether, Litecoin, Bitcoin, Ethereum, or Binance USD.\n" +
+      "6. Enter Email Address: For item delivery.\n" +
+      "7. Complete Checkout: Enter captcha and click 'Checkout'.\n" +
+      "8. Receive the Voucher Code: The code will be sent to your email or available under 'Transactions' in your account.\n\n" +
+      "• Selling Perfect Money Vouchers:\n" +
+      "To sell an unwanted Perfect Money voucher, follow these steps:\n" +
+      "1. Sign Up: Choose 'Seller' account type.\n" +
+      "2. Set Up Account Preferences: Navigate to 'Account preferences'.\n" +
+      "3. Add Product: Go to 'My products' and add a new product.\n\n" +
+      "Note: Ensure to check product details and reviews before purchasing. If you do not receive the item, contact support immediately.",
+    price: 113.30,
+    related: "perfect-money-voucher-euro",
+  },
+  // perfect money voucher usd
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money $5 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers provide a secure and convenient way to manage transactions online. You can purchase these vouchers through various methods such as Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Use Perfect Money Vouchers:\n" +
+      "1. Log in to your Perfect Money account and go to 'Add Funds'.\n" +
+      "2. Select 'Add Funds with Perfect Money Voucher'.\n" +
+      "3. Enter the Voucher Code and Password, then click 'Activate'. The amount will be added to your Perfect Money Wallet (PM).\n\n" +
+      "• Various Deposit Methods:\n" +
+      "1. Bank Wire: Transfer funds from your online banking account.\n" +
+      "2. Instant Bank Transfer: Convenient transfers available in Germany, Austria, Switzerland, and Belgium.\n" +
+      "3. Certified Exchange Partners: Exchange other e-currencies or use Western Union or MoneyGram.\n" +
+      "4. Cash Terminals: Available across Russia and Ukraine for quick deposits.\n" +
+      "5. Bitcoin: Use Bitcoin for instant deposits after confirmation.\n" +
+      "6. E-currency: Use e-currency exchanges for instant deposits.\n\n" +
+      "Purchase Perfect Money Vouchers and other gift cards from www.Enggam.com.",
+    price: 5.45,
+    related: "perfect-money-voucher-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money $10 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers provide a secure and convenient way to manage transactions online. You can purchase these vouchers through various methods such as Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Use Perfect Money Vouchers:\n" +
+      "1. Log in to your Perfect Money account and go to 'Add Funds'.\n" +
+      "2. Select 'Add Funds with Perfect Money Voucher'.\n" +
+      "3. Enter the Voucher Code and Password, then click 'Activate'. The amount will be added to your Perfect Money Wallet (PM).\n\n" +
+      "• Various Deposit Methods:\n" +
+      "1. Bank Wire: Transfer funds from your online banking account.\n" +
+      "2. Instant Bank Transfer: Convenient transfers available in Germany, Austria, Switzerland, and Belgium.\n" +
+      "3. Certified Exchange Partners: Exchange other e-currencies or use Western Union or MoneyGram.\n" +
+      "4. Cash Terminals: Available across Russia and Ukraine for quick deposits.\n" +
+      "5. Bitcoin: Use Bitcoin for instant deposits after confirmation.\n" +
+      "6. E-currency: Use e-currency exchanges for instant deposits.\n\n" +
+      "Purchase Perfect Money Vouchers and other gift cards from www.Enggam.com.",
+    price: 10.71,
+    related: "perfect-money-voucher-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money $25 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers provide a secure and convenient way to manage transactions online. You can purchase these vouchers through various methods such as Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Use Perfect Money Vouchers:\n" +
+      "1. Log in to your Perfect Money account and go to 'Add Funds'.\n" +
+      "2. Select 'Add Funds with Perfect Money Voucher'.\n" +
+      "3. Enter the Voucher Code and Password, then click 'Activate'. The amount will be added to your Perfect Money Wallet (PM).\n\n" +
+      "• Various Deposit Methods:\n" +
+      "1. Bank Wire: Transfer funds from your online banking account.\n" +
+      "2. Instant Bank Transfer: Convenient transfers available in Germany, Austria, Switzerland, and Belgium.\n" +
+      "3. Certified Exchange Partners: Exchange other e-currencies or use Western Union or MoneyGram.\n" +
+      "4. Cash Terminals: Available across Russia and Ukraine for quick deposits.\n" +
+      "5. Bitcoin: Use Bitcoin for instant deposits after confirmation.\n" +
+      "6. E-currency: Use e-currency exchanges for instant deposits.\n\n" +
+      "Purchase Perfect Money Vouchers and other gift cards from www.Enggam.com.",
+    price: 26.78,
+    related: "perfect-money-voucher-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money $50 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers provide a secure and convenient way to manage transactions online. You can purchase these vouchers through various methods such as Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Use Perfect Money Vouchers:\n" +
+      "1. Log in to your Perfect Money account and go to 'Add Funds'.\n" +
+      "2. Select 'Add Funds with Perfect Money Voucher'.\n" +
+      "3. Enter the Voucher Code and Password, then click 'Activate'. The amount will be added to your Perfect Money Wallet (PM).\n\n" +
+      "• Various Deposit Methods:\n" +
+      "1. Bank Wire: Transfer funds from your online banking account.\n" +
+      "2. Instant Bank Transfer: Convenient transfers available in Germany, Austria, Switzerland, and Belgium.\n" +
+      "3. Certified Exchange Partners: Exchange other e-currencies or use Western Union or MoneyGram.\n" +
+      "4. Cash Terminals: Available across Russia and Ukraine for quick deposits.\n" +
+      "5. Bitcoin: Use Bitcoin for instant deposits after confirmation.\n" +
+      "6. E-currency: Use e-currency exchanges for instant deposits.\n\n" +
+      "Purchase Perfect Money Vouchers and other gift cards from www.Enggam.com.",
+    price: 52.35,
+    related: "perfect-money-voucher-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money $100 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers provide a secure and convenient way to manage transactions online. You can purchase these vouchers through various methods such as Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Use Perfect Money Vouchers:\n" +
+      "1. Log in to your Perfect Money account and go to 'Add Funds'.\n" +
+      "2. Select 'Add Funds with Perfect Money Voucher'.\n" +
+      "3. Enter the Voucher Code and Password, then click 'Activate'. The amount will be added to your Perfect Money Wallet (PM).\n\n" +
+      "• Various Deposit Methods:\n" +
+      "1. Bank Wire: Transfer funds from your online banking account.\n" +
+      "2. Instant Bank Transfer: Convenient transfers available in Germany, Austria, Switzerland, and Belgium.\n" +
+      "3. Certified Exchange Partners: Exchange other e-currencies or use Western Union or MoneyGram.\n" +
+      "4. Cash Terminals: Available across Russia and Ukraine for quick deposits.\n" +
+      "5. Bitcoin: Use Bitcoin for instant deposits after confirmation.\n" +
+      "6. E-currency: Use e-currency exchanges for instant deposits.\n\n" +
+      "Purchase Perfect Money Vouchers and other gift cards from www.Enggam.com.",
+    price: 105.00,
+    related: "perfect-money-voucher-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Perfect Money $1000 Voucher",
+    description:
+      "• About Perfect Money Vouchers:\n" +
+      "Perfect Money Vouchers provide a secure and convenient way to manage transactions online. You can purchase these vouchers through various methods such as Tether, Bitcoin, Binance USD, and DAI.\n\n" +
+      "• How to Use Perfect Money Vouchers:\n" +
+      "1. Log in to your Perfect Money account and go to 'Add Funds'.\n" +
+      "2. Select 'Add Funds with Perfect Money Voucher'.\n" +
+      "3. Enter the Voucher Code and Password, then click 'Activate'. The amount will be added to your Perfect Money Wallet (PM).\n\n" +
+      "• Various Deposit Methods:\n" +
+      "1. Bank Wire: Transfer funds from your online banking account.\n" +
+      "2. Instant Bank Transfer: Convenient transfers available in Germany, Austria, Switzerland, and Belgium.\n" +
+      "3. Certified Exchange Partners: Exchange other e-currencies or use Western Union or MoneyGram.\n" +
+      "4. Cash Terminals: Available across Russia and Ukraine for quick deposits.\n" +
+      "5. Bitcoin: Use Bitcoin for instant deposits after confirmation.\n" +
+      "6. E-currency: Use e-currency exchanges for instant deposits.\n\n" +
+      "Purchase Perfect Money Vouchers and other gift cards from www.Enggam.com.",
+    price: 1040.30,
+    related: "perfect-money-voucher-usd",
+  },
+  // Redcoin voucher
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$20 RedCoin Voucher",
+    description:
+      "• About RedCoin Vouchers:\n" +
+      "RedCoin Vouchers offer an easy and secure way to purchase and manage cryptocurrency. You can redeem these vouchers through a straightforward process.\n\n" +
+      "• How to Redeem RedCoin Vouchers:\n" +
+      "1. Log in to your account at: https://redcoinvoucher.com/\n" +
+      "2. Enter your voucher code to create an order.\n" +
+      "3. Review the value amount of the cryptocurrency.\n" +
+      "4. Enter your wallet address to complete the purchase.\n\n" +
+      "*Please note that the cryptocurrency exchange rate will apply when redeeming a voucher code.*",
+    price: 22.24,
+    related: "redcoin-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$50 RedCoin Voucher",
+    description:
+      "• About RedCoin Vouchers:\n" +
+      "RedCoin Vouchers offer an easy and secure way to purchase and manage cryptocurrency. You can redeem these vouchers through a straightforward process.\n\n" +
+      "• How to Redeem RedCoin Vouchers:\n" +
+      "1. Log in to your account at: https://redcoinvoucher.com/\n" +
+      "2. Enter your voucher code to create an order.\n" +
+      "3. Review the value amount of the cryptocurrency.\n" +
+      "4. Enter your wallet address to complete the purchase.\n\n" +
+      "*Please note that the cryptocurrency exchange rate will apply when redeeming a voucher code.*",
+    price: 55.10,
+    related: "redcoin-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$75 RedCoin Voucher",
+    description:
+      "• About RedCoin Vouchers:\n" +
+      "RedCoin Vouchers offer an easy and secure way to purchase and manage cryptocurrency. You can redeem these vouchers through a straightforward process.\n\n" +
+      "• How to Redeem RedCoin Vouchers:\n" +
+      "1. Log in to your account at: https://redcoinvoucher.com/\n" +
+      "2. Enter your voucher code to create an order.\n" +
+      "3. Review the value amount of the cryptocurrency.\n" +
+      "4. Enter your wallet address to complete the purchase.\n\n" +
+      "*Please note that the cryptocurrency exchange rate will apply when redeeming a voucher code.*",
+    price: 81.88,
+    related: "redcoin-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$100 RedCoin Voucher",
+    description:
+      "• About RedCoin Vouchers:\n" +
+      "RedCoin Vouchers offer an easy and secure way to purchase and manage cryptocurrency. You can redeem these vouchers through a straightforward process.\n\n" +
+      "• How to Redeem RedCoin Vouchers:\n" +
+      "1. Log in to your account at: https://redcoinvoucher.com/\n" +
+      "2. Enter your voucher code to create an order.\n" +
+      "3. Review the value amount of the cryptocurrency.\n" +
+      "4. Enter your wallet address to complete the purchase.\n\n" +
+      "*Please note that the cryptocurrency exchange rate will apply when redeeming a voucher code.*",
+    price: 109.70,
+    related: "redcoin-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$150 RedCoin Voucher",
+    description:
+      "• About RedCoin Vouchers:\n" +
+      "RedCoin Vouchers offer an easy and secure way to purchase and manage cryptocurrency. You can redeem these vouchers through a straightforward process.\n\n" +
+      "• How to Redeem RedCoin Vouchers:\n" +
+      "1. Log in to your account at: https://redcoinvoucher.com/\n" +
+      "2. Enter your voucher code to create an order.\n" +
+      "3. Review the value amount of the cryptocurrency.\n" +
+      "4. Enter your wallet address to complete the purchase.\n\n" +
+      "*Please note that the cryptocurrency exchange rate will apply when redeeming a voucher code.*",
+    price: 164.28,
+    related: "redcoin-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$200 RedCoin Voucher",
+    description:
+      "• About RedCoin Vouchers:\n" +
+      "RedCoin Vouchers offer an easy and secure way to purchase and manage cryptocurrency. You can redeem these vouchers through a straightforward process.\n\n" +
+      "• How to Redeem RedCoin Vouchers:\n" +
+      "1. Log in to your account at: https://redcoinvoucher.com/\n" +
+      "2. Enter your voucher code to create an order.\n" +
+      "3. Review the value amount of the cryptocurrency.\n" +
+      "4. Enter your wallet address to complete the purchase.\n\n" +
+      "*Please note that the cryptocurrency exchange rate will apply when redeeming a voucher code.*",
+    price: 218.36,
+    related: "redcoin-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$1000 RedCoin Voucher",
+    description:
+      "• About RedCoin Vouchers:\n" +
+      "RedCoin Vouchers offer an easy and secure way to purchase and manage cryptocurrency. You can redeem these vouchers through a straightforward process.\n\n" +
+      "• How to Redeem RedCoin Vouchers:\n" +
+      "1. Log in to your account at: https://redcoinvoucher.com/\n" +
+      "2. Enter your voucher code to create an order.\n" +
+      "3. Review the value amount of the cryptocurrency.\n" +
+      "4. Enter your wallet address to complete the purchase.\n\n" +
+      "*Please note that the cryptocurrency exchange rate will apply when redeeming a voucher code.*",
+    price: 1086.65,
+    related: "redcoin-voucher",
+  },
+  // Bitsa voucher
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Bitsa 10 Euro Voucher",
+    description:
+      "• About Bitsa Vouchers:\n" +
+      "Bitsa Vouchers offer a convenient way to top up your prepaid Bitsa card. These vouchers are perfect for managing your spending and can be easily redeemed.\n\n" +
+      "• How to Redeem Bitsa Vouchers:\n" +
+      "1. Log on to the BITSA App.\n" +
+      "2. Select the card you would like to top up.\n" +
+      "3. Select “Top Up” from the menu at the top of the screen.\n" +
+      "4. Select “Voucher” from the top-up menu.\n" +
+      "5. Enter the voucher code you received from us.\n\n" +
+      "*Note: You need to have a physical or virtual BITSA Visa Card to be able to redeem your reload voucher. A BITSA voucher expires 3 months after it has been obtained.*\n\n" +
+      "• Official Website: [Bitsa Card](https://www.bitsacard.com)\n\n" +
+      "• Additional Features:\n" +
+      "Ask your virtual or plastic BITSA directly from the App. If you already have a BITSA, add and activate the card from the App and start enjoying its benefits.\n" +
+      "Control the expenses and details of all the transactions you carry out each month. Set budgets, spend only what you plan to spend.\n" +
+      "Withdraw cash at an ATM or at thousands of merchants using a cashout pin. Find the nearest points on the map.\n" +
+      "Top up BITSA with coupons, cryptocurrencies, or transfers. Find the nearest coupon points of sale or add other cards to transfer money from one to another, all from the same App.\n\n" +
+      "• What is BITSA Young?\n" +
+      "BITSA Young is the perfect prepaid credit card for young people. Users aged 14-17 can benefit from the prepaid Visa, allowing them to learn about banking and financial independence without the risk of overspending. Once confirmed by parents or legal guardians, the user can spend, withdraw, or transfer money as needed. Top up with another voucher anytime the balance is low.",
+    price: 13.39,
+    related: "bitsa-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Bitsa 25 Euro Voucher",
+    description:
+      "• About Bitsa Vouchers:\n" +
+      "Bitsa Vouchers offer a convenient way to top up your prepaid Bitsa card. These vouchers are perfect for managing your spending and can be easily redeemed.\n\n" +
+      "• How to Redeem Bitsa Vouchers:\n" +
+      "1. Log on to the BITSA App.\n" +
+      "2. Select the card you would like to top up.\n" +
+      "3. Select “Top Up” from the menu at the top of the screen.\n" +
+      "4. Select “Voucher” from the top-up menu.\n" +
+      "5. Enter the voucher code you received from us.\n\n" +
+      "*Note: You need to have a physical or virtual BITSA Visa Card to be able to redeem your reload voucher. A BITSA voucher expires 3 months after it has been obtained.*\n\n" +
+      "• Official Website: [Bitsa Card](https://www.bitsacard.com)\n\n" +
+      "• Additional Features:\n" +
+      "Ask your virtual or plastic BITSA directly from the App. If you already have a BITSA, add and activate the card from the App and start enjoying its benefits.\n" +
+      "Control the expenses and details of all the transactions you carry out each month. Set budgets, spend only what you plan to spend.\n" +
+      "Withdraw cash at an ATM or at thousands of merchants using a cashout pin. Find the nearest points on the map.\n" +
+      "Top up BITSA with coupons, cryptocurrencies, or transfers. Find the nearest coupon points of sale or add other cards to transfer money from one to another, all from the same App.\n\n" +
+      "• What is BITSA Young?\n" +
+      "BITSA Young is the perfect prepaid credit card for young people. Users aged 14-17 can benefit from the prepaid Visa, allowing them to learn about banking and financial independence without the risk of overspending. Once confirmed by parents or legal guardians, the user can spend, withdraw, or transfer money as needed. Top up with another voucher anytime the balance is low.",
+    price: 30.90,
+    related: "bitsa-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Bitsa 50 Euro Voucher",
+    description:
+      "• About Bitsa Vouchers:\n" +
+      "Bitsa Vouchers offer a convenient way to top up your prepaid Bitsa card. These vouchers are perfect for managing your spending and can be easily redeemed.\n\n" +
+      "• How to Redeem Bitsa Vouchers:\n" +
+      "1. Log on to the BITSA App.\n" +
+      "2. Select the card you would like to top up.\n" +
+      "3. Select “Top Up” from the menu at the top of the screen.\n" +
+      "4. Select “Voucher” from the top-up menu.\n" +
+      "5. Enter the voucher code you received from us.\n\n" +
+      "*Note: You need to have a physical or virtual BITSA Visa Card to be able to redeem your reload voucher. A BITSA voucher expires 3 months after it has been obtained.*\n\n" +
+      "• Official Website: [Bitsa Card](https://www.bitsacard.com)\n\n" +
+      "• Additional Features:\n" +
+      "Ask your virtual or plastic BITSA directly from the App. If you already have a BITSA, add and activate the card from the App and start enjoying its benefits.\n" +
+      "Control the expenses and details of all the transactions you carry out each month. Set budgets, spend only what you plan to spend.\n" +
+      "Withdraw cash at an ATM or at thousands of merchants using a cashout pin. Find the nearest points on the map.\n" +
+      "Top up BITSA with coupons, cryptocurrencies, or transfers. Find the nearest coupon points of sale or add other cards to transfer money from one to another, all from the same App.\n\n" +
+      "• What is BITSA Young?\n" +
+      "BITSA Young is the perfect prepaid credit card for young people. Users aged 14-17 can benefit from the prepaid Visa, allowing them to learn about banking and financial independence without the risk of overspending. Once confirmed by parents or legal guardians, the user can spend, withdraw, or transfer money as needed. Top up with another voucher anytime the balance is low.",
+    price: 61.80,
+    related: "bitsa-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Bitsa 100 Euro Voucher",
+    description:
+      "• About Bitsa Vouchers:\n" +
+      "Bitsa Vouchers offer a convenient way to top up your prepaid Bitsa card. These vouchers are perfect for managing your spending and can be easily redeemed.\n\n" +
+      "• How to Redeem Bitsa Vouchers:\n" +
+      "1. Log on to the BITSA App.\n" +
+      "2. Select the card you would like to top up.\n" +
+      "3. Select “Top Up” from the menu at the top of the screen.\n" +
+      "4. Select “Voucher” from the top-up menu.\n" +
+      "5. Enter the voucher code you received from us.\n\n" +
+      "*Note: You need to have a physical or virtual BITSA Visa Card to be able to redeem your reload voucher. A BITSA voucher expires 3 months after it has been obtained.*\n\n" +
+      "• Official Website: [Bitsa Card](https://www.bitsacard.com)\n\n" +
+      "• Additional Features:\n" +
+      "Ask your virtual or plastic BITSA directly from the App. If you already have a BITSA, add and activate the card from the App and start enjoying its benefits.\n" +
+      "Control the expenses and details of all the transactions you carry out each month. Set budgets, spend only what you plan to spend.\n" +
+      "Withdraw cash at an ATM or at thousands of merchants using a cashout pin. Find the nearest points on the map.\n" +
+      "Top up BITSA with coupons, cryptocurrencies, or transfers. Find the nearest coupon points of sale or add other cards to transfer money from one to another, all from the same App.\n\n" +
+      "• What is BITSA Young?\n" +
+      "BITSA Young is the perfect prepaid credit card for young people. Users aged 14-17 can benefit from the prepaid Visa, allowing them to learn about banking and financial independence without the risk of overspending. Once confirmed by parents or legal guardians, the user can spend, withdraw, or transfer money as needed. Top up with another voucher anytime the balance is low.",
+    price: 123.60,
+    related: "bitsa-voucher",
+  },
+  // WebMoney voucher
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Webmoney 5 WMZ",
+    description:
+      "• About WebMoney Vouchers:\n" +
+      "WebMoney Vouchers provide a convenient way to manage your online payments and purchases. These vouchers are ideal for secure and efficient transactions.\n\n" +
+      "• How to Redeem WMZ Vouchers:\n" +
+      "1. Open https://www.paymer.com/\n" +
+      "2. Enter the card number and code to redeem the voucher.\n\n" +
+      "WebMoney Vouchers are versatile and can be used for various online transactions, making them a popular choice for digital payments.",
+    price: 5.66,
+    related: "webmoney-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Webmoney 10 WMZ",
+    description:
+      "• About WebMoney Vouchers:\n" +
+      "WebMoney Vouchers provide a convenient way to manage your online payments and purchases. These vouchers are ideal for secure and efficient transactions.\n\n" +
+      "• How to Redeem WMZ Vouchers:\n" +
+      "1. Open https://www.paymer.com/.\n" +
+      "2. Enter the card number and code to redeem the voucher.\n\n" +
+      "WebMoney Vouchers are versatile and can be used for various online transactions, making them a popular choice for digital payments.",
+    price: 11.33,
+    related: "webmoney-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Webmoney 15 WMZ",
+    description:
+      "• About WebMoney Vouchers:\n" +
+      "WebMoney Vouchers provide a convenient way to manage your online payments and purchases. These vouchers are ideal for secure and efficient transactions.\n\n" +
+      "• How to Redeem WMZ Vouchers:\n" +
+      "1. Open https://www.paymer.com/.\n" +
+      "2. Enter the card number and code to redeem the voucher.\n\n" +
+      "WebMoney Vouchers are versatile and can be used for various online transactions, making them a popular choice for digital payments.",
+    price: 16.48,
+    related: "webmoney-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Webmoney 25 WMZ",
+    description:
+      "• About WebMoney Vouchers:\n" +
+      "WebMoney Vouchers provide a convenient way to manage your online payments and purchases. These vouchers are ideal for secure and efficient transactions.\n\n" +
+      "• How to Redeem WMZ Vouchers:\n" +
+      "1. Open https://www.paymer.com/.\n" +
+      "2. Enter the card number and code to redeem the voucher.\n\n" +
+      "WebMoney Vouchers are versatile and can be used for various online transactions, making them a popular choice for digital payments.",
+    price: 26.78,
+    related: "webmoney-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Webmoney 50 WMZ",
+    description:
+      "• About WebMoney Vouchers:\n" +
+      "WebMoney Vouchers provide a convenient way to manage your online payments and purchases. These vouchers are ideal for secure and efficient transactions.\n\n" +
+      "• How to Redeem WMZ Vouchers:\n" +
+      "1. Open https://www.paymer.com/.\n" +
+      "2. Enter the card number and code to redeem the voucher.\n\n" +
+      "WebMoney Vouchers are versatile and can be used for various online transactions, making them a popular choice for digital payments.",
+    price: 56.65,
+    related: "webmoney-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Webmoney 100 WMZ",
+    description:
+      "• About WebMoney Vouchers:\n" +
+      "WebMoney Vouchers provide a convenient way to manage your online payments and purchases. These vouchers are ideal for secure and efficient transactions.\n\n" +
+      "• How to Redeem WMZ Vouchers:\n" +
+      "1. Open https://www.paymer.com/.\n" +
+      "2. Enter the card number and code to redeem the voucher.\n\n" +
+      "WebMoney Vouchers are versatile and can be used for various online transactions, making them a popular choice for digital payments.",
+    price: 107.12,
+    related: "webmoney-voucher",
+  },
+  // Bitnovo voucher
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "€25 Bitnovo voucher (GLC/EUR)",
+    description:
+      "• About Bitnovo Vouchers:\n" +
+      "Bitnovo vouchers allow you to purchase various cryptocurrencies easily and securely. These vouchers are versatile and can be used with multiple cryptocurrencies.\n\n" +
+      "• How to Redeem Bitnovo Vouchers:\n" +
+      "1. Bitnovo App:\n" +
+      "   - Launch the Bitnovo app and select 'Redeem Voucher'.\n" +
+      "   - Enter the Bitnovo coupon code sent to your email.\n" +
+      "   - Choose the cryptocurrency you want.\n" +
+      "   - Enter your wallet address or scan the QR code. You can also create a new wallet using Bitnovo.\n" +
+      "   - To complete the transaction, tap 'Proceed' and agree to the terms and conditions.\n\n" +
+      "2. Bitnovo Website:\n" +
+      "   - Visit the [Bitnovo recovery site](https://www.bitnovo.com/).\n" +
+      "   - Select the cryptocurrency you want to buy from the dropdown menu in the first field.\n" +
+      "   - Enter your wallet address in the second field or select your wallet by scanning the QR code. You can also create a Bitnovo wallet if you don't already have one.\n" +
+      "   - Enter the Bitnovo code sent to you in the third field.\n" +
+      "   - To complete the transaction, tap 'Proceed' and agree to the terms and conditions.\n\n" +
+      "Note: The Bitnovo code is valid for only 3 months after purchase. A small percentage of the total cryptocurrency received in your wallet will be deducted as a service fee by Bitnovo.",
+    price: 29.35,
+    related: "bitnovo-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "€50 Bitnovo voucher (GLC/EUR)",
+    description:
+      "• About Bitnovo Vouchers:\n" +
+      "Bitnovo vouchers allow you to purchase various cryptocurrencies easily and securely. These vouchers are versatile and can be used with multiple cryptocurrencies.\n\n" +
+      "• How to Redeem Bitnovo Vouchers:\n" +
+      "1. Bitnovo App:\n" +
+      "   - Launch the Bitnovo app and select 'Redeem Voucher'.\n" +
+      "   - Enter the Bitnovo coupon code sent to your email.\n" +
+      "   - Choose the cryptocurrency you want.\n" +
+      "   - Enter your wallet address or scan the QR code. You can also create a new wallet using Bitnovo.\n" +
+      "   - To complete the transaction, tap 'Proceed' and agree to the terms and conditions.\n\n" +
+      "2. Bitnovo Website:\n" +
+      "   - Visit the [Bitnovo recovery site](https://www.bitnovo.com/).\n" +
+      "   - Select the cryptocurrency you want to buy from the dropdown menu in the first field.\n" +
+      "   - Enter your wallet address in the second field or select your wallet by scanning the QR code. You can also create a Bitnovo wallet if you don't already have one.\n" +
+      "   - Enter the Bitnovo code sent to you in the third field.\n" +
+      "   - To complete the transaction, tap 'Proceed' and agree to the terms and conditions.\n\n" +
+      "Note: The Bitnovo code is valid for only 3 months after purchase. A small percentage of the total cryptocurrency received in your wallet will be deducted as a service fee by Bitnovo.",
+    price: 58.19,
+    related: "bitnovo-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "€100 Bitnovo voucher (GLC/EUR)",
+    description:
+      "• About Bitnovo Vouchers:\n" +
+      "Bitnovo vouchers allow you to purchase various cryptocurrencies easily and securely. These vouchers are versatile and can be used with multiple cryptocurrencies.\n\n" +
+      "• How to Redeem Bitnovo Vouchers:\n" +
+      "1. Bitnovo App:\n" +
+      "   - Launch the Bitnovo app and select 'Redeem Voucher'.\n" +
+      "   - Enter the Bitnovo coupon code sent to your email.\n" +
+      "   - Choose the cryptocurrency you want.\n" +
+      "   - Enter your wallet address or scan the QR code. You can also create a new wallet using Bitnovo.\n" +
+      "   - To complete the transaction, tap 'Proceed' and agree to the terms and conditions.\n\n" +
+      "2. Bitnovo Website:\n" +
+      "   - Visit the [Bitnovo recovery site](https://www.bitnovo.com/).\n" +
+      "   - Select the cryptocurrency you want to buy from the dropdown menu in the first field.\n" +
+      "   - Enter your wallet address in the second field or select your wallet by scanning the QR code. You can also create a Bitnovo wallet if you don't already have one.\n" +
+      "   - Enter the Bitnovo code sent to you in the third field.\n" +
+      "   - To complete the transaction, tap 'Proceed' and agree to the terms and conditions.\n\n" +
+      "Note: The Bitnovo code is valid for only 3 months after purchase. A small percentage of the total cryptocurrency received in your wallet will be deducted as a service fee by Bitnovo.",
+    price: 116.18,
+    related: "bitnovo-voucher",
+  },
+  // Cherry credits
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "5,000 CC Cherry Credits",
+    description:
+      "• About Cherry Credits:\n" +
+      "Cherry Credits is a leading provider of micropayment solutions for digital content and entertainment. It offers a flexible e-wallet system and physical scratch cards (PSC) for online transactions. Cherry Credits is a trusted top-up provider for online games in Southeast Asia, allowing users to enhance their gaming experience by purchasing in-game currency.\n\n" +
+      "• How to Top Up Cherry Credits:\n" +
+      "1. Ensure you have the activation code.\n" +
+      "2. Go to the Cherry Credits website and select 'Top Up' from the menu at the top of the page.\n" +
+      "3. Choose 'Cherry Credits Prepaid Card/ ePin' and enter the code.\n" +
+      "4. After entering the code, the Cherry Credits will be added to your account.",
+    price: 4.12,
+    related: "cherry-credits",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "10,000 CC Cherry Credits",
+    description:
+      "• About Cherry Credits:\n" +
+      "Cherry Credits is a leading provider of micropayment solutions for digital content and entertainment. It offers a flexible e-wallet system and physical scratch cards (PSC) for online transactions. Cherry Credits is a trusted top-up provider for online games in Southeast Asia, allowing users to enhance their gaming experience by purchasing in-game currency.\n\n" +
+      "• How to Top Up Cherry Credits:\n" +
+      "1. Ensure you have the activation code.\n" +
+      "2. Go to the Cherry Credits website and select 'Top Up' from the menu at the top of the page.\n" +
+      "3. Choose 'Cherry Credits Prepaid Card/ ePin' and enter the code.\n" +
+      "4. After entering the code, the Cherry Credits will be added to your account.",
+    price: 8.24,
+    related: "cherry-credits",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "30,000 CC Cherry Credits",
+    description:
+      "• About Cherry Credits:\n" +
+      "Cherry Credits is a leading provider of micropayment solutions for digital content and entertainment. It offers a flexible e-wallet system and physical scratch cards (PSC) for online transactions. Cherry Credits is a trusted top-up provider for online games in Southeast Asia, allowing users to enhance their gaming experience by purchasing in-game currency.\n\n" +
+      "• How to Top Up Cherry Credits:\n" +
+      "1. Ensure you have the activation code.\n" +
+      "2. Go to the Cherry Credits website and select 'Top Up' from the menu at the top of the page.\n" +
+      "3. Choose 'Cherry Credits Prepaid Card/ ePin' and enter the code.\n" +
+      "4. After entering the code, the Cherry Credits will be added to your account.",
+    price: 24.72,
+    related: "cherry-credits",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "50,000 CC Cherry Credits",
+    description:
+      "• About Cherry Credits:\n" +
+      "Cherry Credits is a leading provider of micropayment solutions for digital content and entertainment. It offers a flexible e-wallet system and physical scratch cards (PSC) for online transactions. Cherry Credits is a trusted top-up provider for online games in Southeast Asia, allowing users to enhance their gaming experience by purchasing in-game currency.\n\n" +
+      "• How to Top Up Cherry Credits:\n" +
+      "1. Ensure you have the activation code.\n" +
+      "2. Go to the Cherry Credits website and select 'Top Up' from the menu at the top of the page.\n" +
+      "3. Choose 'Cherry Credits Prepaid Card/ ePin' and enter the code.\n" +
+      "4. After entering the code, the Cherry Credits will be added to your account.",
+    price: 41.20,
+    related: "cherry-credits",
+  },
+  // Shein usd
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$25 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 25.75,
+    related: "shein-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$50 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 51.50,
+    related: "shein-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$100 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 102.48,
+    related: "shein-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$200 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 204.90,
+    related: "shein-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$250 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 255.90,
+    related: "shein-usd",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$500 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 505.00,
+    related: "shein-usd",
+  },
+  // Shein sar
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SAR100 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 28.00,
+    related: "shein-sar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SAR200 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 55.60,
+    related: "shein-sar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SAR300 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 83.43,
+    related: "shein-sar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SAR400 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 110.24,
+    related: "shein-sar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SAR500 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 139.00,
+    related: "shein-sar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SAR1000 Shein Card",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. Redemption and Usage: Gift cards can be redeemed on SHEIN to purchase items and services.\n\n" +
+      "2. Gift Card Redemption: Enter the gift card number and PIN during checkout. The amount will be deducted from the gift card balance. If the total amount exceeds the card balance, additional payment methods can be used for the remaining balance.\n\n" +
+      "3. Check Balance: Check your gift card balance in your SHEIN account. The card balance can only be used on SHEIN for purchases and services. The balance cannot be withdrawn for cash.\n\n" +
+      "4. Validity Period and Refunds: Gift cards are valid for one year from the date of purchase. Once redeemed, the gift card cannot be returned. If an order is paid with a gift card and a refund is requested, the amount paid with the gift card will be returned to the card.\n\n" +
+      "5. Lost or Stolen Cards: SHEIN is not responsible for lost, stolen, or unauthorized gift cards.",
+    price: 278.00,
+    related: "shein-sar",
+  },
+  // Noon aed
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "25 AED Noon Card (UAE)",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 7.21,
+    related: "noon-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "50 AED Noon Card (UAE)",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 14.42,
+    related: "noon-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "100 AED Noon Card (UAE)",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 28.84,
+    related: "noon-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "200 AED Noon Card (UAE)",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 57.68,
+    related: "noon-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "250 AED Noon Card (UAE)",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 70.00,
+    related: "noon-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "500 AED Noon Card (UAE)",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 140.00,
+    related: "noon-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "5000 AED Noon Card (UAE)",
+    description:
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 1370.00,
+    related: "noon-aed",
+  },
+  // Noon sar
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "10 SAR Noon Card (Saudi Arabia)",
+    description: 
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 2.76,
+    related: "noon-sar"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "25 SAR Noon Card (Saudi Arabia)",
+    description: 
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 7.21,
+    related: "noon-sar"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "50 SAR Noon Card (Saudi Arabia)",
+    description: 
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 14.42,
+    related: "noon-sar"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "100 SAR Noon Card (Saudi Arabia)",
+    description: 
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 28.22,
+    related: "noon-sar"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "200 SAR Noon Card (Saudi Arabia)",
+    description: 
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 55.60,
+    related: "noon-sar"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "250 SAR Noon Card (Saudi Arabia)",
+    description: 
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 69.50,
+    related: "noon-sar"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "500 SAR Noon Card (Saudi Arabia)",
+    description: 
+      "• Terms and Conditions:\n" +
+      "1. The gift card is available in electronic voucher format only.\n" +
+      "2. Gift cards can be purchased in AED and SAR only.\n" +
+      "3. The balance of a gift card in a customer's cashback wallet cannot exceed AED 8,000 in UAE or SAR 8,000 in KSA.\n" +
+      "4. Gift cards can be redeemed at:\n" +
+      "   - [KSA - Redeem Gift Card](https://www.noon.com/saudi-en/gift-cards__redeem)\n" +
+      "   - [UAE - Redeem Gift Card](https://www.noon.com/uae-en/gift-cards__redeem)\n" +
+      "5. The gift card can only be redeemed on noon.com and its affiliates: SIVVI.com and noon pay-UAE.\n" +
+      "6. Once redeemed, the gift card value will be added to the customer's noon pay cashback wallet and visible at checkout.\n" +
+      "7. The gift card can be used to purchase all items across all categories on noon.com and its affiliates, including sale items.\n" +
+      "8. The gift card can also be used for Renewals and/or Bill Payments on noon pay-UAE.\n" +
+      "9. To use the gift card for additional spending touchpoints, complete the KYC process by scanning your Emirates ID.\n" +
+      "10. The gift card cannot be replaced, refunded, returned, reloaded, redeemed for more than face value, redeemed for cash, or transferred to another account.\n" +
+      "11. The gift card balance cannot be used to purchase goods or services at noon or any noon-affiliated property outside of the currency in which the gift card was issued.\n" +
+      "12. Gift cards must be obtained from authorized third parties. Keep your card number and PIN secure.\n" +
+      "13. Noon is not responsible for lost, stolen, or damaged gift cards, or for unauthorized use of gift cards.\n" +
+      "14. No refund or replacement if the gift card is not redeemed before the expiry date.",
+    price: 138.00,
+    related: "noon-sar"
+  },
+  // Jetoncash voucher
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "5 EURO JetonCash Voucher (Global)",
+    description:
+      "• Need to form a web installment but lack a credit card? No issue. Buy a JetonCash eVoucher to create direct payments on specific websites. Alternatively, spend it to renew your Jeton Cash wallet. You do not need to share your personal banking information anywhere when using JetonCash. It is therefore the perfect method for safeguarding your online security.\n\n" +
+      "• How do I recover a JetonCash Voucher?\n" +
+      "1) Log in to your Jeton account online or in the app.\n" +
+      "2) Select ‘Deposit’ from the home screen or the ‘Wallet’ menu in the app.\n" +
+      "3) Select ‘Jeton Card’.\n" +
+      "4) Enter the amount.\n" +
+      "5) Press ‘Continue’.\n" +
+      "6) Enter your voucher number, security code, and expiry date.\n" +
+      "7) Tap ‘Complete’.",
+    price: 7.21,
+    related: "jetoncash-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "10 EURO JetonCash Voucher (Global)",
+    description:
+      "• Need to form a web installment but lack a credit card? No issue. Buy a JetonCash eVoucher to create direct payments on specific websites. Alternatively, spend it to renew your Jeton Cash wallet. You do not need to share your personal banking information anywhere when using JetonCash. It is therefore the perfect method for safeguarding your online security.\n\n" +
+      "• How do I recover a JetonCash Voucher?\n" +
+      "1) Log in to your Jeton account online or in the app.\n" +
+      "2) Select ‘Deposit’ from the home screen or the ‘Wallet’ menu in the app.\n" +
+      "3) Select ‘Jeton Card’.\n" +
+      "4) Enter the amount.\n" +
+      "5) Press ‘Continue’.\n" +
+      "6) Enter your voucher number, security code, and expiry date.\n" +
+      "7) Tap ‘Complete’.",
+    price: 13.39,
+    related: "jetoncash-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "25 EURO JetonCash Voucher (Global)",
+    description:
+      "• Need to form a web installment but lack a credit card? No issue. Buy a JetonCash eVoucher to create direct payments on specific websites. Alternatively, spend it to renew your Jeton Cash wallet. You do not need to share your personal banking information anywhere when using JetonCash. It is therefore the perfect method for safeguarding your online security.\n\n" +
+      "• How do I recover a JetonCash Voucher?\n" +
+      "1) Log in to your Jeton account online or in the app.\n" +
+      "2) Select ‘Deposit’ from the home screen or the ‘Wallet’ menu in the app.\n" +
+      "3) Select ‘Jeton Card’.\n" +
+      "4) Enter the amount.\n" +
+      "5) Press ‘Continue’.\n" +
+      "6) Enter your voucher number, security code, and expiry date.\n" +
+      "7) Tap ‘Complete’.",
+    price: 32.96,
+    related: "jetoncash-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "50 EURO JetonCash Voucher (Global)",
+    description:
+      "• Need to form a web installment but lack a credit card? No issue. Buy a JetonCash eVoucher to create direct payments on specific websites. Alternatively, spend it to renew your Jeton Cash wallet. You do not need to share your personal banking information anywhere when using JetonCash. It is therefore the perfect method for safeguarding your online security.\n\n" +
+      "• How do I recover a JetonCash Voucher?\n" +
+      "1) Log in to your Jeton account online or in the app.\n" +
+      "2) Select ‘Deposit’ from the home screen or the ‘Wallet’ menu in the app.\n" +
+      "3) Select ‘Jeton Card’.\n" +
+      "4) Enter the amount.\n" +
+      "5) Press ‘Continue’.\n" +
+      "6) Enter your voucher number, security code, and expiry date.\n" +
+      "7) Tap ‘Complete’.",
+    price: 61.80,
+    related: "jetoncash-voucher",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "100 EURO JetonCash Voucher (Global)",
+    description:
+      "• Need to form a web installment but lack a credit card? No issue. Buy a JetonCash eVoucher to create direct payments on specific websites. Alternatively, spend it to renew your Jeton Cash wallet. You do not need to share your personal banking information anywhere when using JetonCash. It is therefore the perfect method for safeguarding your online security.\n\n" +
+      "• How do I recover a JetonCash Voucher?\n" +
+      "1) Log in to your Jeton account online or in the app.\n" +
+      "2) Select ‘Deposit’ from the home screen or the ‘Wallet’ menu in the app.\n" +
+      "3) Select ‘Jeton Card’.\n" +
+      "4) Enter the amount.\n" +
+      "5) Press ‘Continue’.\n" +
+      "6) Enter your voucher number, security code, and expiry date.\n" +
+      "7) Tap ‘Complete’.",
+    price: 128.75,
+    related: "jetoncash-voucher",
+  },
+  // Lulu aed
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "50 AED Lulu HyperMarket (Arab Emirates)",
+    description:
+      "• Lulu (Middle Eastern Emirates) cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for the Arab Emirates and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, tap on Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Middle Eastern Emirates) cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 16.48,
+    related: "lulu-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "100 AED Lulu HyperMarket (Arab Emirates)",
+    description:
+      "• Lulu (Middle Eastern Emirates) cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for the Arab Emirates and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, tap on Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Middle Eastern Emirates) cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 30.90,
+    related: "lulu-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "250 AED Lulu HyperMarket (Arab Emirates)",
+    description:
+      "• Lulu (Middle Eastern Emirates) cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for the Arab Emirates and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, tap on Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Middle Eastern Emirates) cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 74.16,
+    related: "lulu-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "500 AED Lulu HyperMarket (Arab Emirates)",
+    description:
+      "• Lulu (Middle Eastern Emirates) cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for the Arab Emirates and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, tap on Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Middle Eastern Emirates) cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 147.29,
+    related: "lulu-aed",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "1000 AED Lulu HyperMarket (Arab Emirates)",
+    description:
+      "• Lulu (Middle Eastern Emirates) cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for the Arab Emirates and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, tap on Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Middle Eastern Emirates) cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 285.30,
+    related: "lulu-aed",
+  },
+  // Lulu sar
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "50 SAR Lulu Gift Card (Saudi Arabia)",
+    description:
+      "• Lulu (Saudi Arabia) gift cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for Saudi Arabia and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, press Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Saudi Arabia) gift cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 16.48,
+    related: "lulu-sar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "100 SAR Lulu Gift Card (Saudi Arabia)",
+    description:
+      "• Lulu (Saudi Arabia) gift cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for Saudi Arabia and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, press Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Saudi Arabia) gift cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 29.87,
+    related: "lulu-sar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "250 SAR Lulu Gift Card (Saudi Arabia)",
+    description:
+      "• Lulu (Saudi Arabia) gift cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for Saudi Arabia and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, press Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Saudi Arabia) gift cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 73.13,
+    related: "lulu-sar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "500 SAR Lulu Gift Card (Saudi Arabia)",
+    description:
+      "• Lulu (Saudi Arabia) gift cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for Saudi Arabia and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, press Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Saudi Arabia) gift cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 142.14,
+    related: "lulu-sar",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "1000 SAR Lulu Gift Card (Saudi Arabia)",
+    description:
+      "• Lulu (Saudi Arabia) gift cards are instantly recognizable as a preferred shopping destination in the region. Lulu Hypermarkets offer great prices on everyday essentials, electronics, fashion, and many other high-quality items sourced globally and brought to you under one roof.\n\n" +
+      "• You can give someone a Lulu eGift card for special occasions like Mother's Day, Father's Day, Teacher's Day, as well as for events like Eid, Christmas, Diwali, and other celebrations we observe.\n\n" +
+      "• Additionally, you might present one of these cards as a Thank You gift for supporting you. For the recipient, this gift card would cover every conceivable need, making it a great choice for any occasion or use you decide to give it for!\n\n" +
+      "• Why Use Lulu Gift Cards for Shopping?\n" +
+      "Gift cards for Lulu shopping are available for Saudi Arabia and other Middle Eastern countries, regardless of where your friends are shopping from. Your loved ones can shop anytime they want with a retail gift card or an e-gift card.\n\n" +
+      "• Simply select a coffee maker, pressure cooker, vacuum cleaner, or other similar household necessities as a housewarming gift. Smartphones, mobile accessories, smartwatches, and other similar items make the choice easy for a tech enthusiast. Give your loved ones an unlimited number of options with a Lulu Gift Voucher.\n\n" +
+      "• How to Redeem Lulu Gift Card?\n" +
+      "1. First, find your Lulu eGift Card number and PIN code from the voucher.\n" +
+      "2. Then visit the official Lulu site.\n" +
+      "3. Next, log in/sign up at Lulu.\n" +
+      "4. Click on the Lulu Credit Tab, enter the 25-digit gift card number.\n" +
+      "5. Finally, press Apply to redeem your gift card.\n\n" +
+      "• Also, purchase Lulu (Saudi Arabia) gift cards at the best prices and more gift cards from www.Enggam.com.",
+    price: 285.31,
+    related: "lulu-sar",
+  },
+  // Turo
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$50 Turo Gift Card (Global)",
+    description:
+      "• Get Turo gift cards and assist someone you care about in turning their birthday, special occasion, or any travel occasion into something truly unforgettable.\n\n" +
+      "• Turo is the world's largest car-sharing marketplace where you can book any car you want, wherever you need it, from a dynamic community of trusted hosts.\n\n" +
+      "• Whether you're flying in from afar or looking for a car down the road, whether you're seeking a rugged truck or something sleek and stylish, visitors can take the wheel of the perfect car for any event, while hosts can grow their prospects by building an accessible, flexible, and versatile car-sharing business from the ground up.\n\n" +
+      "• Turo helps someone you care about turn their birthday, special event, or any travel occasion into something truly extraordinary.\n\n" +
+      "• How to Redeem:\n" +
+      "1. Go to your Account page.\n" +
+      "2. Tap 'Redeem Gift Card'.\n" +
+      "3. Enter your PIN. The gift card value will be added to your travel credit balance to be used after you book your next trip.\n\n" +
+      "• Additionally, purchase Turo gift cards at the best prices and other gift cards from www.enggam.com.",
+    price: 51.50,
+    related: "turo",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$75 Turo Gift Card (Global)",
+    description:
+      "• Get Turo gift cards and assist someone you care about in turning their birthday, special occasion, or any travel occasion into something truly unforgettable.\n\n" +
+      "• Turo is the world's largest car-sharing marketplace where you can book any car you want, wherever you need it, from a dynamic community of trusted hosts.\n\n" +
+      "• Whether you're flying in from afar or looking for a car down the road, whether you're seeking a rugged truck or something sleek and stylish, visitors can take the wheel of the perfect car for any event, while hosts can grow their prospects by building an accessible, flexible, and versatile car-sharing business from the ground up.\n\n" +
+      "• Turo helps someone you care about turn their birthday, special event, or any travel occasion into something truly extraordinary.\n\n" +
+      "• How to Redeem:\n" +
+      "1. Go to your Account page.\n" +
+      "2. Tap 'Redeem Gift Card'.\n" +
+      "3. Enter your PIN. The gift card value will be added to your travel credit balance to be used after you book your next trip.\n\n" +
+      "• Additionally, purchase Turo gift cards at the best prices and other gift cards from www.enggam.com.",
+    price: 77.25,
+    related: "turo",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$100 Turo Gift Card (Global)",
+    description:
+      "• Get Turo gift cards and assist someone you care about in turning their birthday, special occasion, or any travel occasion into something truly unforgettable.\n\n" +
+      "• Turo is the world's largest car-sharing marketplace where you can book any car you want, wherever you need it, from a dynamic community of trusted hosts.\n\n" +
+      "• Whether you're flying in from afar or looking for a car down the road, whether you're seeking a rugged truck or something sleek and stylish, visitors can take the wheel of the perfect car for any event, while hosts can grow their prospects by building an accessible, flexible, and versatile car-sharing business from the ground up.\n\n" +
+      "• Turo helps someone you care about turn their birthday, special event, or any travel occasion into something truly extraordinary.\n\n" +
+      "• How to Redeem:\n" +
+      "1. Go to your Account page.\n" +
+      "2. Tap 'Redeem Gift Card'.\n" +
+      "3. Enter your PIN. The gift card value will be added to your travel credit balance to be used after you book your next trip.\n\n" +
+      "• Additionally, purchase Turo gift cards at the best prices and other gift cards from www.enggam.com.",
+    price: 102.89,
+    related: "turo",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$150 Turo Gift Card (Global)",
+    description:
+      "• Get Turo gift cards and assist someone you care about in turning their birthday, special occasion, or any travel occasion into something truly unforgettable.\n\n" +
+      "• Turo is the world's largest car-sharing marketplace where you can book any car you want, wherever you need it, from a dynamic community of trusted hosts.\n\n" +
+      "• Whether you're flying in from afar or looking for a car down the road, whether you're seeking a rugged truck or something sleek and stylish, visitors can take the wheel of the perfect car for any event, while hosts can grow their prospects by building an accessible, flexible, and versatile car-sharing business from the ground up.\n\n" +
+      "• Turo helps someone you care about turn their birthday, special event, or any travel occasion into something truly extraordinary.\n\n" +
+      "• How to Redeem:\n" +
+      "1. Go to your Account page.\n" +
+      "2. Tap 'Redeem Gift Card'.\n" +
+      "3. Enter your PIN. The gift card value will be added to your travel credit balance to be used after you book your next trip.\n\n" +
+      "• Additionally, purchase Turo gift cards at the best prices and other gift cards from www.enggam.com.",
+    price: 154.00,
+    related: "turo",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$200 Turo Gift Card (Global)",
+    description:
+      "• Get Turo gift cards and assist someone you care about in turning their birthday, special occasion, or any travel occasion into something truly unforgettable.\n\n" +
+      "• Turo is the world's largest car-sharing marketplace where you can book any car you want, wherever you need it, from a dynamic community of trusted hosts.\n\n" +
+      "• Whether you're flying in from afar or looking for a car down the road, whether you're seeking a rugged truck or something sleek and stylish, visitors can take the wheel of the perfect car for any event, while hosts can grow their prospects by building an accessible, flexible, and versatile car-sharing business from the ground up.\n\n" +
+      "• Turo helps someone you care about turn their birthday, special event, or any travel occasion into something truly extraordinary.\n\n" +
+      "• How to Redeem:\n" +
+      "1. Go to your Account page.\n" +
+      "2. Tap 'Redeem Gift Card'.\n" +
+      "3. Enter your PIN. The gift card value will be added to your travel credit balance to be used after you book your next trip.\n\n" +
+      "• Additionally, purchase Turo gift cards at the best prices and other gift cards from www.enggam.com.",
+    price: 205.60,
+    related: "turo",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$300 Turo Gift Card (Global)",
+    description:
+      "• Get Turo gift cards and assist someone you care about in turning their birthday, special occasion, or any travel occasion into something truly unforgettable.\n\n" +
+      "• Turo is the world's largest car-sharing marketplace where you can book any car you want, wherever you need it, from a dynamic community of trusted hosts.\n\n" +
+      "• Whether you're flying in from afar or looking for a car down the road, whether you're seeking a rugged truck or something sleek and stylish, visitors can take the wheel of the perfect car for any event, while hosts can grow their prospects by building an accessible, flexible, and versatile car-sharing business from the ground up.\n\n" +
+      "• Turo helps someone you care about turn their birthday, special event, or any travel occasion into something truly extraordinary.\n\n" +
+      "• How to Redeem:\n" +
+      "1. Go to your Account page.\n" +
+      "2. Tap 'Redeem Gift Card'.\n" +
+      "3. Enter your PIN. The gift card value will be added to your travel credit balance to be used after you book your next trip.\n\n" +
+      "• Additionally, purchase Turo gift cards at the best prices and other gift cards from www.enggam.com.",
+    price: 307.97,
+    related: "turo",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "$500 Turo Gift Card (Global)",
+    description:
+      "• Get Turo gift cards and assist someone you care about in turning their birthday, special occasion, or any travel occasion into something truly unforgettable.\n\n" +
+      "• Turo is the world's largest car-sharing marketplace where you can book any car you want, wherever you need it, from a dynamic community of trusted hosts.\n\n" +
+      "• Whether you're flying in from afar or looking for a car down the road, whether you're seeking a rugged truck or something sleek and stylish, visitors can take the wheel of the perfect car for any event, while hosts can grow their prospects by building an accessible, flexible, and versatile car-sharing business from the ground up.\n\n" +
+      "• Turo helps someone you care about turn their birthday, special event, or any travel occasion into something truly extraordinary.\n\n" +
+      "• How to Redeem:\n" +
+      "1. Go to your Account page.\n" +
+      "2. Tap 'Redeem Gift Card'.\n" +
+      "3. Enter your PIN. The gift card value will be added to your travel credit balance to be used after you book your next trip.\n\n" +
+      "• Additionally, purchase Turo gift cards at the best prices and other gift cards from www.enggam.com.",
+    price: 510.00,
+    related: "turo",
+  },
+  // American express
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "American Express $25 Gift Card (US)",
+    description:
+      "• Note: The link to redeem the card can only be accessed from the USA (possible with VPN).\n" +
+      "• American Express gift cards are prepaid cards that can be used immediately after purchase in-store and online for shopping.\n" +
+      "• Previously, to use your American Express gift card online, you needed to complete a registration process and add your billing address to the card. This is no longer necessary. You can shop with it at any online store that accepts American Express cards.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. After purchasing from Coinsbee, you'll receive your voucher link directly via email.\n" +
+      "  2. The link can only be accessed from the USA (possible with VPN).\n" +
+      "  3. Before shopping online with your virtual American Express card, register at https://www.AmexGiftCard.com.\n" +
+      "  4. Provide your name, a US phone number, and a US address.\n\n" +
+      "• Card Usage:\n" +
+      "  • You can use the Amex Gift Card until the account balance on the card is zero.\n" +
+      "  • Check your card balance at any time on https://www.AmexGiftCard.com.\n\n" +
+      "• Gift Potential:\n" +
+      "  • A virtual Amex card is an ideal gift for any occasion, including birthdays, anniversaries, Valentine's Day, Easter, or just because.\n\n" +
+      "• About American Express Gift Card (US):\n" +
+      "  • The American Express Gift Card is easy to use and can be used anywhere online that accepts American Express cards in the US.\n" +
+      "  • Stores inside the American Express Gift Card do not expire.\n\n" +
+      "• Visit: www.americanexpress.com/mygiftcard",
+    price: 33.99,
+    related: "american-express",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "American Express $50 Gift Card (US)",
+    description:
+      "• Note: The link to redeem the card can only be accessed from the USA (possible with VPN).\n" +
+      "• American Express gift cards are prepaid cards that can be used immediately after purchase in-store and online for shopping.\n" +
+      "• Previously, to use your American Express gift card online, you needed to complete a registration process and add your billing address to the card. This is no longer necessary. You can shop with it at any online store that accepts American Express cards.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. After purchasing from Coinsbee, you'll receive your voucher link directly via email.\n" +
+      "  2. The link can only be accessed from the USA (possible with VPN).\n" +
+      "  3. Before shopping online with your virtual American Express card, register at https://www.AmexGiftCard.com.\n" +
+      "  4. Provide your name, a US phone number, and a US address.\n\n" +
+      "• Card Usage:\n" +
+      "  • You can use the Amex Gift Card until the account balance on the card is zero.\n" +
+      "  • Check your card balance at any time on https://www.AmexGiftCard.com.\n\n" +
+      "• Gift Potential:\n" +
+      "  • A virtual Amex card is an ideal gift for any occasion, including birthdays, anniversaries, Valentine's Day, Easter, or just because.\n\n" +
+      "• About American Express Gift Card (US):\n" +
+      "  • The American Express Gift Card is easy to use and can be used anywhere online that accepts American Express cards in the US.\n" +
+      "  • Stores inside the American Express Gift Card do not expire.\n\n" +
+      "• Visit: www.americanexpress.com/mygiftcard",
+    price: 61.80,
+    related: "american-express",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "American Express $100 Gift Card (US)",
+    description:
+      "• Note: The link to redeem the card can only be accessed from the USA (possible with VPN).\n" +
+      "• American Express gift cards are prepaid cards that can be used immediately after purchase in-store and online for shopping.\n" +
+      "• Previously, to use your American Express gift card online, you needed to complete a registration process and add your billing address to the card. This is no longer necessary. You can shop with it at any online store that accepts American Express cards.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. After purchasing from Coinsbee, you'll receive your voucher link directly via email.\n" +
+      "  2. The link can only be accessed from the USA (possible with VPN).\n" +
+      "  3. Before shopping online with your virtual American Express card, register at https://www.AmexGiftCard.com.\n" +
+      "  4. Provide your name, a US phone number, and a US address.\n\n" +
+      "• Card Usage:\n" +
+      "  • You can use the Amex Gift Card until the account balance on the card is zero.\n" +
+      "  • Check your card balance at any time on https://www.AmexGiftCard.com.\n\n" +
+      "• Gift Potential:\n" +
+      "  • A virtual Amex card is an ideal gift for any occasion, including birthdays, anniversaries, Valentine's Day, Easter, or just because.\n\n" +
+      "• About American Express Gift Card (US):\n" +
+      "  • The American Express Gift Card is easy to use and can be used anywhere online that accepts American Express cards in the US.\n" +
+      "  • Stores inside the American Express Gift Card do not expire.\n\n" +
+      "• Visit: www.americanexpress.com/mygiftcard",
+    price: 118.45,
+    related: "american-express",
+  },
+  // Toneo first
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Toneo First €7.50 Gift Card",
+    description:
+      "• About Toneo First:\n" +
+      "  The TONEO First Mastercard® prepaid card is a payment and withdrawal card without a bank account.\n" +
+      "  If you don't have the option of having a traditional bank account, have family overseas, travel frequently, or make many purchases online, the TONEO First Mastercard® is the card you need! It offers a simple and effective solution to manage your money with complete flexibility at a cost that does not exceed traditional bank fees.\n\n" +
+      "• How It Works:\n" +
+      "  For more information on how the card works, visit: [Toneo First How It Works](https://www.toneofirst.com/fonctionnement-carte-prepayee-toneo-first/)\n\n" +
+      "• FAQs:\n" +
+      "  For frequently asked questions, visit: [Toneo First FAQs](https://www.toneofirst.com/faq/#faq-2338)",
+    price: 9.37,
+    related: "toneo-first",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Toneo First €15 Gift Card",
+    description:
+      "• About Toneo First:\n" +
+      "  The TONEO First Mastercard® prepaid card is a payment and withdrawal card without a bank account.\n" +
+      "  If you don't have the option of having a traditional bank account, have family overseas, travel frequently, or make many purchases online, the TONEO First Mastercard® is the card you need! It offers a simple and effective solution to manage your money with complete flexibility at a cost that does not exceed traditional bank fees.\n\n" +
+      "• How It Works:\n" +
+      "  For more information on how the card works, visit: [Toneo First How It Works](https://www.toneofirst.com/fonctionnement-carte-prepayee-toneo-first/)\n\n" +
+      "• FAQs:\n" +
+      "  For frequently asked questions, visit: [Toneo First FAQs](https://www.toneofirst.com/faq/#faq-2338)",
+    price: 18.54,
+    related: "toneo-first",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Toneo First €30 Gift Card",
+    description:
+      "• About Toneo First:\n" +
+      "  The TONEO First Mastercard® prepaid card is a payment and withdrawal card without a bank account.\n" +
+      "  If you don't have the option of having a traditional bank account, have family overseas, travel frequently, or make many purchases online, the TONEO First Mastercard® is the card you need! It offers a simple and effective solution to manage your money with complete flexibility at a cost that does not exceed traditional bank fees.\n\n" +
+      "• How It Works:\n" +
+      "  For more information on how the card works, visit: [Toneo First How It Works](https://www.toneofirst.com/fonctionnement-carte-prepayee-toneo-first/)\n\n" +
+      "• FAQs:\n" +
+      "  For frequently asked questions, visit: [Toneo First FAQs](https://www.toneofirst.com/faq/#faq-2338)",
+    price: 32.72,
+    related: "toneo-first",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Toneo First €50 Gift Card",
+    description:
+      "• About Toneo First:\n" +
+      "  The TONEO First Mastercard® prepaid card is a payment and withdrawal card without a bank account.\n" +
+      "  If you don't have the option of having a traditional bank account, have family overseas, travel frequently, or make many purchases online, the TONEO First Mastercard® is the card you need! It offers a simple and effective solution to manage your money with complete flexibility at a cost that does not exceed traditional bank fees.\n\n" +
+      "• How It Works:\n" +
+      "  For more information on how the card works, visit: [Toneo First How It Works](https://www.toneofirst.com/fonctionnement-carte-prepayee-toneo-first/)\n\n" +
+      "• FAQs:\n" +
+      "  For frequently asked questions, visit: [Toneo First FAQs](https://www.toneofirst.com/faq/#faq-2338)",
+    price: 59.74,
+    related: "toneo-first",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Toneo First €100 Gift Card",
+    description:
+      "• About Toneo First:\n" +
+      "  The TONEO First Mastercard® prepaid card is a payment and withdrawal card without a bank account.\n" +
+      "  If you don't have the option of having a traditional bank account, have family overseas, travel frequently, or make many purchases online, the TONEO First Mastercard® is the card you need! It offers a simple and effective solution to manage your money with complete flexibility at a cost that does not exceed traditional bank fees.\n\n" +
+      "• How It Works:\n" +
+      "  For more information on how the card works, visit: [Toneo First How It Works](https://www.toneofirst.com/fonctionnement-carte-prepayee-toneo-first/)\n\n" +
+      "• FAQs:\n" +
+      "  For frequently asked questions, visit: [Toneo First FAQs](https://www.toneofirst.com/faq/#faq-2338)",
+    price: 113.30,
+    related: "toneo-first",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Toneo First €150 Gift Card",
+    description:
+      "• About Toneo First:\n" +
+      "  The TONEO First Mastercard® prepaid card is a payment and withdrawal card without a bank account.\n" +
+      "  If you don't have the option of having a traditional bank account, have family overseas, travel frequently, or make many purchases online, the TONEO First Mastercard® is the card you need! It offers a simple and effective solution to manage your money with complete flexibility at a cost that does not exceed traditional bank fees.\n\n" +
+      "• How It Works:\n" +
+      "  For more information on how the card works, visit: [Toneo First How It Works](https://www.toneofirst.com/fonctionnement-carte-prepayee-toneo-first/)\n\n" +
+      "• FAQs:\n" +
+      "  For frequently asked questions, visit: [Toneo First FAQs](https://www.toneofirst.com/faq/#faq-2338)",
+    price: 180.00,
+    related: "toneo-first",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Toneo First €200 Gift Card",
+    description:
+      "• About Toneo First:\n" +
+      "  The TONEO First Mastercard® prepaid card is a payment and withdrawal card without a bank account.\n" +
+      "  If you don't have the option of having a traditional bank account, have family overseas, travel frequently, or make many purchases online, the TONEO First Mastercard® is the card you need! It offers a simple and effective solution to manage your money with complete flexibility at a cost that does not exceed traditional bank fees.\n\n" +
+      "• How It Works:\n" +
+      "  For more information on how the card works, visit: [Toneo First How It Works](https://www.toneofirst.com/fonctionnement-carte-prepayee-toneo-first/)\n\n" +
+      "• FAQs:\n" +
+      "  For frequently asked questions, visit: [Toneo First FAQs](https://www.toneofirst.com/faq/#faq-2338)",
+    price: 247.20,
+    related: "toneo-first",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Toneo First €250 Gift Card",
+    description:
+      "• About Toneo First:\n" +
+      "  The TONEO First Mastercard® prepaid card is a payment and withdrawal card without a bank account.\n" +
+      "  If you don't have the option of having a traditional bank account, have family overseas, travel frequently, or make many purchases online, the TONEO First Mastercard® is the card you need! It offers a simple and effective solution to manage your money with complete flexibility at a cost that does not exceed traditional bank fees.\n\n" +
+      "• How It Works:\n" +
+      "  For more information on how the card works, visit: [Toneo First How It Works](https://www.toneofirst.com/fonctionnement-carte-prepayee-toneo-first/)\n\n" +
+      "• FAQs:\n" +
+      "  For frequently asked questions, visit: [Toneo First FAQs](https://www.toneofirst.com/faq/#faq-2338)",
+    price: 298.70,
+    related: "toneo-first",
+  },
+  // Openbucks
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $1",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 1.13,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $5",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 5.15,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $5.50",
+    description:
+      "• OpenBucks Card $5.50\n" +
+      "• Price: $5.66\n\n" +
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 5.66,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $6.50",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 6.69,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $10",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 10.19,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $10.50",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 10.71,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $13",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 13.28,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $15",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 15.45,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $20",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 20.49,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $21",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 21.42,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $25",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 25.64,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $26",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 26.36,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $50",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 50.47,
+    related: "openbucks",
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "OpenBucks Card $100",
+    description:
+      "• About OpenBucks Card (Global):\n" +
+      "  OpenBucks (Global) was founded in 2010 and is an Internet payment company based in Silicon Valley, CA, which allows people to pay online using gift cards from major retailers.\n" +
+      "  OpenBucks (Global) mission & vision is to enable online retailers to transact and accept safe payments with the most trusted brands in the world while making the online payment affordable, safe, and available to everyone.\n\n" +
+      "• How to Use:\n" +
+      "  Buy oBucks Card $100 now to enjoy using in over 500+ games.\n" +
+      "  To verify that oBucks is available on your favorite games, or to pay with an oBucks Card:\n" +
+      "  1. Go to the checkout of the game.\n" +
+      "  2. Look for the 'Pay with Gift Cards' button (sometimes located under 'more options').\n" +
+      "  3. Click on 'Pay with Gift Cards' then select 'oBucks Card' option and follow the instructions.",
+    price: 98.88,
+    related: "openbucks",
+  },
+  // Ezpin
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "EZPIN Gift Card $50",
+    description:
+      "• About EZ Stick:\n" +
+      "  EZ Stick was established with the objective of leveraging online and physical gift cards as effective branded payment tools to drive and enhance revenue in-store, in apps, in games, in digital wallets, via social media, and even in online shopping carts.\n\n" +
+      "• EZ Stick Innovative Delivery Network:\n" +
+      "  With the rapid growth in mobile and online shopping, digital gift cards are essential and flexible purchasing tools driving customer engagement and revenue growth. The distribution and availability of gift cards are crucial in this industry, and EZ Stick aims to address this need. Gift cards are not just financial presents but genuine expressions of human sentiment and motivation. Our innovative solutions are designed to help you build authentic connections with more consumers and boost profits.\n\n" +
+      "• Key Features:\n" +
+      "  - Comprehensive Solutions: EZ Stick offers a full range of solutions to support your digital gift card program.\n" +
+      "  - Wide Network: Our extensive network in the Middle East and Africa provides a competitive advantage for clients to offer their gift cards hassle-free.\n" +
+      "  - B2B Platform: We provide a platform for B2B businesses in the gift card industry, helping to reduce costs and increase revenue with access to all our stock.\n" +
+      "  - 24/7 Availability: Our continuous availability of stock and customer support sets us apart in the market.\n\n" +
+      "For more information, visit: [EZ Stick](https://ezpin.com/)",
+    price: 57.20,
+    related: "ezpin"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "EZPIN Gift Card $100",
+    description:
+      "• About EZ Stick:\n" +
+      "  EZ Stick was established with the objective of leveraging online and physical gift cards as effective branded payment tools to drive and enhance revenue in-store, in apps, in games, in digital wallets, via social media, and even in online shopping carts.\n\n" +
+      "• EZ Stick Innovative Delivery Network:\n" +
+      "  With the rapid growth in mobile and online shopping, digital gift cards are essential and flexible purchasing tools driving customer engagement and revenue growth. The distribution and availability of gift cards are crucial in this industry, and EZ Stick aims to address this need. Gift cards are not just financial presents but genuine expressions of human sentiment and motivation. Our innovative solutions are designed to help you build authentic connections with more consumers and boost profits.\n\n" +
+      "• Key Features:\n" +
+      "  - Comprehensive Solutions: EZ Stick offers a full range of solutions to support your digital gift card program.\n" +
+      "  - Wide Network: Our extensive network in the Middle East and Africa provides a competitive advantage for clients to offer their gift cards hassle-free.\n" +
+      "  - B2B Platform: We provide a platform for B2B businesses in the gift card industry, helping to reduce costs and increase revenue with access to all our stock.\n" +
+      "  - 24/7 Availability: Our continuous availability of stock and customer support sets us apart in the market.\n\n" +
+      "For more information, visit: [EZ Stick](https://ezpin.com/)",
+    price: 112.40,
+    related: "ezpin"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "EZPIN Gift Card $250",
+    description:
+      "• About EZ Stick:\n" +
+      "  EZ Stick was established with the objective of leveraging online and physical gift cards as effective branded payment tools to drive and enhance revenue in-store, in apps, in games, in digital wallets, via social media, and even in online shopping carts.\n\n" +
+      "• EZ Stick Innovative Delivery Network:\n" +
+      "  With the rapid growth in mobile and online shopping, digital gift cards are essential and flexible purchasing tools driving customer engagement and revenue growth. The distribution and availability of gift cards are crucial in this industry, and EZ Stick aims to address this need. Gift cards are not just financial presents but genuine expressions of human sentiment and motivation. Our innovative solutions are designed to help you build authentic connections with more consumers and boost profits.\n\n" +
+      "• Key Features:\n" +
+      "  - Comprehensive Solutions: EZ Stick offers a full range of solutions to support your digital gift card program.\n" +
+      "  - Wide Network: Our extensive network in the Middle East and Africa provides a competitive advantage for clients to offer their gift cards hassle-free.\n" +
+      "  - B2B Platform: We provide a platform for B2B businesses in the gift card industry, helping to reduce costs and increase revenue with access to all our stock.\n" +
+      "  - 24/7 Availability: Our continuous availability of stock and customer support sets us apart in the market.\n\n" +
+      "For more information, visit: [EZ Stick](https://ezpin.com/)",
+    price: 290.60,
+    related: "ezpin"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "EZPIN Gift Card $1000",
+    description:
+      "• About EZ Stick:\n" +
+      "  EZ Stick was established with the objective of leveraging online and physical gift cards as effective branded payment tools to drive and enhance revenue in-store, in apps, in games, in digital wallets, via social media, and even in online shopping carts.\n\n" +
+      "• EZ Stick Innovative Delivery Network:\n" +
+      "  With the rapid growth in mobile and online shopping, digital gift cards are essential and flexible purchasing tools driving customer engagement and revenue growth. The distribution and availability of gift cards are crucial in this industry, and EZ Stick aims to address this need. Gift cards are not just financial presents but genuine expressions of human sentiment and motivation. Our innovative solutions are designed to help you build authentic connections with more consumers and boost profits.\n\n" +
+      "• Key Features:\n" +
+      "  - Comprehensive Solutions: EZ Stick offers a full range of solutions to support your digital gift card program.\n" +
+      "  - Wide Network: Our extensive network in the Middle East and Africa provides a competitive advantage for clients to offer their gift cards hassle-free.\n" +
+      "  - B2B Platform: We provide a platform for B2B businesses in the gift card industry, helping to reduce costs and increase revenue with access to all our stock.\n" +
+      "  - 24/7 Availability: Our continuous availability of stock and customer support sets us apart in the market.\n\n" +
+      "For more information, visit: [EZ Stick](https://ezpin.com/)",
+    price: 1112.40,
+    related: "ezpin"
+  },
+  // Gamestop
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "GameStop Gift Card $5",
+    description:
+      "• About GameStop Gift Card (US):\n" +
+      "  GameStop Gift Cards contain store credit that can be used to purchase products at GameStop US stores, GameStop.com, EBgames.com, and Impulsedriven.com.\n\n" +
+      "• Shop GameStop:\n" +
+      "  GameStop is the world’s largest retail gaming destination for Xbox One X, PlayStation 4, and Nintendo Switch games, systems, consoles & accessories. Find everything from games, consoles, and accessories for PlayStation, Xbox, Wii, PC, 3DS, PS Vita, and more. Pre-order games and consoles and have them delivered straight to your door on the day that they release.\n\n" +
+      "• Gift Idea:\n" +
+      "  A GameStop Gift Card (US) is a great gift for gamers and video game lovers. Get your GameStop Gift Card (US) today!\n\n" +
+      "For more information, visit: [GameStop](https://www.gamestop.com)",
+    price: 5.66,
+    related: "gamestop"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "GameStop Gift Card $10",
+    description:
+      "• About GameStop Gift Card (US):\n" +
+      "  GameStop Gift Cards contain store credit that can be used to purchase products at GameStop US stores, GameStop.com, EBgames.com, and Impulsedriven.com.\n\n" +
+      "• Shop GameStop:\n" +
+      "  GameStop is the world’s largest retail gaming destination for Xbox One X, PlayStation 4, and Nintendo Switch games, systems, consoles & accessories. Find everything from games, consoles, and accessories for PlayStation, Xbox, Wii, PC, 3DS, PS Vita, and more. Pre-order games and consoles and have them delivered straight to your door on the day that they release.\n\n" +
+      "• Gift Idea:\n" +
+      "  A GameStop Gift Card (US) is a great gift for gamers and video game lovers. Get your GameStop Gift Card (US) today!\n\n" +
+      "For more information, visit: [GameStop](https://www.gamestop.com)",
+    price: 10.81,
+    related: "gamestop"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "GameStop Gift Card $25",
+    description:
+      "• About GameStop Gift Card (US):\n" +
+      "  GameStop Gift Cards contain store credit that can be used to purchase products at GameStop US stores, GameStop.com, EBgames.com, and Impulsedriven.com.\n\n" +
+      "• Shop GameStop:\n" +
+      "  GameStop is the world’s largest retail gaming destination for Xbox One X, PlayStation 4, and Nintendo Switch games, systems, consoles & accessories. Find everything from games, consoles, and accessories for PlayStation, Xbox, Wii, PC, 3DS, PS Vita, and more. Pre-order games and consoles and have them delivered straight to your door on the day that they release.\n\n" +
+      "• Gift Idea:\n" +
+      "  A GameStop Gift Card (US) is a great gift for gamers and video game lovers. Get your GameStop Gift Card (US) today!\n\n" +
+      "For more information, visit: [GameStop](https://www.gamestop.com)",
+    price: 26.26,
+    related: "gamestop"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "GameStop Gift Card $50",
+    description:
+      "• About GameStop Gift Card (US):\n" +
+      "  GameStop Gift Cards contain store credit that can be used to purchase products at GameStop US stores, GameStop.com, EBgames.com, and Impulsedriven.com.\n\n" +
+      "• Shop GameStop:\n" +
+      "  GameStop is the world’s largest retail gaming destination for Xbox One X, PlayStation 4, and Nintendo Switch games, systems, consoles & accessories. Find everything from games, consoles, and accessories for PlayStation, Xbox, Wii, PC, 3DS, PS Vita, and more. Pre-order games and consoles and have them delivered straight to your door on the day that they release.\n\n" +
+      "• Gift Idea:\n" +
+      "  A GameStop Gift Card (US) is a great gift for gamers and video game lovers. Get your GameStop Gift Card (US) today!\n\n" +
+      "For more information, visit: [GameStop](https://www.gamestop.com)",
+    price: 51.50,
+    related: "gamestop"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "GameStop Gift Card $100",
+    description:
+      "• About GameStop Gift Card (US):\n" +
+      "  GameStop Gift Cards contain store credit that can be used to purchase products at GameStop US stores, GameStop.com, EBgames.com, and Impulsedriven.com.\n\n" +
+      "• Shop GameStop:\n" +
+      "  GameStop is the world’s largest retail gaming destination for Xbox One X, PlayStation 4, and Nintendo Switch games, systems, consoles & accessories. Find everything from games, consoles, and accessories for PlayStation, Xbox, Wii, PC, 3DS, PS Vita, and more. Pre-order games and consoles and have them delivered straight to your door on the day that they release.\n\n" +
+      "• Gift Idea:\n" +
+      "  A GameStop Gift Card (US) is a great gift for gamers and video game lovers. Get your GameStop Gift Card (US) today!\n\n" +
+      "For more information, visit: [GameStop](https://www.gamestop.com)",
+    price: 103.00,
+    related: "gamestop"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "GameStop Gift Card $300",
+    description:
+      "• About GameStop Gift Card (US):\n" +
+      "  GameStop Gift Cards contain store credit that can be used to purchase products at GameStop US stores, GameStop.com, EBgames.com, and Impulsedriven.com.\n\n" +
+      "• Shop GameStop:\n" +
+      "  GameStop is the world’s largest retail gaming destination for Xbox One X, PlayStation 4, and Nintendo Switch games, systems, consoles & accessories. Find everything from games, consoles, and accessories for PlayStation, Xbox, Wii, PC, 3DS, PS Vita, and more. Pre-order games and consoles and have them delivered straight to your door on the day that they release.\n\n" +
+      "• Gift Idea:\n" +
+      "  A GameStop Gift Card (US) is a great gift for gamers and video game lovers. Get your GameStop Gift Card (US) today!\n\n" +
+      "For more information, visit: [GameStop](https://www.gamestop.com)",
+    price: 306.94,
+    related: "gamestop"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "GameStop Gift Card $500",
+    description:
+      "• About GameStop Gift Card (US):\n" +
+      "  GameStop Gift Cards contain store credit that can be used to purchase products at GameStop US stores, GameStop.com, EBgames.com, and Impulsedriven.com.\n\n" +
+      "• Shop GameStop:\n" +
+      "  GameStop is the world’s largest retail gaming destination for Xbox One X, PlayStation 4, and Nintendo Switch games, systems, consoles & accessories. Find everything from games, consoles, and accessories for PlayStation, Xbox, Wii, PC, 3DS, PS Vita, and more. Pre-order games and consoles and have them delivered straight to your door on the day that they release.\n\n" +
+      "• Gift Idea:\n" +
+      "  A GameStop Gift Card (US) is a great gift for gamers and video game lovers. Get your GameStop Gift Card (US) today!\n\n" +
+      "For more information, visit: [GameStop](https://www.gamestop.com)",
+    price: 509.85,
+    related: "gamestop"
+  },
+  // Shoshop
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SoShop.club €100",
+    description:
+      "• About SoShop.club:\n" +
+      "  SoShop.club offers a range of gift cards for use in Europe. These gift cards provide flexibility and ease of use for online and in-store purchases.\n\n" +
+      "• Region:\n" +
+      "  Europe",
+    price: 128.75,
+    related: "soshop"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SoShop.club €150",
+    description:
+      "• About SoShop.club:\n" +
+      "  SoShop.club offers a range of gift cards for use in Europe. These gift cards provide flexibility and ease of use for online and in-store purchases.\n\n" +
+      "• Region:\n" +
+      "  Europe",
+    price: 193.64,
+    related: "soshop"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "SoShop.club €250",
+    description:
+      "• About SoShop.club:\n" +
+      "  SoShop.club offers a range of gift cards for use in Europe. These gift cards provide flexibility and ease of use for online and in-store purchases.\n\n" +
+      "• Region:\n" +
+      "  Europe",
+    price: 319.00,
+    related: "soshop"
+  },
 ];
