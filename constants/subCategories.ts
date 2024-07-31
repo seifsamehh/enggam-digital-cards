@@ -554,6 +554,33 @@ export const subCategories = [
       },
     ],
   },
+  // TODO: Add payment with countries here
+  {
+    name: "Payment With Countries Cards",
+    sub: [
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "icash One Cards",
+        description: "Buy icash one cards",
+        path: "/home/payment-countries-cards/icash",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Neosurf Cards",
+        description: "Buy Neosurf Prepaid cards",
+        path: "/home/payment-countries-cards/Neosurf",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Flexepin Cards",
+        description: "Buy Flexepin cards",
+        path: "/home/payment-countries-cards/Flexepin",
+      },
+    ],
+  },
   {
     name: "Software Cards",
     sub: [

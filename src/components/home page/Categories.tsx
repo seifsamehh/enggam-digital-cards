@@ -78,6 +78,12 @@ const Categories = () => {
       icon: <Icon />,
     },
     {
+      title: "Payment With Countries Cards",
+      description: "Payment with countries cards are financial tools.",
+      href: "/home/payment-countries-cards",
+      icon: <Icon />,
+    },
+    {
       title: "Software Cards",
       description: "Software cards, are software license cards.",
       href: "/home/software-cards",
