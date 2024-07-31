@@ -79,7 +79,7 @@ const Categories = () => {
     },
     {
       title: "Payment With Countries Cards",
-      description: "Payment with countries cards are financial tools.",
+      description: "Payment cards are financial tools.",
       href: "/home/payment-countries-cards",
       icon: <Icon />,
     },

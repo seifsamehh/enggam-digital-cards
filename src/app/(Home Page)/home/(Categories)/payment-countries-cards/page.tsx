@@ -1,5 +1,5 @@
 import { Hero } from "@/components/categories/Hero";
-import GiftBoxs from "@/components/gift cards/GiftBoxs";
+import PaymentCountriesBoxs from "@/components/payment countries cards/PaymentCountriesBoxs";
 import Footer from "@/components/shared/Footer";
 import HeaderHome from "@/components/shared/HeaderHome";
 import { LoginLink } from "@kinde-oss/kinde-auth-nextjs/components";
@@ -27,10 +27,10 @@ const page = async () => {
       <HeaderHome />
       <section className="payment-countries-cards protected py-6">
         <Hero
-          h1Data="Paymnt With Countries Cards"
+          h1Data="Payment With Countries Cards"
           pData="Payment with countries cards are prepaid cards that can be used as an alternative to cash for purchases at specific stores or online platforms."
         />
-        <GiftBoxs />
+        <PaymentCountriesBoxs />
       </section>
       <Footer />
     </>
