@@ -118,6 +118,10 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
               <option value="UK">United Kingdom</option>
               <option value="Canada">Canada</option>
               <option value="New Zealand">New Zealand</option>
+              <option value="Germany">Germany</option>
+              <option value="Saudi Arabia">Saudi Arabia</option>
+              <option value="Turkey">Turkey</option>
+              <option value="Ireland">Ireland</option>
             </select>
           </div>
           <h1 className={`${tanker.className} text-3xl md:text-8xl`}>
@@ -165,6 +169,10 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
             <option value="UK">United Kingdom</option>
             <option value="Canada">Canada</option>
             <option value="New Zealand">New Zealand</option>
+            <option value="Germany">Germany</option>
+            <option value="Saudi Arabia">Saudi Arabia</option>
+            <option value="Turkey">Turkey</option>
+            <option value="Ireland">Ireland</option>
           </select>
         </div>
 

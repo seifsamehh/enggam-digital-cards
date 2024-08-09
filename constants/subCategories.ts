@@ -579,6 +579,13 @@ export const subCategories = [
         description: "Buy Flexepin cards",
         path: "/home/payment-countries-cards/Flexepin",
       },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Amazon Cards",
+        description: "Buy amazon cards",
+        path: "/home/payment-countries-cards/amazon",
+      },
     ],
   },
   {

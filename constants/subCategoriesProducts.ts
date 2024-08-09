@@ -20878,7 +20878,8 @@ export const subCategoryProducts = [
   // France
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 5 EUR Voucher France",
     description:
       "• About Neosurf Prepaid France (FR):\n" +
@@ -20892,11 +20893,12 @@ export const subCategoryProducts = [
       "  France",
     country: "France",
     price: 7.62,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 10 EUR Voucher France",
     description:
       "• About Neosurf Prepaid France (FR):\n" +
@@ -20910,11 +20912,12 @@ export const subCategoryProducts = [
       "  France",
     country: "France",
     price: 14.42,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 30 EUR Voucher France",
     description:
       "• About Neosurf Prepaid France (FR):\n" +
@@ -20927,12 +20930,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  France",
     country: "France",
-    price: 41.20,
-    related: "Neosurf"
+    price: 41.2,
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 50 EUR Voucher France",
     description:
       "• About Neosurf Prepaid France (FR):\n" +
@@ -20946,11 +20950,12 @@ export const subCategoryProducts = [
       "  France",
     country: "France",
     price: 66.95,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 100 EUR Voucher France",
     description:
       "• About Neosurf Prepaid France (FR):\n" +
@@ -20964,12 +20969,13 @@ export const subCategoryProducts = [
       "  France",
     country: "France",
     price: 132.87,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   // Denmark
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 100 DKK Voucher Denmark",
     description:
       "• About Neosurf Prepaid Denmark (DK):\n" +
@@ -20983,12 +20989,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Denmark",
     country: "Denmark",
-    price: 15.70,
-    related: "Neosurf"
+    price: 15.7,
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 300 DKK Voucher Denmark",
     description:
       "• About Neosurf Prepaid Denmark (DK):\n" +
@@ -21003,11 +21010,12 @@ export const subCategoryProducts = [
       "  Denmark",
     country: "Denmark",
     price: 46.93,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 500 DKK Voucher Denmark",
     description:
       "• About Neosurf Prepaid Denmark (DK):\n" +
@@ -21022,12 +21030,13 @@ export const subCategoryProducts = [
       "  Denmark",
     country: "Denmark",
     price: 78.15,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   // Norway
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 100 NOK Voucher Norway",
     description:
       "• About Neosurf Prepaid Norway (NO):\n" +
@@ -21043,11 +21052,12 @@ export const subCategoryProducts = [
       "  Norway",
     country: "Norway",
     price: 12.35,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 250 NOK Voucher Norway",
     description:
       "• About Neosurf Prepaid Norway (NO):\n" +
@@ -21062,13 +21072,14 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Norway",
     country: "Norway",
-    price: 30.90,
-    related: "Neosurf"
+    price: 30.9,
+    related: "Neosurf",
   },
   // Poland
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 20 PLN Voucher Poland",
     description:
       "• About Neosurf Prepaid Poland (PL):\n" +
@@ -21084,11 +21095,12 @@ export const subCategoryProducts = [
       "  Poland",
     country: "Poland",
     price: 5.46,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 50 PLN Voucher Poland",
     description:
       "• About Neosurf Prepaid Poland (PL):\n" +
@@ -21104,11 +21116,12 @@ export const subCategoryProducts = [
       "  Poland",
     country: "Poland",
     price: 13.43,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 100 PLN Voucher Poland",
     description:
       "• About Neosurf Prepaid Poland (PL):\n" +
@@ -21123,12 +21136,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Poland",
     country: "Poland",
-    price: 15.70,
-    related: "Neosurf"
+    price: 15.7,
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 200 PLN Voucher Poland",
     description:
       "• About Neosurf Prepaid Poland (PL):\n" +
@@ -21144,11 +21158,12 @@ export const subCategoryProducts = [
       "  Poland",
     country: "Poland",
     price: 53.56,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 500 PLN Voucher Poland",
     description:
       "• About Neosurf Prepaid Poland (PL):\n" +
@@ -21164,12 +21179,13 @@ export const subCategoryProducts = [
       "  Poland",
     country: "Poland",
     price: 133.26,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   // Sweden
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 100 SEK Voucher Sweden",
     description:
       "• About Neosurf Prepaid Sweden (SE):\n" +
@@ -21185,11 +21201,12 @@ export const subCategoryProducts = [
       "  Sweden",
     country: "Sweden",
     price: 10.42,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 250 SEK Voucher Sweden",
     description:
       "• About Neosurf Prepaid Sweden (SE):\n" +
@@ -21204,12 +21221,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Sweden",
     country: "Sweden",
-    price: 25.80,
-    related: "Neosurf"
+    price: 25.8,
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 500 SEK Voucher Sweden",
     description:
       "• About Neosurf Prepaid Sweden (SE):\n" +
@@ -21224,13 +21242,14 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Sweden",
     country: "Sweden",
-    price: 51.10,
-    related: "Neosurf"
+    price: 51.1,
+    related: "Neosurf",
   },
   // Australia
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 10 AUD Voucher Australia",
     description:
       "• About Neosurf Prepaid Australia (AUD):\n" +
@@ -21245,12 +21264,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Australia",
     country: "Australia",
-    price: 8.00,
-    related: "Neosurf"
+    price: 8.0,
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 20 AUD Voucher Australia",
     description:
       "• About Neosurf Prepaid Australia (AUD):\n" +
@@ -21266,11 +21286,12 @@ export const subCategoryProducts = [
       "  Australia",
     country: "Australia",
     price: 15.45,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 50 AUD Voucher Australia",
     description:
       "• About Neosurf Prepaid Australia (AUD):\n" +
@@ -21286,11 +21307,12 @@ export const subCategoryProducts = [
       "  Australia",
     country: "Australia",
     price: 36.56,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 100 AUD Voucher Australia",
     description:
       "• About Neosurf Prepaid Australia (AUD):\n" +
@@ -21306,12 +21328,13 @@ export const subCategoryProducts = [
       "  Australia",
     country: "Australia",
     price: 73.13,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   // Europe
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 5 EUR Voucher Europe",
     description:
       "• About Neosurf Prepaid Europe (EU):\n" +
@@ -21325,11 +21348,12 @@ export const subCategoryProducts = [
       "  Europe (EU)",
     country: "Europe",
     price: 5.97,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 10 EUR Voucher Europe",
     description:
       "• About Neosurf Prepaid Europe (EU):\n" +
@@ -21343,11 +21367,12 @@ export const subCategoryProducts = [
       "  Europe (EU)",
     country: "Europe",
     price: 12.36,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 15 EUR Voucher Europe",
     description:
       "• About Neosurf Prepaid Europe (EU):\n" +
@@ -21360,12 +21385,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Europe (EU)",
     country: "Europe",
-    price: 18.00,
-    related: "Neosurf"
+    price: 18.0,
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 30 EUR Voucher Europe",
     description:
       "• About Neosurf Prepaid Europe (EU):\n" +
@@ -21378,12 +21404,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Europe (EU)",
     country: "Europe",
-    price: 35.00,
-    related: "Neosurf"
+    price: 35.0,
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 50 EUR Voucher Europe",
     description:
       "• About Neosurf Prepaid Europe (EU):\n" +
@@ -21396,12 +21423,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Europe (EU)",
     country: "Europe",
-    price: 58.20,
-    related: "Neosurf"
+    price: 58.2,
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 100 EUR Voucher Europe",
     description:
       "• About Neosurf Prepaid Europe (EU):\n" +
@@ -21415,12 +21443,13 @@ export const subCategoryProducts = [
       "  Europe (EU)",
     country: "Europe",
     price: 116.39,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   // Uk
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 15 GBP Voucher United Kingdom",
     description:
       "• About Neosurf Prepaid United Kingdom (UK):\n" +
@@ -21434,11 +21463,12 @@ export const subCategoryProducts = [
       "  United Kingdom (UK)",
     country: "UK",
     price: 20.55,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 20 GBP Voucher United Kingdom",
     description:
       "• About Neosurf Prepaid United Kingdom (UK):\n" +
@@ -21452,11 +21482,12 @@ export const subCategoryProducts = [
       "  United Kingdom (UK)",
     country: "UK",
     price: 27.35,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 50 GBP Voucher United Kingdom",
     description:
       "• About Neosurf Prepaid United Kingdom (UK):\n" +
@@ -21470,11 +21501,12 @@ export const subCategoryProducts = [
       "  United Kingdom (UK)",
     country: "UK",
     price: 68.18,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Neosurf 100 GBP Voucher United Kingdom",
     description:
       "• About Neosurf Prepaid United Kingdom (UK):\n" +
@@ -21488,13 +21520,14 @@ export const subCategoryProducts = [
       "  United Kingdom (UK)",
     country: "UK",
     price: 136.38,
-    related: "Neosurf"
+    related: "Neosurf",
   },
   // Flexepin
   // USA
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $10 Voucher United States",
     description:
       "• About Flexepin:\n" +
@@ -21508,11 +21541,12 @@ export const subCategoryProducts = [
       "  United States (US)",
     country: "USA",
     price: 11.33,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $20 Voucher United States",
     description:
       "• About Flexepin:\n" +
@@ -21526,11 +21560,12 @@ export const subCategoryProducts = [
       "  United States (US)",
     country: "USA",
     price: 22.66,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $30 Voucher United States",
     description:
       "• About Flexepin:\n" +
@@ -21544,11 +21579,12 @@ export const subCategoryProducts = [
       "  United States (US)",
     country: "USA",
     price: 32.96,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $50 Voucher United States",
     description:
       "• About Flexepin:\n" +
@@ -21562,11 +21598,12 @@ export const subCategoryProducts = [
       "  United States (US)",
     country: "USA",
     price: 56.65,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $100 Voucher United States",
     description:
       "• About Flexepin:\n" +
@@ -21579,12 +21616,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  United States (US)",
     country: "USA",
-    price: 113.30,
-    related: "Flexepin"
+    price: 113.3,
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $150 Voucher United States",
     description:
       "• About Flexepin:\n" +
@@ -21597,13 +21635,14 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  United States (US)",
     country: "USA",
-    price: 164.80,
-    related: "Flexepin"
+    price: 164.8,
+    related: "Flexepin",
   },
   // Uk
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin £10 Voucher United Kingdom",
     description:
       "• About Flexepin:\n" +
@@ -21617,11 +21656,12 @@ export const subCategoryProducts = [
       "  United Kingdom (UK)",
     country: "UK",
     price: 13.39,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin £20 Voucher United Kingdom",
     description:
       "• About Flexepin:\n" +
@@ -21635,11 +21675,12 @@ export const subCategoryProducts = [
       "  United Kingdom (UK)",
     country: "UK",
     price: 24.72,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin £30 Voucher United Kingdom",
     description:
       "• About Flexepin:\n" +
@@ -21653,11 +21694,12 @@ export const subCategoryProducts = [
       "  United Kingdom (UK)",
     country: "UK",
     price: 35.56,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin £50 Voucher United Kingdom",
     description:
       "• About Flexepin:\n" +
@@ -21671,11 +21713,12 @@ export const subCategoryProducts = [
       "  United Kingdom (UK)",
     country: "UK",
     price: 59.74,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin £100 Voucher United Kingdom",
     description:
       "• About Flexepin:\n" +
@@ -21688,12 +21731,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  United Kingdom (UK)",
     country: "UK",
-    price: 123.60,
-    related: "Flexepin"
+    price: 123.6,
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin £150 Voucher United Kingdom",
     description:
       "• About Flexepin:\n" +
@@ -21706,13 +21750,14 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  United Kingdom (UK)",
     country: "UK",
-    price: 185.40,
-    related: "Flexepin"
+    price: 185.4,
+    related: "Flexepin",
   },
   // Europe
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin €10 Voucher Europe",
     description:
       "• About Flexepin:\n" +
@@ -21726,11 +21771,12 @@ export const subCategoryProducts = [
       "  Europe (EU)",
     country: "Europe",
     price: 13.39,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin €20 Voucher Europe",
     description:
       "• About Flexepin:\n" +
@@ -21744,11 +21790,12 @@ export const subCategoryProducts = [
       "  Europe (EU)",
     country: "Europe",
     price: 25.75,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin €30 Voucher Europe",
     description:
       "• About Flexepin:\n" +
@@ -21761,12 +21808,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Europe (EU)",
     country: "Europe",
-    price: 37.00,
-    related: "Flexepin"
+    price: 37.0,
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin €50 Voucher Europe",
     description:
       "• About Flexepin:\n" +
@@ -21779,12 +21827,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Europe (EU)",
     country: "Europe",
-    price: 61.80,
-    related: "Flexepin"
+    price: 61.8,
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin €100 Voucher Europe",
     description:
       "• About Flexepin:\n" +
@@ -21797,13 +21846,14 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Europe (EU)",
     country: "Europe",
-    price: 123.60,
-    related: "Flexepin"
+    price: 123.6,
+    related: "Flexepin",
   },
   // Canada
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $20 CAD Voucher Canada",
     description:
       "• About Flexepin:\n" +
@@ -21817,11 +21867,12 @@ export const subCategoryProducts = [
       "  Canada (CA)",
     country: "Canada",
     price: 16.15,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $30 CAD Voucher Canada",
     description:
       "• About Flexepin:\n" +
@@ -21835,11 +21886,12 @@ export const subCategoryProducts = [
       "  Canada (CA)",
     country: "Canada",
     price: 24.72,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $50 CAD Voucher Canada",
     description:
       "• About Flexepin:\n" +
@@ -21853,11 +21905,12 @@ export const subCategoryProducts = [
       "  Canada (CA)",
     country: "Canada",
     price: 50.45,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $100 CAD Voucher Canada",
     description:
       "• About Flexepin:\n" +
@@ -21870,13 +21923,14 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Canada (CA)",
     country: "Canada",
-    price: 78.80,
-    related: "Flexepin"
+    price: 78.8,
+    related: "Flexepin",
   },
   // Australia
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $20 AUD Voucher Australia",
     description:
       "• About Flexepin:\n" +
@@ -21890,11 +21944,12 @@ export const subCategoryProducts = [
       "  Australia (AU)",
     country: "Australia",
     price: 15.96,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $30 AUD Voucher Australia",
     description:
       "• About Flexepin:\n" +
@@ -21907,12 +21962,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Australia (AU)",
     country: "Australia",
-    price: 21.40,
-    related: "Flexepin"
+    price: 21.4,
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $50 AUD Voucher Australia",
     description:
       "• About Flexepin:\n" +
@@ -21925,12 +21981,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  Australia (AU)",
     country: "Australia",
-    price: 35.00,
-    related: "Flexepin"
+    price: 35.0,
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $100 AUD Voucher Australia",
     description:
       "• About Flexepin:\n" +
@@ -21944,12 +22001,13 @@ export const subCategoryProducts = [
       "  Australia (AU)",
     country: "Australia",
     price: 67.98,
-    related: "Flexepin"
+    related: "Flexepin",
   },
   // New Zealand
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $20 NZD Voucher New Zealand",
     description:
       "• About Flexepin:\n" +
@@ -21962,12 +22020,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  New Zealand (NZ)",
     country: "New Zealand",
-    price: 14.40,
-    related: "Flexepin"
+    price: 14.4,
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $50 NZD Voucher New Zealand",
     description:
       "• About Flexepin:\n" +
@@ -21980,12 +22039,13 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  New Zealand (NZ)",
     country: "New Zealand",
-    price: 36.00,
-    related: "Flexepin"
+    price: 36.0,
+    related: "Flexepin",
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
     name: "Flexepin $100 NZD Voucher New Zealand",
     description:
       "• About Flexepin:\n" +
@@ -21998,7 +22058,1429 @@ export const subCategoryProducts = [
       "• Region:\n" +
       "  New Zealand (NZ)",
     country: "New Zealand",
-    price: 72.10,
-    related: "Flexepin"
+    price: 72.1,
+    related: "Flexepin",
+  },
+  // Amazon
+  // Egypt
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Egypt EGP 100 Gift Card",
+    description:
+      "• About Amazon Egypt Gift Card:\n" +
+      "  Amazon Egypt Blessing Cards never lapse and can be used towards millions of items on www.amazon.eg.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Visit www.amazon.eg/redeem.\n" +
+      "  2. Enter the Claim Code when prompted.\n" +
+      "  3. The gift card balance will be automatically applied to eligible orders during checkout.\n" +
+      "  4. Any remaining balance must be paid with another payment method.\n" +
+      "  The Claim Code may also be entered during checkout.\n\n" +
+      "• Region:\n" +
+      "  Egypt (EG)",
+    country: "Egypt",
+    price: 21.0,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Egypt EGP 500 Gift Card",
+    description:
+      "• About Amazon Egypt Gift Card:\n" +
+      "  Amazon Egypt Blessing Cards never lapse and can be used towards millions of items on www.amazon.eg.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Visit www.amazon.eg/redeem.\n" +
+      "  2. Enter the Claim Code when prompted.\n" +
+      "  3. The gift card balance will be automatically applied to eligible orders during checkout.\n" +
+      "  4. Any remaining balance must be paid with another payment method.\n" +
+      "  The Claim Code may also be entered during checkout.\n\n" +
+      "• Region:\n" +
+      "  Egypt (EG)",
+    country: "Egypt",
+    price: 11.22,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Egypt EGP 6000 Gift Card",
+    description:
+      "• About Amazon Egypt Gift Card:\n" +
+      "  Amazon Egypt Blessing Cards never lapse and can be used towards millions of items on www.amazon.eg.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Visit www.amazon.eg/redeem.\n" +
+      "  2. Enter the Claim Code when prompted.\n" +
+      "  3. The gift card balance will be automatically applied to eligible orders during checkout.\n" +
+      "  4. Any remaining balance must be paid with another payment method.\n" +
+      "  The Claim Code may also be entered during checkout.\n\n" +
+      "• Region:\n" +
+      "  Egypt (EG)",
+    country: "Egypt",
+    price: 133.9,
+    related: "amazon",
+  },
+  // USA
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon USA $5 Gift Card",
+    description:
+      "• About Amazon USA Gift Card:\n" +
+      "  Amazon Blessing Card USD (US) is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United States (US)",
+    country: "USA",
+    price: 5.2,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon USA $10 Gift Card",
+    description:
+      "• About Amazon USA Gift Card:\n" +
+      "  Amazon Blessing Card USD (US) is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United States (US)",
+    country: "USA",
+    price: 10.3,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon USA $25 Gift Card",
+    description:
+      "• About Amazon USA Gift Card:\n" +
+      "  Amazon Blessing Card USD (US) is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United States (US)",
+    country: "USA",
+    price: 25.75,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon USA $50 Gift Card",
+    description:
+      "• About Amazon USA Gift Card:\n" +
+      "  Amazon Blessing Card USD (US) is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United States (US)",
+    country: "USA",
+    price: 51.5,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon USA $100 Gift Card",
+    description:
+      "• About Amazon USA Gift Card:\n" +
+      "  Amazon Blessing Card USD (US) is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n" +
+      "  It's also a perfect gift for loved ones, allowing them to buy exactly what they need. The card is redeemable toward millions of items at Amazon.com, has no fees, and never expires. Unused balances remain in the account for future use.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United States (US)",
+    country: "USA",
+    price: 103.0,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon USA $300 Gift Card",
+    description:
+      "• About Amazon USA Gift Card:\n" +
+      "  Amazon Blessing Card USD (US) is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United States (US)",
+    country: "USA",
+    price: 309.0,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon USA $500 Gift Card",
+    description:
+      "• About Amazon USA Gift Card:\n" +
+      "  Amazon Blessing Card USD (US) is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United States (US)",
+    country: "USA",
+    price: 515.0,
+    related: "amazon",
+  },
+  // UK
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UK £5 Gift Card",
+    description:
+      "• About Amazon UK Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Tap “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and press “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Kingdom (UK)",
+    country: "UK",
+    price: 7.21,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UK £10 Gift Card",
+    description:
+      "• About Amazon UK Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Tap “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and press “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Kingdom (UK)",
+    country: "UK",
+    price: 14.11,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UK £15 Gift Card",
+    description:
+      "• About Amazon UK Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Tap “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and press “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Kingdom (UK)",
+    country: "UK",
+    price: 21.11,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UK £20 Gift Card",
+    description:
+      "• About Amazon UK Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Tap “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and press “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Kingdom (UK)",
+    country: "UK",
+    price: 27.81,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UK £25 Gift Card",
+    description:
+      "• About Amazon UK Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Tap “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and press “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Kingdom (UK)",
+    country: "UK",
+    price: 35.02,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UK £50 Gift Card",
+    description:
+      "• About Amazon UK Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Tap “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and press “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Kingdom (UK)",
+    country: "UK",
+    price: 69.5,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UK £100 Gift Card",
+    description:
+      "• About Amazon UK Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Tap “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and press “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Kingdom (UK)",
+    country: "UK",
+    price: 138.02,
+    related: "amazon",
+  },
+  // Australia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon AU $5 Gift Card",
+    description:
+      "• About Amazon AU Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Press “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and tap “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Australia (AU)",
+    country: "Australia",
+    price: 4.12,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon AU $10 Gift Card",
+    description:
+      "• About Amazon AU Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Press “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and tap “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Australia (AU)",
+    country: "Australia",
+    price: 7.7,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon AU $25 Gift Card",
+    description:
+      "• About Amazon AU Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Press “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and tap “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Australia (AU)",
+    country: "Australia",
+    price: 19.0,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon AU $50 Gift Card",
+    description:
+      "• About Amazon AU Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Press “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and tap “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Australia (AU)",
+    country: "Australia",
+    price: 37.8,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon AU $100 Gift Card",
+    description:
+      "• About Amazon AU Gift Card:\n" +
+      "  Amazon Blessing Card is the most convenient way to shop and save online. Amazon is the world's largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Find the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Press “Apply a Blessing Card to Your Account”.\n" +
+      "  4. Enter your claim code and tap “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Australia (AU)",
+    country: "Australia",
+    price: 74.16,
+    related: "amazon",
+  },
+  // Canada
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon CA $1 Gift Card",
+    description:
+      "• About Amazon CA Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Canada (CA)",
+    country: "Canada",
+    price: 1.23,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon CA $2 Gift Card",
+    description:
+      "• About Amazon CA Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Canada (CA)",
+    country: "Canada",
+    price: 2.06,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon CA $3 Gift Card",
+    description:
+      "• About Amazon CA Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Canada (CA)",
+    country: "Canada",
+    price: 2.98,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon CA $5 Gift Card",
+    description:
+      "• About Amazon CA Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Canada (CA)",
+    country: "Canada",
+    price: 5.1,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon CA $10 Gift Card",
+    description:
+      "• About Amazon CA Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Canada (CA)",
+    country: "Canada",
+    price: 8.75,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon CA $15 Gift Card",
+    description:
+      "• About Amazon CA Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Canada (CA)",
+    country: "Canada",
+    price: 13.39,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon CA $20 Gift Card",
+    description:
+      "• About Amazon CA Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Canada (CA)",
+    country: "Canada",
+    price: 17.5,
+    related: "amazon",
+  },
+  // Germany
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €5 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 6.18,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €10 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 11.33,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €15 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 16.98,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €20 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 23.17,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €25 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 27.81,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €35 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 39.44,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €40 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 45.32,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €50 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 55.62,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €75 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 85.49,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon DE €100 Gift Card",
+    description:
+      "• About Amazon DE Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Germany (DE)",
+    country: "Germany",
+    price: 113.3,
+    related: "amazon",
+  },
+  // UAE
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UAE 5 AED Gift Card",
+    description:
+      "• About Amazon UAE Gift Card:\n" +
+      "  بطاقات امازون دوله الامارات العربيه المتحده. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Arab Emirates (UAE)",
+    country: "UAE",
+    price: 1.64,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UAE 10 AED Gift Card",
+    description:
+      "• About Amazon UAE Gift Card:\n" +
+      "  بطاقات امازون دوله الامارات العربيه المتحده. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Arab Emirates (UAE)",
+    country: "UAE",
+    price: 3.19,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UAE 25 AED Gift Card",
+    description:
+      "• About Amazon UAE Gift Card:\n" +
+      "  بطاقات امازون دوله الامارات العربيه المتحده. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Arab Emirates (UAE)",
+    country: "UAE",
+    price: 7.41,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UAE 50 AED Gift Card",
+    description:
+      "• About Amazon UAE Gift Card:\n" +
+      "  بطاقات امازون دوله الامارات العربيه المتحده. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Arab Emirates (UAE)",
+    country: "UAE",
+    price: 14.21,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UAE 150 AED Gift Card",
+    description:
+      "• About Amazon UAE Gift Card:\n" +
+      "  بطاقات امازون دوله الامارات العربيه المتحده. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Arab Emirates (UAE)",
+    country: "UAE",
+    price: 44.29,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UAE 200 AED Gift Card",
+    description:
+      "• About Amazon UAE Gift Card:\n" +
+      "  بطاقات امازون دوله الامارات العربيه المتحده. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Arab Emirates (UAE)",
+    country: "UAE",
+    price: 56.65,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UAE 250 AED Gift Card",
+    description:
+      "• About Amazon UAE Gift Card:\n" +
+      "  بطاقات امازون دوله الامارات العربيه المتحده. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Arab Emirates (UAE)",
+    country: "UAE",
+    price: 71.0,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UAE 2000 AED Gift Card",
+    description:
+      "• About Amazon UAE Gift Card:\n" +
+      "  بطاقات امازون دوله الامارات العربيه المتحده. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Arab Emirates (UAE)",
+    country: "UAE",
+    price: 570.0,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon UAE 6000 AED Gift Card",
+    description:
+      "• About Amazon UAE Gift Card:\n" +
+      "  بطاقات امازون دوله الامارات العربيه المتحده. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  United Arab Emirates (UAE)",
+    country: "UAE",
+    price: 1678.9,
+    related: "amazon",
+  },
+  // Saudi Arabia
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Saudi Arabia 5 SAR Gift Card",
+    description:
+      "• About Amazon Saudi Arabia Gift Card:\n" +
+      "  بطاقات امازون السعوديه. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Saudi Arabia (SA)",
+    country: "Saudi Arabia",
+    price: 1.64,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Saudi Arabia 10 SAR Gift Card",
+    description:
+      "• About Amazon Saudi Arabia Gift Card:\n" +
+      "  بطاقات امازون السعوديه. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Saudi Arabia (SA)",
+    country: "Saudi Arabia",
+    price: 3.6,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Saudi Arabia 25 SAR Gift Card",
+    description:
+      "• About Amazon Saudi Arabia Gift Card:\n" +
+      "  بطاقات امازون السعوديه. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Saudi Arabia (SA)",
+    country: "Saudi Arabia",
+    price: 7.41,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Saudi Arabia 50 SAR Gift Card",
+    description:
+      "• About Amazon Saudi Arabia Gift Card:\n" +
+      "  بطاقات امازون السعوديه. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Saudi Arabia (SA)",
+    country: "Saudi Arabia",
+    price: 14.11,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Saudi Arabia 100 SAR Gift Card",
+    description:
+      "• About Amazon Saudi Arabia Gift Card:\n" +
+      "  بطاقات امازون السعوديه. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Saudi Arabia (SA)",
+    country: "Saudi Arabia",
+    price: 28.84,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Saudi Arabia 500 SAR Gift Card",
+    description:
+      "• About Amazon Saudi Arabia Gift Card:\n" +
+      "  بطاقات امازون السعوديه. Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Saudi Arabia (SA)",
+    country: "Saudi Arabia",
+    price: 140.0,
+    related: "amazon",
+  },
+  // Turkey
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Turkey 25 TYR Gift Card",
+    description:
+      "• About Amazon Turkey Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Turkey (TR)",
+    country: "Turkey",
+    price: 2.26,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Turkey 50 TYR Gift Card",
+    description:
+      "• About Amazon Turkey Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Turkey (TR)",
+    country: "Turkey",
+    price: 3.91,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Turkey 100 TYR Gift Card",
+    description:
+      "• About Amazon Turkey Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Turkey (TR)",
+    country: "Turkey",
+    price: 7.5,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Turkey 250 TYR Gift Card",
+    description:
+      "• About Amazon Turkey Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Turkey (TR)",
+    country: "Turkey",
+    price: 17.5,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Turkey 1000 TYR Gift Card",
+    description:
+      "• About Amazon Turkey Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Turkey (TR)",
+    country: "Turkey",
+    price: 66.95,
+    related: "amazon",
+  },
+  // France
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 1 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 1.44,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 2 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 2.67,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 3 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 3.81,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 4 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 4.84,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 5 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 5.66,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 10 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 11.63,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 15 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 17.5,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 20 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 26.16,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 25 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 27.81,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 50 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 56.65,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 100 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 113.3,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon France 250 EURO Gift Card",
+    description:
+      "• About Amazon France Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  France (FR)",
+    country: "France",
+    price: 285.31,
+    related: "amazon",
+  },
+  // Ireland
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Ireland 5 EUR Gift Card",
+    description:
+      "• About Amazon Ireland Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Ireland (IE)",
+    country: "Ireland",
+    price: 6.69,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Ireland 10 EUR Gift Card",
+    description:
+      "• About Amazon Ireland Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Ireland (IE)",
+    country: "Ireland",
+    price: 13.0,
+    related: "amazon",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Amazon Ireland 20 EUR Gift Card",
+    description:
+      "• About Amazon Ireland Gift Card:\n" +
+      "  Amazon Gift Card is the most convenient way to shop and save online. Amazon is the world’s largest online retailer, offering nearly everything you can imagine at competitive prices.\n\n" +
+      "• How to Redeem:\n" +
+      "  1. Locate the claim code.\n" +
+      "  2. Go to Your Account.\n" +
+      "  3. Click “Apply a Gift Card to Your Account”.\n" +
+      "  4. Enter your claim code and click “Apply to Your Account”.\n\n" +
+      "• Region:\n" +
+      "  Ireland (IE)",
+    country: "Ireland",
+    price: 26.16,
+    related: "amazon",
   },
 ];
