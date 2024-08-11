@@ -41,7 +41,7 @@ const Checkout = () => {
   const customerProfileId = user ? user.id : "";
 
   // USD currency
-  const USDcurrency = 53.0;
+  const USDcurrency = 52.0;
   const fees = 1.025;
 
   const router = useRouter();
