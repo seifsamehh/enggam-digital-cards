@@ -586,6 +586,13 @@ export const subCategories = [
         description: "Buy amazon cards",
         path: "/home/payment-countries-cards/amazon",
       },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Carrefour Cards",
+        description: "Buy carrefour cards",
+        path: "/home/payment-countries-cards/carrefour",
+      },
     ],
   },
   {

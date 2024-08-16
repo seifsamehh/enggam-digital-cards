@@ -23483,4 +23483,781 @@ export const subCategoryProducts = [
     price: 26.16,
     related: "amazon",
   },
+  // Carrfour
+  // Egypt
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Egypt 100 LE Gift Card",
+    description:
+      "• About Carrefour Egypt Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Egypt and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will check the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Egypt",
+    price: 2.67,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Egypt 500 LE Gift Card",
+    description:
+      "• About Carrefour Egypt Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Egypt and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will check the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Egypt",
+    price: 12.77,
+    related: "carrefour",
+  },
+  // Poland
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Poland 20 PLN Gift Card",
+    description:
+      "• About Carrefour Poland Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Poland and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Poland",
+    price: 5.66,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Poland 50 PLN Gift Card",
+    description:
+      "• About Carrefour Poland Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Poland and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Poland",
+    price: 13.59,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Poland 100 PLN Gift Card",
+    description:
+      "• About Carrefour Poland Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Poland and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Poland",
+    price: 27.19,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Poland 200 PLN Gift Card",
+    description:
+      "• About Carrefour Poland Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Poland and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Poland",
+    price: 54.43,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Poland 500 PLN Gift Card",
+    description:
+      "• About Carrefour Poland Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Poland and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Poland",
+    price: 135.85,
+    related: "carrefour",
+  },
+  // Romania
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Romania 100 RON Gift Card",
+    description:
+      "• About Carrefour Romania Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Romania and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Romania",
+    price: 23.79,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Romania 200 RON Gift Card",
+    description:
+      "• About Carrefour Romania Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Romania and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Romania",
+    price: 47.58,
+    related: "carrefour",
+  },
+  // Taiwan
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Taiwan 500 TWD Gift Card",
+    description:
+      "• About Carrefour Taiwan Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Taiwan and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Taiwan",
+    price: 19.46,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Taiwan 1000 TWD Gift Card",
+    description:
+      "• About Carrefour Taiwan Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Taiwan and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Taiwan",
+    price: 37.8,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Taiwan 2000 TWD Gift Card",
+    description:
+      "• About Carrefour Taiwan Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Taiwan and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Taiwan",
+    price: 73.95,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Taiwan 3000 TWD Gift Card",
+    description:
+      "• About Carrefour Taiwan Gift Card:\n" +
+      "  Carrefour blessing vouchers are valid in any Carrefour or Carrefour Market listed in Taiwan and are not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "Taiwan",
+    price: 110.51,
+    related: "carrefour",
+  },
+  // UAE
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Arab Emirates 50 AED Gift Card",
+    description:
+      "• About Carrefour Arab Emirates Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in Arab Emirates and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "UAE",
+    price: 14.42,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Arab Emirates 100 AED Gift Card",
+    description:
+      "• About Carrefour Arab Emirates Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in Arab Emirates and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "UAE",
+    price: 28.84,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Arab Emirates 200 AED Gift Card",
+    description:
+      "• About Carrefour Arab Emirates Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in Arab Emirates and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "UAE",
+    price: 57.68,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Arab Emirates 500 AED Gift Card",
+    description:
+      "• About Carrefour Arab Emirates Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in Arab Emirates and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "UAE",
+    price: 143.17,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Arab Emirates 1000 AED Gift Card",
+    description:
+      "• About Carrefour Arab Emirates Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in Arab Emirates and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "UAE",
+    price: 285.3,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Arab Emirates 1500 AED Gift Card",
+    description:
+      "• About Carrefour Arab Emirates Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in Arab Emirates and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "UAE",
+    price: 427.0,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Arab Emirates 2000 AED Gift Card",
+    description:
+      "• About Carrefour Arab Emirates Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in Arab Emirates and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Display the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then press on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "UAE",
+    price: 569.0,
+    related: "carrefour",
+  },
+  // France
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour France 10 EUR Gift Card",
+    description:
+      "• About Carrefour France Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in France and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Press on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "France",
+    price: 11.2,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour France 15 EUR Gift Card",
+    description:
+      "• About Carrefour France Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in France and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Press on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "France",
+    price: 16.68,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour France 20 EUR Gift Card",
+    description:
+      "• About Carrefour France Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in France and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Press on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "France",
+    price: 22.45,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour France 30 EUR Gift Card",
+    description:
+      "• About Carrefour France Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in France and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Press on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "France",
+    price: 33.68,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour France 40 EUR Gift Card",
+    description:
+      "• About Carrefour France Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in France and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Press on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "France",
+    price: 44.9,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour France 50 EUR Gift Card",
+    description:
+      "• About Carrefour France Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in France and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Press on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "France",
+    price: 55.6,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour France 100 EUR Gift Card",
+    description:
+      "• About Carrefour France Gift Card:\n" +
+      "  This Carrefour blessing card is valid in any Carrefour or Carrefour Market listed in France and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour app.\n" +
+      "  2. Press on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have the option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour app.",
+    country: "France",
+    price: 110.7,
+    related: "carrefour",
+  },
+  // Italy
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Italy 5 EUR Gift Card",
+    description:
+      "• About Carrefour Italy Gift Card:\n" +
+      "  This Carrefour Italy gift card is valid in any Carrefour or Carrefour Market listed in Italy and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Present the original gift card at the cash counter.\n" +
+      "  3. Staff will scan the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour application.\n" +
+      "  2. Click on the bottom 'More', scroll down, then click on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have an option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour application.",
+    country: "Italy",
+    price: 5.97,
+    related: "carrefour",
+  },
+  // Turkey
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Turkey 100 TRY Gift Card",
+    description:
+      "• About Carrefour Turkey Gift Card:\n" +
+      "  This Carrefour Turkey gift card is valid in any Carrefour or Carrefour Market listed in Turkey and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will check the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour application.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have an option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour application.",
+    country: "Turkey",
+    price: 4.12,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Turkey 250 TRY Gift Card",
+    description:
+      "• About Carrefour Turkey Gift Card:\n" +
+      "  This Carrefour Turkey gift card is valid in any Carrefour or Carrefour Market listed in Turkey and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will check the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour application.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have an option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour application.",
+    country: "Turkey",
+    price: 10.3,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Turkey 500 TRY Gift Card",
+    description:
+      "• About Carrefour Turkey Gift Card:\n" +
+      "  This Carrefour Turkey gift card is valid in any Carrefour or Carrefour Market listed in Turkey and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will check the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour application.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have an option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour application.",
+    country: "Turkey",
+    price: 20.6,
+    related: "carrefour",
+  },
+  {
+    id: generateUniqueId(),
+    image:
+      "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Carrefour Turkey 1000 TRY Gift Card",
+    description:
+      "• About Carrefour Turkey Gift Card:\n" +
+      "  This Carrefour Turkey gift card is valid in any Carrefour or Carrefour Market listed in Turkey and is not valid in any other country.\n\n" +
+      "• How to Redeem:\n" +
+      "  Offline:\n" +
+      "  1. Visit Carrefour stores.\n" +
+      "  2. Show the original gift card at the cash counter.\n" +
+      "  3. Staff will check the gift card for checkout.\n\n" +
+      "  Online:\n" +
+      "  1. Go to the Carrefour application.\n" +
+      "  2. Tap on the 'More' section at the bottom, scroll down, and then tap on Carrefour Wallet.\n" +
+      "  3. Input the gift card number and PIN code; the gift card value will be added to your wallet.\n" +
+      "  4. At checkout, you will have an option to pay using your wallet.\n\n" +
+      "• Important Note:\n" +
+      "  Once the gift card is added to the wallet, the gift card amount will be transferred to the wallet and can no longer be used directly. The gift card amount can only be used within the Carrefour application.",
+    country: "Turkey",
+    price: 40.17,
+    related: "carrefour",
+  },
 ];

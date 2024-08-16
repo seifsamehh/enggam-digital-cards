@@ -173,6 +173,9 @@ const SubCategory = ({ params }: { params: { subCategory: string } }) => {
             <option value="Saudi Arabia">Saudi Arabia</option>
             <option value="Turkey">Turkey</option>
             <option value="Ireland">Ireland</option>
+            <option value="Romania">Romania</option>
+            <option value="Taiwan">Taiwan</option>
+            <option value="Italy">Italy</option>
           </select>
         </div>
 
