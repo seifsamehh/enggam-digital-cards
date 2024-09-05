@@ -1,4 +1,5 @@
 export const subCategories = [
+  // TODO: Add gift cards here
   {
     name: "Gift Cards",
     sub: [
@@ -151,7 +152,7 @@ export const subCategories = [
       },
     ],
   },
-
+  // TODO: Add game cards here
   {
     name: "Game Cards",
     sub: [
@@ -283,6 +284,7 @@ export const subCategories = [
       },
     ],
   },
+  // TODO: Add payment here
   {
     name: "Payment Cards",
     sub: [
@@ -595,36 +597,58 @@ export const subCategories = [
       },
     ],
   },
+  // TODO: Add software cards here
   {
     name: "Software Cards",
     sub: [
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "office",
-        description: "Buy office software cards",
-        path: "/home/software-cards/office",
+        title: "Hma Pro Vpn",
+        description: "Buy hma pro vpn software cards",
+        path: "/home/software-cards/hma-pro-vpn",
       },
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "office",
-        description: "Buy office software cards",
-        path: "/home/software-cards/office",
+        title: "Wtfast",
+        description: "Buy wtfast software cards",
+        path: "/home/software-cards/wtfast",
       },
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "office",
-        description: "Buy office software cards",
-        path: "/home/software-cards/office",
+        title: "Microsoft Office 2021 Lifetime",
+        description: "Buy microsoft office 2021 lifetime software cards",
+        path: "/home/software-cards/microsoft-office-2021-lifetime",
       },
       {
         imageUrl:
           "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
-        title: "office",
-        description: "Buy office software cards",
-        path: "/home/software-cards/office",
+        title: "Microsoft Office 2019 Professional Plus",
+        description: "Buy microsoft office 2019 professional plus software cards",
+        path: "/home/software-cards/microsoft-office-2019-professional-plus",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Norton Antivirus",
+        description: "Buy norton antivirus software cards",
+        path: "/home/software-cards/norton-antivirus",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Bitdefender Antivirus",
+        description: "Buy bitdefender antivirus software cards",
+        path: "/home/software-cards/bitdefender-antivirus",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Eset Nod32",
+        description: "Buy eset nod32 software cards",
+        path: "/home/software-cards/eset-nod32",
       },
     ],
   },

@@ -24260,4 +24260,214 @@ export const subCategoryProducts = [
     price: 40.17,
     related: "carrefour",
   },
+  // Software cards
+  // hma pro vpn
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "HMA PRO VPN 2 Years Subscription",
+    description:
+      "• Region: Global\n" +
+      "• How to Redeem:\n" +
+      "  1. Go to my.hidemyass.com and sign in.\n" +
+      "  2. Click Redeem activation code, then enter the activation key found in your email.\n" +
+      "  3. Your HMA subscription is now active.\n" +
+      "  4. Your activation code is shown in your HMA Account under 'Your HMA subscriptions'.\n" +
+      "• Learn more: https://support.hidemyass.com/hc/en-us/articles/360000120528-Activation-retail-keys-how-to-activate-your-license",
+    price: 30.90,
+    related: "hma-pro-vpn"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "HMA PRO VPN 3 Years Subscription",
+    description:
+      "• Region: Global\n" +
+      "• How to Redeem:\n" +
+      "  1. Go to my.hidemyass.com and sign in.\n" +
+      "  2. Click Redeem activation code, then enter the activation key found in your email.\n" +
+      "  3. Your HMA subscription is now active.\n" +
+      "  4. Your activation code is shown in your HMA Account under 'Your HMA subscriptions'.\n" +
+      "• Learn more: https://support.hidemyass.com/hc/en-us/articles/360000120528-Activation-retail-keys-how-to-activate-your-license",
+    price: 41.20,
+    related: "hma-pro-vpn"
+  },
+  // wtfast
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "WTFast 1 Month Subscription",
+    description:
+      "• Approximately WTFast:\n" +
+      "  Established in 2009 by a group of MMO gamers and technology experts, WTFast is committed to delivering the best gaming connection and experience possible for all MMO Gamers! Based in Kelowna, Canada, WTFast serves an 800 million worldwide MMO gaming community. WTFast supports over 800 MMO games with users on every continent.\n\n" +
+      "• What is WTFast?\n" +
+      "  WTFast is a Gamers Private Network (GPN) that optimizes and improves your connection from end to end. Take control of your gaming experience.\n\n" +
+      "• How to Redeem WTFast:\n" +
+      "  1. Login to your WTFast account and press 'Enter Key'.\n" +
+      "  2. Enter your WTFast key and press 'Activate'.",
+    price: 10.30,
+    related: "wtfast"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "WTFast 3 Months Subscription",
+    description:
+      "• Approximately WTFast:\n" +
+      "  Established in 2009 by a group of MMO gamers and technology experts, WTFast is committed to delivering the best gaming connection and experience possible for all MMO Gamers! Based in Kelowna, Canada, WTFast serves an 800 million worldwide MMO gaming community. WTFast supports over 800 MMO games with users on every continent.\n\n" +
+      "• What is WTFast?\n" +
+      "  WTFast is a Gamers Private Network (GPN) that optimizes and improves your connection from end to end. Take control of your gaming experience.\n\n" +
+      "• How to Redeem WTFast:\n" +
+      "  1. Login to your WTFast account and press 'Enter Key'.\n" +
+      "  2. Enter your WTFast key and press 'Activate'.",
+    price: 25.75,
+    related: "wtfast"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "WTFast 6 Months Subscription",
+    description:
+      "• Approximately WTFast:\n" +
+      "  Established in 2009 by a group of MMO gamers and technology experts, WTFast is committed to delivering the best gaming connection and experience possible for all MMO Gamers! Based in Kelowna, Canada, WTFast serves an 800 million worldwide MMO gaming community. WTFast supports over 800 MMO games with users on every continent.\n\n" +
+      "• What is WTFast?\n" +
+      "  WTFast is a Gamers Private Network (GPN) that optimizes and improves your connection from end to end. Take control of your gaming experience.\n\n" +
+      "• How to Redeem WTFast:\n" +
+      "  1. Login to your WTFast account and press 'Enter Key'.\n" +
+      "  2. Enter your WTFast key and press 'Activate'.",
+    price: 46.35,
+    related: "wtfast"
+  },
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "WTFast 12 Months Subscription",
+    description:
+      "• Approximately WTFast:\n" +
+      "  Established in 2009 by a group of MMO gamers and technology experts, WTFast is committed to delivering the best gaming connection and experience possible for all MMO Gamers! Based in Kelowna, Canada, WTFast serves an 800 million worldwide MMO gaming community. WTFast supports over 800 MMO games with users on every continent.\n\n" +
+      "• What is WTFast?\n" +
+      "  WTFast is a Gamers Private Network (GPN) that optimizes and improves your connection from end to end. Take control of your gaming experience.\n\n" +
+      "• How to Redeem WTFast:\n" +
+      "  1. Login to your WTFast account and press 'Enter Key'.\n" +
+      "  2. Enter your WTFast key and press 'Activate'.",
+    price: 85.49,
+    related: "wtfast"
+  },
+  // internet download manager
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Internet Download Manager (IDM) One Year Subscription",
+    description:
+      "• Internet Download Manager (IDM) is a tool that increases download speeds by up to 5 times, resumes and schedules downloads.\n" +
+      "• Key features:\n" +
+      "  - Comprehensive error recovery and resume capability.\n" +
+      "  - Simple graphic user interface making it user-friendly and easy to use.\n" +
+      "  - Smart download logic accelerator with dynamic file segmentation and safe multipart downloading technology.\n" +
+      "  - Supports proxy servers, FTP and HTTP protocols, firewalls, redirects, cookies, authorization, and audio/video content processing.\n" +
+      "  - Integrates seamlessly with major browsers including Microsoft Internet Explorer, Firefox, Opera, and others.\n" +
+      "  - Multilingual support, zip preview, download categories, and enhanced virus protection.\n" +
+      "• What's new in Version 6.38:\n" +
+      "  - Windows 10 compatibility, improved browser integration, redesigned scheduler, and MMS protocol support.\n\n" +
+      "• How to redeem:\n" +
+      "  1. Download and install Internet Download Manager.\n" +
+      "  2. Enter your IDM license key in the 'Registration' section to activate your subscription.",
+    price: 12.36,
+    related: "internet-download-manager"
+  },
+  // microsoft office 2021 lifetime
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Microsoft Office 2021 Key Lifetime",
+    description:
+      "• Office is now Microsoft 365, the premier productivity suite with innovative Office apps, intelligent cloud services, and world-class security.\n\n" +
+      "• Key features:\n" +
+      "  - Installation files for 32 & 64-bit systems.\n" +
+      "  - OEM product key.\n" +
+      "  - Free technical support.\n" +
+      "  - Genuine Microsoft Software.\n" +
+      "  - Lifetime license for 1 PC.\n" +
+      "  - Guaranteed activation.\n\n" +
+      "• Modernized Office:\n" +
+      "  Create content, stay organized, and collaborate with updated versions of Word, Excel, PowerPoint, and more in Office 2021.",
+    price: 13.40,
+    related: "microsoft-office-2021-lifetime"
+  },
+  // microsoft office 2019 professional plus
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Microsoft Office 2019 Professional Plus License Key",
+    description:
+      "• Microsoft Office 2019 Professional Plus digital license key for lifetime access.\n\n" +
+      "• Key features:\n" +
+      "  - Works with the original site setup.office.com.\n" +
+      "  - Lifetime access with support directly from Microsoft.\n" +
+      "  - Activation key code for 1 PC or laptop.\n" +
+      "  - Digital delivery only, no CD/DVD will be shipped.\n" +
+      "  - Compatible with both x86 (32-bit) and x64 (64-bit) versions of Windows 10.\n" +
+      "  - Activation key will be delivered via email within 1 to 12 hours after payment confirmation.",
+    price: 13.39,
+    related: "microsoft-office-2019-professional-plus"
+  },
+  // Norton Antivirus
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Norton Antivirus Subscription (3 Devices)",
+    description:
+      "• Norton™ provides industry-leading antivirus and security software for your PC, Mac, and mobile devices.\n\n" +
+      "• Key features:\n" +
+      "  - Protection for up to 3 devices.\n" +
+      "  - Advanced security against viruses, malware, and cyber threats.\n" +
+      "  - Protects your devices in real time with continuous updates.\n\n" +
+      "• How to download Norton:\n" +
+      "  Download your Norton 360 plan at [http://www.norton.com/setup](http://www.norton.com/setup).",
+    price: 30.90,
+    related: "norton-antivirus"
+  },
+  // bitdefender
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    name: "Bitdefender Total Security (3 Years, 1 PC, Middle East)",
+    description:
+      "• Bitdefender Total Security uses machine-learning technologies to block all cyber-threats without impacting your device’s performance.\n\n" +
+      "• Key features:\n" +
+      "  - Complete Data Protection: Eliminates threats like viruses, worms, Trojans, ransomware, zero-day exploits, rootkits, and spyware.\n" +
+      "  - Active Threat Control: Constantly monitors programs and tags suspicious activities.\n" +
+      "  - Ransomware Protection: Blocks all known and unknown ransomware from encrypting personal files.\n" +
+      "  - Bitdefender Photon™: Enhances speed and performance by adapting to your PC over time.\n" +
+      "  - Cloud Integration: Scans in the cloud, ensuring no strain on device performance.\n" +
+      "  - Game, Movie, Work Modes: Adjusts settings for distraction-free experiences during these activities.\n" +
+      "  - Bitdefender Autopilot™: Provides hassle-free, automatic security decisions with no user input.\n" +
+      "  - Fast and Secure Payments: Automatically fills in credentials during payments.\n" +
+      "  - Quick Vulnerability Scanner: Scans for outdated software and system vulnerabilities.\n\n" +
+      "• How to redeem:\n" +
+      "  Use the provided activation key to secure 3 years of protection for 1 PC in the Middle East region.",
+    price: 25.75,
+    related: "bitdefender-antivirus"
+  },
+  // eset-nod32
+  {
+    id: generateUniqueId(),
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1724396613/Enggam%20Digital%20Cards/2_rcwbwt.png",
+    name: "ESET NOD32 Internet Security (1 PC, 1 Year)",
+    description:
+      "• ESET NOD32 Antivirus 2020 offers advanced protection for your PC, trusted by over 110 million users worldwide.\n\n" +
+      "• Key features:\n" +
+      "  - Antivirus and Anti-Phishing: Securely browse the internet and protect against fake websites.\n" +
+      "  - Signature-light footprint: Built to be light on system resources, ensuring your PC remains fast.\n" +
+      "  - Fresh, user-friendly design: Redesigned for ease of use.\n" +
+      "  - Gamer Mode: Automatic protection without interrupting your gaming experience.\n" +
+      "  - Exploit Blocker and Advanced Memory Scanner: Protect against complex threats.\n" +
+      "  - Device Controller: Manage external devices connecting to your PC.\n\n" +
+      "• Supported operating systems:\n" +
+      "  Microsoft Windows 10, 8.1, 8, 7, and Windows Home Server.\n\n" +
+      "• How to redeem:\n" +
+      "  Download ESET NOD32 from the Eset website and activate it using the provided product key. This is a digital-only product, no physical CD/DVD included.",
+    price: 17.50,
+    related: "eset-nod32"
+  },
 ];
