@@ -603,14 +603,14 @@ export const subCategories = [
     sub: [
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605485/Enggam%20Digital%20Cards/hma_pro_vpn_mpxomn.png",
         title: "Hma Pro Vpn",
         description: "Buy hma pro vpn software cards",
         path: "/home/software-cards/hma-pro-vpn",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605625/Enggam%20Digital%20Cards/wtfast_byguu4.png",
         title: "Wtfast",
         description: "Buy wtfast software cards",
         path: "/home/software-cards/wtfast",
@@ -624,31 +624,38 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605398/Enggam%20Digital%20Cards/download_hwhpd2.png",
         title: "Microsoft Office 2019 Professional Plus",
         description: "Buy microsoft office 2019 professional plus software cards",
         path: "/home/software-cards/microsoft-office-2019-professional-plus",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605574/Enggam%20Digital%20Cards/norton_antivirus_kkvuuu.png",
         title: "Norton Antivirus",
         description: "Buy norton antivirus software cards",
         path: "/home/software-cards/norton-antivirus",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605189/Enggam%20Digital%20Cards/bitdefender_antivirus_xkc1v5.png",
         title: "Bitdefender Antivirus",
         description: "Buy bitdefender antivirus software cards",
         path: "/home/software-cards/bitdefender-antivirus",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605307/Enggam%20Digital%20Cards/download_abvc2w.jpg",
         title: "Eset Nod32",
         description: "Buy eset nod32 software cards",
         path: "/home/software-cards/eset-nod32",
+      },
+      {
+        imageUrl:
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+        title: "Internet Download Manager",
+        description: "Buy internet download manager software cards",
+        path: "/home/software-cards/internet-download-manager",
       },
     ],
   },

@@ -24264,7 +24264,7 @@ export const subCategoryProducts = [
   // hma pro vpn
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605485/Enggam%20Digital%20Cards/hma_pro_vpn_mpxomn.png",
     name: "HMA PRO VPN 2 Years Subscription",
     description:
       "• Region: Global\n" +
@@ -24279,7 +24279,7 @@ export const subCategoryProducts = [
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605485/Enggam%20Digital%20Cards/hma_pro_vpn_mpxomn.png",
     name: "HMA PRO VPN 3 Years Subscription",
     description:
       "• Region: Global\n" +
@@ -24295,7 +24295,7 @@ export const subCategoryProducts = [
   // wtfast
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605625/Enggam%20Digital%20Cards/wtfast_byguu4.png",
     name: "WTFast 1 Month Subscription",
     description:
       "• Approximately WTFast:\n" +
@@ -24310,7 +24310,7 @@ export const subCategoryProducts = [
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605625/Enggam%20Digital%20Cards/wtfast_byguu4.png",
     name: "WTFast 3 Months Subscription",
     description:
       "• Approximately WTFast:\n" +
@@ -24325,7 +24325,7 @@ export const subCategoryProducts = [
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605625/Enggam%20Digital%20Cards/wtfast_byguu4.png",
     name: "WTFast 6 Months Subscription",
     description:
       "• Approximately WTFast:\n" +
@@ -24340,7 +24340,7 @@ export const subCategoryProducts = [
   },
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605625/Enggam%20Digital%20Cards/wtfast_byguu4.png",
     name: "WTFast 12 Months Subscription",
     description:
       "• Approximately WTFast:\n" +
@@ -24397,7 +24397,7 @@ export const subCategoryProducts = [
   // microsoft office 2019 professional plus
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605398/Enggam%20Digital%20Cards/download_hwhpd2.png",
     name: "Microsoft Office 2019 Professional Plus License Key",
     description:
       "• Microsoft Office 2019 Professional Plus digital license key for lifetime access.\n\n" +
@@ -24414,7 +24414,7 @@ export const subCategoryProducts = [
   // Norton Antivirus
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605574/Enggam%20Digital%20Cards/norton_antivirus_kkvuuu.png",
     name: "Norton Antivirus Subscription (3 Devices)",
     description:
       "• Norton™ provides industry-leading antivirus and security software for your PC, Mac, and mobile devices.\n\n" +
@@ -24430,7 +24430,7 @@ export const subCategoryProducts = [
   // bitdefender
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605189/Enggam%20Digital%20Cards/bitdefender_antivirus_xkc1v5.png",
     name: "Bitdefender Total Security (3 Years, 1 PC, Middle East)",
     description:
       "• Bitdefender Total Security uses machine-learning technologies to block all cyber-threats without impacting your device’s performance.\n\n" +
@@ -24452,7 +24452,7 @@ export const subCategoryProducts = [
   // eset-nod32
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1724396613/Enggam%20Digital%20Cards/2_rcwbwt.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605307/Enggam%20Digital%20Cards/download_abvc2w.jpg",
     name: "ESET NOD32 Internet Security (1 PC, 1 Year)",
     description:
       "• ESET NOD32 Antivirus 2020 offers advanced protection for your PC, trusted by over 110 million users worldwide.\n\n" +
