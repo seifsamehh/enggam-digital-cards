@@ -36,8 +36,6 @@ const ProductDetails = () => {
     const fetchProduct = () => {
       const allProducts = [...sellerProducts, ...saleProducts];
 
-      console.log(allProducts);
-
       const foundProduct = allProducts.find(
         (item) => item.id === params.productId
       );
