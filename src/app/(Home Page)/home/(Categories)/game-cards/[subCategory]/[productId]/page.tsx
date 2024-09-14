@@ -11,6 +11,11 @@ import { toast } from "sonner";
 import HeaderHome from "@/components/shared/HeaderHome";
 import { useEffect, useState } from "react";
 import { subCategoryProducts } from "../../../../../../../../constants/subCategoriesProducts";
+import { Swiper, SwiperSlide } from 'swiper/react';
+import { Navigation, Pagination } from 'swiper/modules';
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
 import localFont from "next/font/local";
 
 // Tanker font
@@ -28,12 +33,11 @@ const tanker = localFont({
 const SubProductDetails = () => {
   const params = useParams<{ productId: string }>();
   const [product, setProduct] = useState<Product | null>(null);
+  const [randomProducts, setRandomProducts] = useState<Product[]>([]);
 
   useEffect(() => {
     const fetchProduct = () => {
       const allProducts = [...subCategoryProducts];
-
-      console.log(allProducts);
 
       const foundProduct = allProducts.find(
         (item) => item.id === params.productId
@@ -47,6 +51,16 @@ const SubProductDetails = () => {
 
     fetchProduct();
   }, [params.productId]);
+
+  useEffect(() => {
+    const getRandomProducts = () => {
+      const allProducts = [...subCategoryProducts];
+      const shuffled = allProducts.sort(() => 0.5 - Math.random());
+      return shuffled.slice(0, 5); // Select 5 random products
+    };
+  
+    setRandomProducts(getRandomProducts());
+  }, []);
 
   const handleAddToCart = (product: Product) => {
     useProductStore.getState().addToCart(product);
@@ -71,7 +85,8 @@ const SubProductDetails = () => {
     <>
       <HeaderHome />
       {product ? (
-        <section className="product-details py-6 relative">
+        <>
+                <section className="product-details py-6 relative">
           <div className="container flex justify-around items-start gap-8 flex-wrap lg:flex-nowrap">
             <div className="left">
               <Image
@@ -117,6 +132,42 @@ const SubProductDetails = () => {
             </div>
           </div>
         </section>
+          <section className="random-products py-6">
+          <div className="container">
+            <h2 className={`${tanker.className} text-4xl mb-4`}>You may also like</h2>
+            <Swiper
+              modules={[Navigation, Pagination]}
+              spaceBetween={20}
+              slidesPerView={3}
+              navigation
+              pagination={{ clickable: true }}
+            >
+              {randomProducts.map((randomProduct) => (
+                <SwiperSlide key={randomProduct.id}>
+                  <div className="product-card">
+                    <Image
+                      src={randomProduct.image!}
+                      alt={randomProduct.name}
+                      width={200}
+                      height={200}
+                      className="rounded-md object-cover"
+                    />
+                    <h3 className="text-lg mt-2">{randomProduct.name}</h3>
+                    <p className="text-sm text-gray-500">${randomProduct.price}</p>
+                    <Button
+                      variant="outline"
+                      className="mt-2"
+                      onClick={() => handleAddToCart(randomProduct)}
+                    >
+                      Add to cart
+                    </Button>
+                  </div>
+                </SwiperSlide>
+              ))}
+            </Swiper>
+          </div>
+        </section>
+        </>
       ) : (
         <section className="product-not-found min-h-screen flex justify-center items-center flex-col gap-6">
           <Image
