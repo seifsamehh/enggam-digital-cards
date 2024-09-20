@@ -617,7 +617,7 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1726817630/Enggam%20Digital%20Cards/microsoft_office_2021_umia0c.png",
         title: "Microsoft Office 2021 Lifetime",
         description: "Buy microsoft office 2021 lifetime software cards",
         path: "/home/software-cards/microsoft-office-2021-lifetime",
@@ -645,14 +645,14 @@ export const subCategories = [
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605307/Enggam%20Digital%20Cards/download_abvc2w.jpg",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1726817533/Enggam%20Digital%20Cards/00_qd2kp3.png",
         title: "Eset Nod32",
         description: "Buy eset nod32 software cards",
         path: "/home/software-cards/eset-nod32",
       },
       {
         imageUrl:
-          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+          "https://res.cloudinary.com/dp9iqarvw/image/upload/v1726817573/Enggam%20Digital%20Cards/00000_vsyv19.png",
         title: "Internet Download Manager",
         description: "Buy internet download manager software cards",
         path: "/home/software-cards/internet-download-manager",

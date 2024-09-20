@@ -6624,7 +6624,7 @@ export const subCategoryProducts = [
       "1. Sign in to PlayStation Network on your PS5, PS4, or PC using Media Go.\n" +
       "2. Go to PlayStation Store and select the PlayStation Now subscription.\n" +
       "3. Follow the on-screen instructions to complete your subscription.",
-    price: 25.75,
+    price: 30.90,
     country: "USA",
     related: "playstation",
   },
@@ -9164,7 +9164,7 @@ export const subCategoryProducts = [
       "2. Go to the [Steam Wallet Code Redemption Page].\n" +
       "3. Enter the Steam Wallet Code copied from your SEAGM Member account My Game Card page and press Proceed.\n" +
       "4. The funds will be added to your account and ready for use to buy games on STEAM!",
-    price: 15.45,
+    price: 11.33,
     country: "Turkey",
     related: "steam",
   },
@@ -13132,7 +13132,7 @@ export const subCategoryProducts = [
       "2. Enter the code, and then click ok to redeem.\n" +
       "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
       "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
-    price: 4.25,
+    price: 4.35,
     country: "Global",
     related: "pubg-game",
   },
@@ -13212,7 +13212,7 @@ export const subCategoryProducts = [
       "2. Enter the code, and then click ok to redeem.\n" +
       "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
       "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
-    price: 178.19,
+    price: 175.10,
     country: "Global",
     related: "pubg-game",
   },
@@ -13228,7 +13228,7 @@ export const subCategoryProducts = [
       "2. Enter the code, and then click ok to redeem.\n" +
       "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
       "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
-    price: 265.74,
+    price: 262.60,
     country: "Global",
     related: "pubg-game",
   },
@@ -13244,7 +13244,7 @@ export const subCategoryProducts = [
       "2. Enter the code, and then click ok to redeem.\n" +
       "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
       "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
-    price: 352.26,
+    price: 350.20,
     country: "Global",
     related: "pubg-game",
   },
@@ -13260,7 +13260,7 @@ export const subCategoryProducts = [
       "2. Enter the code, and then click ok to redeem.\n" +
       "3. You will get the UC in your PUBG Mobile account immediately after redemption.\n\n" +
       "Note: This product is not applicable for China / Japanese / Korean / Taiwan / Vietnam servers.",
-    price: 463.5,
+    price: 435.69,
     country: "Global",
     related: "pubg-game",
   },
@@ -13487,7 +13487,7 @@ export const subCategoryProducts = [
       "About Free Fire Diamond Pins (Garena)\n" +
       "Free Fire (Garena) is the extreme survival shooter diversion accessible on portable. Each 10-minute amusement places you on a inaccessible island where you're pit against 49 other players, all looking for survival.\n\n" +
       "Players unreservedly select their beginning point with their parachutes and aim to remain within the secure zone for as long as conceivable. Drive vehicles to investigate the tremendous outline, cover up in trenches, or ended up undetectable by proning beneath grass. Trap, kill, survive, there's as it were one objective: to outlive and ended up the pinnacle of them all.",
-    price: 4.94,
+    price: 5.00,
     country: "Global",
     related: "freefire",
   },
@@ -13583,7 +13583,7 @@ export const subCategoryProducts = [
       "About Free Fire Diamond Pins (Garena)\n" +
       "Free Fire (Garena) is the extreme survival shooter game available on mobile. Each 10-minute game places you on a remote island where you are pit against 49 other players, all looking for survival.\n\n" +
       "Players freely select their starting point with their parachutes and aim to stay in the safe zone for as long as possible. Drive vehicles to explore the vast map, hide in trenches, or become invisible by proning under grass. Ambush, snipe, survive, there is only one goal: to survive and become the apex of them all.",
-    price: 4.94,
+    price: 5.00,
     country: "Brazil",
     related: "freefire",
   },
@@ -24356,7 +24356,7 @@ export const subCategoryProducts = [
   // internet download manager
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1726817573/Enggam%20Digital%20Cards/00000_vsyv19.png",
     name: "Internet Download Manager (IDM) One Year Subscription",
     description:
       "• Internet Download Manager (IDM) is a tool that increases download speeds by up to 5 times, resumes and schedules downloads.\n" +
@@ -24378,7 +24378,7 @@ export const subCategoryProducts = [
   // microsoft office 2021 lifetime
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1709456772/Enggam/maskable_icon_p0oanz.png",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1726817630/Enggam%20Digital%20Cards/microsoft_office_2021_umia0c.png",
     name: "Microsoft Office 2021 Key Lifetime",
     description:
       "• Office is now Microsoft 365, the premier productivity suite with innovative Office apps, intelligent cloud services, and world-class security.\n\n" +
@@ -24452,7 +24452,7 @@ export const subCategoryProducts = [
   // eset-nod32
   {
     id: generateUniqueId(),
-    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1725605307/Enggam%20Digital%20Cards/download_abvc2w.jpg",
+    image: "https://res.cloudinary.com/dp9iqarvw/image/upload/v1726817533/Enggam%20Digital%20Cards/00_qd2kp3.png",
     name: "ESET NOD32 Internet Security (1 PC, 1 Year)",
     description:
       "• ESET NOD32 Antivirus 2020 offers advanced protection for your PC, trusted by over 110 million users worldwide.\n\n" +
